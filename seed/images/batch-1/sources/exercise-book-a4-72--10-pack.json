@@ -1,0 +1,14 @@
+{
+  "id": "exercise-book-a4-72--10-pack",
+  "product": "exercise-book-a4-72",
+  "option": "10-pack",
+  "kind": "pack-edit",
+  "revision": 1,
+  "base": "C:/dev/alertStationers/seed/images/products/exercise-book-a4-72--single.png",
+  "prompt": "Use case: precise-object-edit. Edit target is the attached single A4 exercise book. Create the TEN-PACK OPTION by adding exactly NINE identical thin 72-page books immediately beneath this one, making TEN books TOTAL, and tie the stack with a simple neutral paper cord as requested by the shot list. Preserve the original top book's pale powder-blue cover, completely BLANK white rectangular name panel, cover proportions, texture, pose, perspective and camera angle. All ten books have exactly the same cover and page-block geometry, no redesign. Ten distinct cover/page-block layers must be countable along the front edge. This is not a camera-angle change: retain the same portrait three-quarter view and forward tilt as the original single book, do not flatten or rotate it into a different pose. Soft upper-left studio key, right fill, neutral balance. Centre the complete stack at approximately 75% fill on the longest side with clear margins. True transparent PNG alpha, no surface, contact shadow, backdrop, text, numbers, logos, people or hands. One stack only, not eleven books.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-6ce33450-fbb5-4b4b-aec7-c3fc938d94b0.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

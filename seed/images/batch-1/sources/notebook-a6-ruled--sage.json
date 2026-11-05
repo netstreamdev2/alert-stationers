@@ -1,0 +1,15 @@
+{
+  "product": "notebook-a6-ruled",
+  "base": "C:/dev/alertStationers/seed/images/products/notebook-a6-ruled--navy.png",
+  "key": "sage",
+  "hex": "#9DB09A",
+  "part": "navy cloth cover and spine only",
+  "id": "notebook-a6-ruled--sage",
+  "kind": "colour-edit",
+  "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET. Change ONLY the colour of the navy cloth cover and spine only to material base swatch #9DB09A (sage). Preserve all geometry, pose, perspective, object boundaries, framing, location, scale, fine texture, shadows/highlights, optical focus and all other pixels. Do not redraw, restyle, reframe, zoom or rotate. The result must overlay the original perfectly. White paper and neutral silver/grey parts must remain unchanged. Preserve transparent alpha background; no new shadow. Output one square RGBA PNG, 2000x2000, same canvas as input. No text, brands, logos, numerals, watermarks, hands, people or extra objects.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-2f60229a-f57e-41d3-bcf3-90a810a62de7.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

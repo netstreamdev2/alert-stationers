@@ -1,0 +1,11 @@
+{
+  "id": "graph-book-a4",
+  "product": "graph-book-a4",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A4 Graph Paper Book. Specifications: Size: A4; Pages: 72; Grid: 5mm. Shot notes: Open to show the grid. Subject: ONE A4 72-page graph-paper exercise book open to two visible pages of a physically regular, evenly spaced 5mm pale-grey SQUARE grid. White paper, plain pale cover edge, centre binding crease. No numbers, formulas or letters. Camera a little steeper to read the flat pages, as for the approved open maths tin; no extra books.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-972d303a-b806-46a8-8f61-bdc8cf07fff1.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

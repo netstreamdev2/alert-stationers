@@ -1,0 +1,16 @@
+{
+  "product": "mechanical-pencil-05",
+  "base": "C:/dev/alertStationers/seed/images/products/mechanical-pencil-05--pink.png",
+  "key": "teal",
+  "hex": "#1F7A7A",
+  "part": "dark-pink barrel only",
+  "id": "mechanical-pencil-05--teal",
+  "kind": "colour-edit",
+  "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a mood reference. Change ONLY the colour of the dark-pink barrel only to match material base swatch #1F7A7A (teal). Preserve absolutely all geometry, pose, perspective, exact object boundaries, framing, location, scale, surface texture, shadow/highlight pattern, stitching/weave, optical focus and every other pixel. Do not redraw, restyle, reframe, zoom or rotate. The result must overlay the original perfectly. Preserve the original white paper or neutral silver parts unchanged. Preserve the entire transparent background and all alpha edges, no new shadow. Output one square RGBA PNG, 2000x2000, matching the input canvas. No people, hands, text, labels, logos, numerals, watermarks or extra objects.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-e9357884-561f-4dcd-b07c-e9e86ea9c60a.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "generated-awaiting-pose-QA",
+  "rejectionReason": "Background residue and pose drift"
+}

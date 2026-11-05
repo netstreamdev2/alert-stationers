@@ -24,6 +24,10 @@ Thumbs.db
 # logs
 *.log
 
+# Astra's full-size photo originals stay local (1–3 MB each); `pnpm images`
+# publishes small WebP copies to apps/web/public/seed/products/, which are committed.
+seed/images/**/*.png
+
 # test output
 coverage/
 test-results/

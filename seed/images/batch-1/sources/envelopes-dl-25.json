@@ -1,0 +1,11 @@
+{
+  "id": "envelopes-dl-25",
+  "product": "envelopes-dl-25",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: DL Envelopes, 25-pack. Specifications: Size: DL; Dimensions: 220 × 110mm; Pack size: 25. Shot notes: White envelopes, fanned. Subject: Exactly TWENTY-FIVE plain white DL envelopes of 220 by 110mm, arranged in FIVE neat little fan groups with exactly FIVE envelopes in each, all groups close enough to read as one 25-pack. The flap edges define five distinct envelopes per group. No extra cards or sheets, no stamps, addresses, windows, text or graphics. Real matte white paper and folded seams.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-d1f566ea-f186-4bcb-a78a-2384af9e2b89.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "exercise-book-a5-32",
+  "product": "exercise-book-a5-32",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A5 Exercise Book, 32 pages. Specifications: Size: A5; Pages: 32; Ruling: Feint ruled. Shot notes: Pale blue exercise book with a blank name panel. Subject: ONE thin A5 32-page exercise book with a pale-blue paper cover and ONE blank rectangular white name panel. Closed, portrait A5 proportions, only a thin white paper block at the edge. Match the restrained three-quarter book pose of the approved blush notebook. No text, printed rules in the panel, glyphs or branding.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-444d8314-4d49-456f-b147-bb17f8653529.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

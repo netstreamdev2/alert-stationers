@@ -49,9 +49,16 @@
   /* Device frames in product mock-ups */
   --device: #0b0a0b;
 
+  /* Printed paper in illustrations: stays paper-white in both themes */
+  --sheet: #fffdf8;
+  --on-sheet: #1f1b1e;
+  --sheet-rule: rgb(31 27 30 / 0.12);
+
   --rule: color-mix(in oklab, var(--ink) 8%, transparent);
   --focus: var(--pink);
   --lift: 0 1px 2px rgb(31 27 30 / 0.05), 0 20px 44px -20px rgb(31 27 30 / 0.3);
+  /* Grounds a product cut-out on its tile */
+  --shot-shadow: drop-shadow(0 14px 14px rgb(31 27 30 / 0.16));
 
   /* Motion: brisk, forward, settles with a small overshoot */
   --e-snap: cubic-bezier(0.3, 1.35, 0.5, 1);
@@ -90,6 +97,7 @@
     --error: #ff7a4d;
 
     --lift: 0 1px 2px rgb(0 0 0 / 0.4), 0 20px 44px -20px rgb(0 0 0 / 0.75);
+    --shot-shadow: drop-shadow(0 14px 14px rgb(0 0 0 / 0.45));
   }
 }
 
@@ -129,7 +137,11 @@
   --color-warning: var(--warning);
   --color-error: var(--error);
   --color-device: var(--device);
+  --color-sheet: var(--sheet);
+  --color-on-sheet: var(--on-sheet);
+  --color-sheet-rule: var(--sheet-rule);
 
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
   --font-display: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
   --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
@@ -301,33 +313,239 @@
   }
 }
 
-/* Live indicator */
-.live-dot {
-  position: relative;
-  display: inline-block;
-  width: 0.5rem;
-  height: 0.5rem;
-  border-radius: 999px;
-  background: var(--success);
+/* Live indicator: a pulse line that draws itself in, holds, then sweeps out */
+.pulse-line path {
+  stroke-dasharray: 32;
+  stroke-dashoffset: 32;
+  animation: pulse-draw 2.8s var(--e-glide) infinite;
 }
-.live-dot::after {
-  content: "";
+@keyframes pulse-draw {
+  0% {
+    stroke-dashoffset: 32;
+  }
+  45%,
+  75% {
+    stroke-dashoffset: 0;
+  }
+  100% {
+    stroke-dashoffset: -32;
+  }
+}
+
+.product-shot {
+  filter: var(--shot-shadow);
+}
+
+/* Add to bag: pink fill sweeps across while adding */
+.add-sweep {
   position: absolute;
   inset: 0;
-  border-radius: inherit;
-  background: inherit;
-  animation: ping 1.8s var(--e-glide) infinite;
+  z-index: -1;
+  background: var(--brand);
+  transform: scaleX(0);
+  transform-origin: left center;
 }
-@keyframes ping {
-  0% {
-    transform: scale(1);
-    opacity: 0.6;
+.add-btn[data-pending] .add-sweep {
+  animation: add-sweep 0.9s var(--e-glide) forwards;
+}
+@keyframes add-sweep {
+  to {
+    transform: scaleX(0.92);
   }
-  80%,
+}
+
+/* ---------------------- App preview (/app) ---------------------- */
+.sim-frame {
+  box-shadow:
+    inset 0 0 0 2px rgb(255 255 255 / 0.08),
+    0 0 0 1.5px rgb(255 255 255 / 0.06),
+    0 50px 90px -40px rgb(0 0 0 / 0.55);
+}
+/* Over the screen the mouse becomes a touch point; nothing drags or selects like on a desktop */
+.sim-screen,
+.sim-screen * {
+  cursor: none !important;
+}
+.sim-screen {
+  user-select: none;
+  -webkit-user-select: none;
+}
+.sim-screen img {
+  -webkit-user-drag: none;
+  pointer-events: none;
+}
+.sim-touch {
+  position: absolute;
+  left: -17px;
+  top: -17px;
+  z-index: 60;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  background: rgb(31 27 30 / 0.22);
+  box-shadow: 0 0 0 1.5px rgb(255 255 255 / 0.85), 0 2px 8px rgb(0 0 0 / 0.2);
+  pointer-events: none;
+  opacity: 0;
+  scale: 1;
+  transition:
+    opacity 0.15s,
+    scale 0.12s var(--e-glide),
+    background-color 0.12s;
+}
+.sim-touch[data-visible] {
+  opacity: 1;
+}
+.sim-touch[data-down] {
+  scale: 0.78;
+  background: rgb(31 27 30 / 0.38);
+}
+.sim-track {
+  transition: transform 0.5s var(--e-glide);
+}
+.sim-track[data-dragging] {
+  transition: none;
+}
+.sim-float {
+  animation: sim-float 6s ease-in-out infinite;
+}
+@keyframes sim-float {
+  0%,
   100% {
-    transform: scale(2.8);
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -10px;
+  }
+}
+.sim-push {
+  animation: sim-push 0.42s var(--e-glide) both;
+}
+@keyframes sim-push {
+  from {
+    translate: 30% 0;
     opacity: 0;
   }
+}
+.sim-pop {
+  animation: sim-pop 0.36s var(--e-glide) both;
+}
+@keyframes sim-pop {
+  from {
+    translate: -18% 0;
+    opacity: 0;
+  }
+}
+.sim-fade {
+  animation: fade-in 0.3s var(--e-glide) both;
+}
+.sim-sheet {
+  animation: sim-sheet 0.45s var(--e-glide) both;
+}
+@keyframes sim-sheet {
+  from {
+    translate: 0 100%;
+  }
+}
+.sim-toast {
+  animation: sim-toast 2.6s var(--e-glide) both;
+}
+@keyframes sim-toast {
+  0% {
+    translate: 0 -120%;
+    opacity: 0;
+  }
+  10%,
+  85% {
+    translate: 0 0;
+    opacity: 1;
+  }
+  100% {
+    translate: 0 -40%;
+    opacity: 0;
+  }
+}
+/* Onboarding slide 2: a laser sweeps the printed list and lines get highlighted */
+.sim-laser {
+  animation: sim-laser 2.8s linear infinite;
+}
+@keyframes sim-laser {
+  from {
+    top: 0;
+  }
+  to {
+    top: 100%;
+  }
+}
+.sim-tick-line {
+  background-image: linear-gradient(color-mix(in oklab, var(--magenta) 40%, transparent), color-mix(in oklab, var(--magenta) 40%, transparent));
+  background-repeat: no-repeat;
+  background-size: 0% 100%;
+  animation: sim-highlight 2.8s var(--e-glide) infinite;
+}
+@keyframes sim-highlight {
+  0% {
+    background-size: 0% 100%;
+  }
+  12%,
+  88% {
+    background-size: 100% 100%;
+  }
+  100% {
+    background-size: 0% 100%;
+  }
+}
+
+/* Photo swap on the product page */
+.fade-in {
+  animation: fade-in 0.35s var(--e-glide);
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+}
+
+/* A tick that draws itself */
+.check-draw path {
+  stroke-dasharray: 22;
+  stroke-dashoffset: 22;
+  animation: tick-draw 0.35s var(--e-glide) 0.05s forwards;
+}
+
+/* Bag count pops when it goes up */
+.bag-pop {
+  animation: bag-pop 0.5s var(--e-snap);
+}
+@keyframes bag-pop {
+  0% {
+    transform: scale(0.4);
+  }
+  60% {
+    transform: scale(1.35);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* The product picture flying into the bag */
+.fly-ghost {
+  position: fixed;
+  z-index: 100;
+  pointer-events: none;
+  will-change: transform, opacity;
+}
+.fly-ghost img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: var(--shot-shadow);
+}
+.fly-ghost--dot {
+  border-radius: 999px;
+  background: var(--brand);
+  box-shadow: var(--lift);
 }
 
 /* A colour swatch that's sold out: struck through */
@@ -352,65 +570,19 @@
   );
 }
 
-/* Web ↔ app sync demo (loops; see OneBag section) */
-.sync-row,
-.sync-toast {
-  animation: sync-in 9s var(--e-glide) infinite;
-  animation-delay: var(--d, 0s);
+/* Scan line in the app demo: a magenta laser with a soft glow trailing above it */
+.scan-laser {
+  height: 2px;
+  background: var(--magenta);
+  box-shadow: 0 0 0.8em 0.12em color-mix(in oklab, var(--magenta) 70%, transparent);
 }
-@keyframes sync-in {
-  0%,
-  18% {
-    opacity: 0;
-    transform: translateY(-6px);
-  }
-  24%,
-  88% {
-    opacity: 1;
-    transform: none;
-  }
-  95%,
-  100% {
-    opacity: 0;
-    transform: none;
-  }
-}
-.sync-before {
-  animation: sync-before 9s linear infinite;
-  animation-delay: var(--d, 0s);
-}
-.sync-after {
-  opacity: 0;
-  animation: sync-after 9s linear infinite;
-  animation-delay: var(--d, 0s);
-}
-@keyframes sync-before {
-  0%,
-  22% {
-    opacity: 1;
-  }
-  24%,
-  93% {
-    opacity: 0;
-  }
-  95%,
-  100% {
-    opacity: 1;
-  }
-}
-@keyframes sync-after {
-  0%,
-  22% {
-    opacity: 0;
-  }
-  24%,
-  93% {
-    opacity: 1;
-  }
-  95%,
-  100% {
-    opacity: 0;
-  }
+.scan-laser::before {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  bottom: 0;
+  height: 2.6em;
+  background: linear-gradient(to top, color-mix(in oklab, var(--magenta) 22%, transparent), transparent);
 }
 
 /* Sections ease in as they scroll into view (where supported) */
@@ -475,19 +647,9 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-  /* Looping demos: show their final, meaningful state instead */
-  .sync-row,
-  .sync-toast,
-  .sync-before,
-  .sync-after {
+  /* Looping indicators: show their final, meaningful state instead */
+  .pulse-line path {
     animation: none !important;
-  }
-  .sync-row,
-  .sync-toast,
-  .sync-after {
-    opacity: 1;
-  }
-  .sync-before {
-    opacity: 0;
+    stroke-dashoffset: 0;
   }
 }

@@ -1,0 +1,157 @@
+{
+  "products": {
+    "acrylic-paint-12": {
+      "main": "/seed/products/acrylic-paint-12.webp"
+    },
+    "backpack-25l": {
+      "options": {
+        "navy": "/seed/products/backpack-25l--navy.webp"
+      }
+    },
+    "ballpoint-pen-retractable": {
+      "options": {
+        "black": "/seed/products/ballpoint-pen-retractable--black.webp",
+        "blue": "/seed/products/ballpoint-pen-retractable--blue.webp",
+        "red": "/seed/products/ballpoint-pen-retractable--red.webp"
+      }
+    },
+    "ballpoint-pens-black-10": {
+      "main": "/seed/products/ballpoint-pens-black-10.webp"
+    },
+    "ballpoint-pens-blue-10": {
+      "main": "/seed/products/ballpoint-pens-blue-10.webp"
+    },
+    "coloured-paper-a4-100": {
+      "main": "/seed/products/coloured-paper-a4-100.webp"
+    },
+    "correction-fluid-20ml": {
+      "main": "/seed/products/correction-fluid-20ml.webp"
+    },
+    "correction-tape-5mm": {
+      "main": "/seed/products/correction-tape-5mm.webp"
+    },
+    "envelopes-c4-10": {
+      "main": "/seed/products/envelopes-c4-10.webp"
+    },
+    "envelopes-dl-25": {
+      "main": "/seed/products/envelopes-dl-25.webp"
+    },
+    "exercise-book-a4-72": {
+      "options": {
+        "10-pack": "/seed/products/exercise-book-a4-72--10-pack.webp",
+        "single": "/seed/products/exercise-book-a4-72--single.webp"
+      }
+    },
+    "exercise-book-a4-quad-96": {
+      "main": "/seed/products/exercise-book-a4-quad-96.webp"
+    },
+    "exercise-book-a5-32": {
+      "main": "/seed/products/exercise-book-a5-32.webp"
+    },
+    "fineliner-black-03": {
+      "main": "/seed/products/fineliner-black-03.webp"
+    },
+    "fineliners-10": {
+      "main": "/seed/products/fineliners-10.webp"
+    },
+    "fountain-ink-cartridges-blue-6": {
+      "main": "/seed/products/fountain-ink-cartridges-blue-6.webp"
+    },
+    "fountain-pen-steel": {
+      "main": "/seed/products/fountain-pen-steel.webp"
+    },
+    "gel-pen-black-07": {
+      "main": "/seed/products/gel-pen-black-07.webp"
+    },
+    "gel-pens-6": {
+      "main": "/seed/products/gel-pens-6.webp"
+    },
+    "graph-book-a4": {
+      "main": "/seed/products/graph-book-a4.webp"
+    },
+    "graph-pad-a4-50": {
+      "main": "/seed/products/graph-pad-a4-50.webp"
+    },
+    "hardcover-book-a4-192": {
+      "main": "/seed/products/hardcover-book-a4-192.webp"
+    },
+    "hardcover-book-a5-192": {
+      "main": "/seed/products/hardcover-book-a5-192.webp"
+    },
+    "hb-pencils-12": {
+      "main": "/seed/products/hb-pencils-12.webp"
+    },
+    "highlighter-pastel-6": {
+      "main": "/seed/products/highlighter-pastel-6.webp"
+    },
+    "highlighters-4": {
+      "main": "/seed/products/highlighters-4.webp"
+    },
+    "index-cards-a6-100": {
+      "main": "/seed/products/index-cards-a6-100.webp"
+    },
+    "maths-set-9": {
+      "main": "/seed/products/maths-set-9.webp"
+    },
+    "mechanical-leads-05-hb": {
+      "main": "/seed/products/mechanical-leads-05-hb.webp"
+    },
+    "mechanical-pencil-05": {
+      "options": {
+        "black": "/seed/products/mechanical-pencil-05--black.webp",
+        "pink": "/seed/products/mechanical-pencil-05--pink.webp",
+        "teal": "/seed/products/mechanical-pencil-05--teal.webp"
+      }
+    },
+    "notebook-a5-dotted": {
+      "options": {
+        "blush": "/seed/products/notebook-a5-dotted--blush.webp",
+        "ink": "/seed/products/notebook-a5-dotted--ink.webp",
+        "sage": "/seed/products/notebook-a5-dotted--sage.webp"
+      }
+    },
+    "notebook-a6-ruled": {
+      "options": {
+        "blush": "/seed/products/notebook-a6-ruled--blush.webp",
+        "navy": "/seed/products/notebook-a6-ruled--navy.webp",
+        "sage": "/seed/products/notebook-a6-ruled--sage.webp"
+      }
+    },
+    "notepad-a4-spiral": {
+      "main": "/seed/products/notepad-a4-spiral.webp"
+    },
+    "notepad-a5-topbound": {
+      "main": "/seed/products/notepad-a5-topbound.webp"
+    },
+    "pencils-2b-6": {
+      "main": "/seed/products/pencils-2b-6.webp"
+    },
+    "permanent-markers-black-2": {
+      "main": "/seed/products/permanent-markers-black-2.webp"
+    },
+    "printing-paper-a3-80": {
+      "main": "/seed/products/printing-paper-a3-80.webp"
+    },
+    "printing-paper-a4-80": {
+      "main": "/seed/products/printing-paper-a4-80.webp"
+    },
+    "rollerball-pen-metal": {
+      "main": "/seed/products/rollerball-pen-metal.webp"
+    },
+    "stapler-full-strip": {
+      "main": "/seed/products/stapler-full-strip.webp"
+    },
+    "sticky-flags-5": {
+      "main": "/seed/products/sticky-flags-5.webp"
+    },
+    "sticky-notes-76-4": {
+      "main": "/seed/products/sticky-notes-76-4.webp"
+    },
+    "tracing-paper-a4-50": {
+      "main": "/seed/products/tracing-paper-a4-50.webp"
+    },
+    "whiteboard-markers-4": {
+      "main": "/seed/products/whiteboard-markers-4.webp"
+    }
+  }
+}

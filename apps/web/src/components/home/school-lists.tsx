@@ -8,7 +8,7 @@ import {
 } from "@alert/core";
 import Link from "next/link";
 import { CheckIcon } from "@/components/icons";
-import { ArrowCircle } from "@/components/ui";
+import { ArrowCircle, Label } from "@/components/ui";
 
 const steps = [
   { title: "Find your school", body: "Search for your school, or pick it from the list." },
@@ -37,9 +37,7 @@ function SchoolListTile({ list }: { list: SchoolList }) {
       <ul className="mt-6 space-y-2.5">
         {preview.map((item) => (
           <li key={item.product} className="flex items-center gap-3 text-[14px]">
-            <span aria-hidden="true" className="inline-flex size-5 shrink-0 items-center justify-center rounded-full bg-pink-tint text-pink">
-              <CheckIcon className="size-3" strokeWidth={3} />
-            </span>
+            <CheckIcon className="size-4 shrink-0 text-pink" strokeWidth={2.5} />
             <span className="min-w-0 flex-1 truncate">{getProduct(item.product).name}</span>
             <span className="tabular-nums text-muted">×{item.qty}</span>
           </li>
@@ -65,14 +63,14 @@ export function SchoolListsSection() {
     <section aria-labelledby="lists-title" className="reveal shell mt-16 lg:mt-24">
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-12">
         <div className="flex flex-col justify-center pb-4 lg:col-span-4 lg:pb-0 lg:pr-8">
-          <p className="eyebrow text-muted">School lists</p>
-          <h2 id="lists-title" className="type-display mt-2 text-[2rem] font-extrabold leading-none sm:text-[2.5rem]">
+          <Label>School lists</Label>
+          <h2 id="lists-title" className="type-display mt-3 text-[2rem] font-extrabold leading-none sm:text-[2.5rem]">
             Every item on the list. <span className="type-accent text-pink">Sorted.</span>
           </h2>
           <ol className="mt-7 space-y-5">
             {steps.map((step, index) => (
               <li key={step.title} className="flex gap-4">
-                <span className="type-display inline-flex size-9 shrink-0 items-center justify-center rounded-full bg-ink text-[15px] font-extrabold text-paper">
+                <span aria-hidden="true" className="type-accent w-7 shrink-0 text-[2.25rem] leading-[0.85] text-pink">
                   {index + 1}
                 </span>
                 <div>

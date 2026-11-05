@@ -1,0 +1,5895 @@
+[
+  {
+    "slug": "ballpoint-pens-blue-10",
+    "name": "Ballpoint Pens, Blue, 10-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 4999,
+    "stock": 180,
+    "demo": true,
+    "subcategory": "ballpoint-pens",
+    "description": "Clear barrels help you see the ink supply during everyday writing. The pack contains ten blue-capped pens.",
+    "specs": [
+      {
+        "label": "Tip size",
+        "value": "1mm",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Blue",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "10 pens",
+        "demo": true
+      }
+    ],
+    "weightGrams": 105,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 85,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Clear barrels, blue caps, fanned out (10 pens)",
+    "sku": "AS-WRT-0001",
+    "barcode": "2000000000015",
+    "costPriceCents": 2695,
+    "reorderPoint": 36,
+    "reorderQty": 230,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S1-B1",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "slug": "gel-pens-6",
+    "name": "Gel Pens, 6 colours",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 7499,
+    "stock": 60,
+    "demo": true,
+    "subcategory": "gel-pens",
+    "description": "Six coloured gel pens add variety to notes and notebook layouts. The pens are supplied together in a plain sleeve.",
+    "specs": [
+      {
+        "label": "Ink colours",
+        "value": "6 assorted",
+        "demo": true
+      },
+      {
+        "label": "Tip size",
+        "value": "0.7mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "6 pens",
+        "demo": true
+      }
+    ],
+    "weightGrams": 90,
+    "dimensionsMm": {
+      "l": 165,
+      "w": 100,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Six pens in a row, rainbow order",
+    "sku": "AS-WRT-0002",
+    "barcode": "2000000000022",
+    "costPriceCents": 4043,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S1-B2",
+    "tags": []
+  },
+  {
+    "slug": "hb-pencils-12",
+    "name": "HB Pencils, 12-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 4499,
+    "stock": 240,
+    "demo": true,
+    "subcategory": "pencils",
+    "description": "A classroom pack of twelve sharpened graphite pencils for writing and drawing. Each pencil has a plain ink-black body.",
+    "specs": [
+      {
+        "label": "Grade",
+        "value": "HB",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Hexagonal wood",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "12 pencils",
+        "demo": true
+      }
+    ],
+    "weightGrams": 110,
+    "dimensionsMm": {
+      "l": 200,
+      "w": 100,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Hexagonal, sharpened, ink-black bodies (12)",
+    "sku": "AS-WRT-0003",
+    "barcode": "2000000000039",
+    "costPriceCents": 2426,
+    "reorderPoint": 48,
+    "reorderQty": 300,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S1-B3",
+    "tags": [
+      "school-list",
+      "bestseller"
+    ]
+  },
+  {
+    "slug": "mechanical-pencil-05",
+    "name": "Mechanical Pencil 0.5mm",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 3999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "pink",
+          "label": "Pink",
+          "stock": 40,
+          "swatch": "#B3125F",
+          "sku": "AS-WRT-0004-PINK",
+          "barcode": "2000000000053",
+          "reorderPoint": 8,
+          "reorderQty": 50,
+          "demo": true
+        },
+        {
+          "key": "black",
+          "label": "Black",
+          "stock": 55,
+          "swatch": "#1F1B1E",
+          "sku": "AS-WRT-0004-BLACK",
+          "barcode": "2000000000060",
+          "reorderPoint": 11,
+          "reorderQty": 70,
+          "demo": true
+        },
+        {
+          "key": "teal",
+          "label": "Teal",
+          "stock": 0,
+          "swatch": "#1F7A7A",
+          "sku": "AS-WRT-0004-TEAL",
+          "barcode": "2000000000077",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "demo": true,
+    "subcategory": "mechanical-pencils",
+    "description": "A refillable pencil for neat notes and measured drawings. Choose a barrel colour from the available options.",
+    "specs": [
+      {
+        "label": "Lead diameter",
+        "value": "0.5mm",
+        "demo": true
+      },
+      {
+        "label": "Mechanism",
+        "value": "Push button",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 pencil",
+        "demo": true
+      }
+    ],
+    "weightGrams": 20,
+    "dimensionsMm": {
+      "l": 155,
+      "w": 30,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Same pose for each colour",
+    "sku": "AS-WRT-0004",
+    "barcode": "2000000000046",
+    "costPriceCents": 2156,
+    "reorderPoint": 8,
+    "reorderQty": 50,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S1-B4",
+    "tags": []
+  },
+  {
+    "slug": "highlighters-4",
+    "name": "Highlighters, 4-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 6999,
+    "stock": 150,
+    "demo": true,
+    "subcategory": "highlighters",
+    "description": "Four bright colours help separate topics in study notes. Turn the chisel tip for broad or narrow marks.",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Chisel",
+        "demo": true
+      },
+      {
+        "label": "Colours",
+        "value": "Yellow, pink, green and orange",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "4",
+        "demo": true
+      }
+    ],
+    "weightGrams": 85,
+    "dimensionsMm": {
+      "l": 150,
+      "w": 95,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Chisel tips: yellow, pink, green, orange",
+    "sku": "AS-WRT-0005",
+    "barcode": "2000000000084",
+    "costPriceCents": 3773,
+    "reorderPoint": 30,
+    "reorderQty": 190,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S1-B5",
+    "tags": []
+  },
+  {
+    "slug": "fineliners-10",
+    "name": "Fineliners, 10 colours",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 17999,
+    "stock": 3,
+    "demo": true,
+    "subcategory": "fineliners",
+    "description": "Ten slim fineliners cover colour coding and detailed line work. A soft wallet holds the set together.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "10",
+        "demo": true
+      },
+      {
+        "label": "Tip size",
+        "value": "0.4mm",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "Soft wallet",
+        "demo": true
+      }
+    ],
+    "weightGrams": 120,
+    "dimensionsMm": {
+      "l": 180,
+      "w": 130,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Fan of slim pens in a soft wallet",
+    "sku": "AS-WRT-0006",
+    "barcode": "2000000000091",
+    "costPriceCents": 9704,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S2-B1",
+    "tags": []
+  },
+  {
+    "slug": "fountain-pen-steel",
+    "name": "Fountain Pen, Brushed Steel",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 44999,
+    "stock": 1,
+    "demo": true,
+    "subcategory": "premium-pens",
+    "description": "A brushed-steel fountain pen for handwritten notes and letters. The plain presentation sleeve keeps it separate from loose supplies.",
+    "specs": [
+      {
+        "label": "Body",
+        "value": "Brushed steel",
+        "demo": true
+      },
+      {
+        "label": "Nib",
+        "value": "Medium",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Blue",
+        "demo": true
+      }
+    ],
+    "weightGrams": 65,
+    "dimensionsMm": {
+      "l": 180,
+      "w": 55,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "Uncapped, nib visible",
+    "sku": "AS-WRT-0007",
+    "barcode": "2000000000107",
+    "costPriceCents": 24260,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S2-B2",
+    "tags": []
+  },
+  {
+    "slug": "whiteboard-markers-4",
+    "name": "Whiteboard Markers, 4-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "priceCents": 7999,
+    "stock": 0,
+    "demo": true,
+    "subcategory": "markers",
+    "description": "Four marker colours suit classroom and office whiteboards. Keep each cap fitted between writing sessions.",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Bullet",
+        "demo": true
+      },
+      {
+        "label": "Colours",
+        "value": "Black, blue, red and green",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "4",
+        "demo": true
+      }
+    ],
+    "weightGrams": 100,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 100,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Black, blue, red, green, bullet tips",
+    "sku": "AS-WRT-0008",
+    "barcode": "2000000000114",
+    "costPriceCents": 4313,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S2-B3",
+    "tags": []
+  },
+  {
+    "slug": "exercise-book-a4-72",
+    "name": "A4 Exercise Book, 72 pages",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 1499,
+    "options": {
+      "kind": "pack",
+      "values": [
+        {
+          "key": "single",
+          "label": "Single",
+          "stock": 500,
+          "priceCents": 1499,
+          "sku": "AS-PAP-0001-SINGLE",
+          "barcode": "2000000000138",
+          "reorderPoint": 100,
+          "reorderQty": 630,
+          "costPriceCents": 808,
+          "weightGrams": 180,
+          "dimensionsMm": {
+            "l": 305,
+            "w": 215,
+            "h": 8,
+            "demo": true
+          },
+          "demo": true
+        },
+        {
+          "key": "10-pack",
+          "label": "10-pack",
+          "stock": 60,
+          "priceCents": 12999,
+          "sku": "AS-PAP-0001-10-PACK",
+          "barcode": "2000000000145",
+          "reorderPoint": 12,
+          "reorderQty": 80,
+          "costPriceCents": 7008,
+          "weightGrams": 1800,
+          "dimensionsMm": {
+            "l": 305,
+            "w": 215,
+            "h": 80,
+            "demo": true
+          },
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "demo": true,
+    "subcategory": "exercise-books",
+    "description": "A ruled exercise book for everyday classwork. Choose a single book or a tied ten-pack from the pack options.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Pages per book",
+        "value": "72",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Feint ruled",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 305,
+      "w": 215,
+      "h": 8,
+      "demo": true
+    },
+    "imageNotes": "Pale cover with a blank name-label box; the 10-pack is a tied stack of 10",
+    "sku": "AS-PAP-0001",
+    "barcode": "2000000000121",
+    "costPriceCents": 808,
+    "reorderPoint": 100,
+    "reorderQty": 630,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S1-B1",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "hardcover-book-a4-192",
+    "name": "A4 Hardcover Book, 192 pages",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 5499,
+    "stock": 120,
+    "demo": true,
+    "subcategory": "hardcover-books",
+    "description": "A navy hardcover book keeps longer subject notes together. The ruled pages suit school lessons and office records.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "192",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Ruled",
+        "demo": true
+      }
+    ],
+    "weightGrams": 580,
+    "dimensionsMm": {
+      "l": 310,
+      "w": 220,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Navy hardcover at a slight angle",
+    "sku": "AS-PAP-0002",
+    "barcode": "2000000000152",
+    "costPriceCents": 2965,
+    "reorderPoint": 24,
+    "reorderQty": 150,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S1-B2",
+    "tags": []
+  },
+  {
+    "slug": "notebook-a5-dotted",
+    "name": "A5 Dotted Notebook",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 14999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "blush",
+          "label": "Blush",
+          "stock": 30,
+          "swatch": "#F1C6D3",
+          "sku": "AS-PAP-0003-BLUSH",
+          "barcode": "2000000000176",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        },
+        {
+          "key": "ink",
+          "label": "Ink",
+          "stock": 45,
+          "swatch": "#232C45",
+          "sku": "AS-PAP-0003-INK",
+          "barcode": "2000000000183",
+          "reorderPoint": 9,
+          "reorderQty": 60,
+          "demo": true
+        },
+        {
+          "key": "sage",
+          "label": "Sage",
+          "stock": 25,
+          "swatch": "#9DB09A",
+          "sku": "AS-PAP-0003-SAGE",
+          "barcode": "2000000000190",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "demo": true,
+    "subcategory": "notebooks-journals",
+    "description": "Dotted pages leave room for notes and personal page layouts. Choose a linen cover colour from the options.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "160",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Dot grid",
+        "demo": true
+      },
+      {
+        "label": "Cover",
+        "value": "Linen",
+        "demo": true
+      }
+    ],
+    "weightGrams": 320,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 155,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Linen cover, elastic band",
+    "sku": "AS-PAP-0003",
+    "barcode": "2000000000169",
+    "costPriceCents": 8086,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S1-B3",
+    "tags": []
+  },
+  {
+    "slug": "printing-paper-a4-80",
+    "name": "A4 Printing Paper, 80gsm, 500 sheets",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 10999,
+    "stock": 300,
+    "bulk": {
+      "minQty": 5,
+      "priceCents": 9999,
+      "demo": true
+    },
+    "demo": true,
+    "subcategory": "printing-paper",
+    "description": "A plain wrapped ream for day-to-day printing and copying. A lower unit price applies when buying five or more reams.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "80gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "500",
+        "demo": true
+      }
+    ],
+    "weightGrams": 2600,
+    "dimensionsMm": {
+      "l": 310,
+      "w": 220,
+      "h": 60,
+      "demo": true
+    },
+    "imageNotes": "Wrapped ream, plain wrapper",
+    "sku": "AS-PAP-0004",
+    "barcode": "2000000000206",
+    "costPriceCents": 5930,
+    "reorderPoint": 60,
+    "reorderQty": 380,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S1-B4",
+    "tags": [
+      "office-favourite",
+      "bestseller"
+    ]
+  },
+  {
+    "slug": "sticky-notes-76-4",
+    "name": "Sticky Notes 76×76, 4 pads",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 3499,
+    "stock": 200,
+    "demo": true,
+    "subcategory": "sticky-notes",
+    "description": "Four pastel pads keep short reminders close at hand. Stagger the pads on a desk or beside a notebook.",
+    "specs": [
+      {
+        "label": "Pad size",
+        "value": "76 × 76mm",
+        "demo": true
+      },
+      {
+        "label": "Pads",
+        "value": "4",
+        "demo": true
+      },
+      {
+        "label": "Sheets per pad",
+        "value": "100",
+        "demo": true
+      }
+    ],
+    "weightGrams": 185,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 85,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "Four pastel pads, staggered, top-down",
+    "sku": "AS-PAP-0005",
+    "barcode": "2000000000213",
+    "costPriceCents": 1886,
+    "reorderPoint": 40,
+    "reorderQty": 250,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S1-B5",
+    "tags": []
+  },
+  {
+    "slug": "notepad-a4-spiral",
+    "name": "A4 Spiral Notepad, Ruled",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 3999,
+    "stock": 90,
+    "demo": true,
+    "subcategory": "notepads",
+    "description": "A top-bound pad for longer notes and working lists. Ruled sheets turn over the spiral at the top.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "80",
+        "demo": true
+      },
+      {
+        "label": "Binding",
+        "value": "Top spiral",
+        "demo": true
+      }
+    ],
+    "weightGrams": 450,
+    "dimensionsMm": {
+      "l": 315,
+      "w": 220,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "Top-bound spiral, ruled lines visible",
+    "sku": "AS-PAP-0006",
+    "barcode": "2000000000220",
+    "costPriceCents": 2156,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S2-B1",
+    "tags": []
+  },
+  {
+    "slug": "envelopes-dl-25",
+    "name": "DL Envelopes, 25-pack",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 3999,
+    "stock": 70,
+    "demo": true,
+    "subcategory": "envelopes",
+    "description": "A pack of plain white envelopes for folded correspondence. The simple format also keeps small paper slips together.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "DL",
+        "demo": true
+      },
+      {
+        "label": "Dimensions",
+        "value": "220 × 110mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "25",
+        "demo": true
+      }
+    ],
+    "weightGrams": 155,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 120,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "White envelopes, fanned",
+    "sku": "AS-PAP-0007",
+    "barcode": "2000000000237",
+    "costPriceCents": 2156,
+    "reorderPoint": 14,
+    "reorderQty": 90,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S2-B2",
+    "tags": []
+  },
+  {
+    "slug": "graph-book-a4",
+    "name": "A4 Graph Paper Book",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "priceCents": 2499,
+    "stock": 150,
+    "demo": true,
+    "subcategory": "graph-paper",
+    "description": "Square-grid pages support graph work and measured diagrams. The book opens flat enough to work across individual pages.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "72",
+        "demo": true
+      },
+      {
+        "label": "Grid",
+        "value": "5mm",
+        "demo": true
+      }
+    ],
+    "weightGrams": 195,
+    "dimensionsMm": {
+      "l": 305,
+      "w": 215,
+      "h": 8,
+      "demo": true
+    },
+    "imageNotes": "Open to show the grid",
+    "sku": "AS-PAP-0008",
+    "barcode": "2000000000244",
+    "costPriceCents": 1347,
+    "reorderPoint": 30,
+    "reorderQty": 190,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S2-B3",
+    "tags": []
+  },
+  {
+    "slug": "backpack-25l",
+    "name": "School Backpack, 25L",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 54999,
+    "special": {
+      "priceCents": 49499,
+      "demo": true
+    },
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "navy",
+          "label": "Navy",
+          "stock": 25,
+          "swatch": "#1E2A4A",
+          "sku": "AS-SCH-0001-NAVY",
+          "barcode": "2000000000268",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        },
+        {
+          "key": "pink",
+          "label": "Pink",
+          "stock": 2,
+          "swatch": "#B3125F",
+          "sku": "AS-SCH-0001-PINK",
+          "barcode": "2000000000275",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "stock": 18,
+          "swatch": "#8A8D91",
+          "sku": "AS-SCH-0001-GREY",
+          "barcode": "2000000000282",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "demo": true,
+    "subcategory": "bags",
+    "description": "A school backpack with room for books and everyday supplies. Plain colour options keep the choice simple.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "25L",
+        "demo": true
+      },
+      {
+        "label": "Compartments",
+        "value": "2 zipped",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Woven polyester",
+        "demo": true
+      }
+    ],
+    "weightGrams": 650,
+    "dimensionsMm": {
+      "l": 460,
+      "w": 350,
+      "h": 100,
+      "demo": true
+    },
+    "imageNotes": "Front three-quarter view",
+    "sku": "AS-SCH-0001",
+    "barcode": "2000000000251",
+    "costPriceCents": 29652,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S1-B1",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "pencil-case-zip",
+    "name": "Zip Pencil Case",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 8999,
+    "stock": 110,
+    "demo": true,
+    "subcategory": "pencil-cases",
+    "description": "A fabric pencil case holds loose pens and drawing tools together. The zip opens along the top edge.",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Woven fabric",
+        "demo": true
+      },
+      {
+        "label": "Closure",
+        "value": "Zip",
+        "demo": true
+      },
+      {
+        "label": "Compartments",
+        "value": "1",
+        "demo": true
+      }
+    ],
+    "weightGrams": 85,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 115,
+      "h": 55,
+      "demo": true
+    },
+    "imageNotes": "Fabric case, half open with pencils",
+    "sku": "AS-SCH-0002",
+    "barcode": "2000000000299",
+    "costPriceCents": 4852,
+    "reorderPoint": 22,
+    "reorderQty": 140,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S1-B2",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "maths-set-9",
+    "name": "Maths Set, 9 pieces",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 5999,
+    "stock": 140,
+    "demo": true,
+    "subcategory": "maths-sets",
+    "description": "Nine geometry pieces support everyday classroom drawing exercises. A plain tin keeps the compass and measuring tools together.",
+    "specs": [
+      {
+        "label": "Pieces",
+        "value": "9",
+        "demo": true
+      },
+      {
+        "label": "Container",
+        "value": "Metal tin",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "Compass, protractor and set squares",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 190,
+      "w": 90,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Open tin: compass, protractor, set squares",
+    "sku": "AS-SCH-0003",
+    "barcode": "2000000000305",
+    "costPriceCents": 3234,
+    "reorderPoint": 28,
+    "reorderQty": 180,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S1-B3",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "ruler-30cm",
+    "name": "30cm Ruler, Shatterproof",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 1299,
+    "stock": 300,
+    "demo": true,
+    "subcategory": "rulers",
+    "description": "A clear ruler for measuring lines and drawing straight edges. The long format suits A4 schoolwork.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "30cm",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Clear plastic",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 ruler",
+        "demo": true
+      }
+    ],
+    "weightGrams": 40,
+    "dimensionsMm": {
+      "l": 330,
+      "w": 45,
+      "h": 10,
+      "demo": true
+    },
+    "imageNotes": "Clear ruler, evenly spaced ticks",
+    "sku": "AS-SCH-0004",
+    "barcode": "2000000000312",
+    "costPriceCents": 700,
+    "reorderPoint": 60,
+    "reorderQty": 380,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S1-B4",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "erasers-2",
+    "name": "Erasers, 2-pack",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 1499,
+    "stock": 260,
+    "demo": true,
+    "subcategory": "erasers-sharpeners",
+    "description": "Two white erasers cover everyday graphite corrections. One block is held in a plain paper sleeve.",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "2 erasers",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Rectangular blocks",
+        "demo": true
+      }
+    ],
+    "weightGrams": 50,
+    "dimensionsMm": {
+      "l": 100,
+      "w": 65,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "White blocks, one in a sleeve",
+    "sku": "AS-SCH-0005",
+    "barcode": "2000000000329",
+    "costPriceCents": 808,
+    "reorderPoint": 52,
+    "reorderQty": 330,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S1-B5",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "sharpener-double",
+    "name": "Double Sharpener with Canister",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 1999,
+    "stock": 220,
+    "demo": true,
+    "subcategory": "erasers-sharpeners",
+    "description": "Two sharpening holes accept different pencil sizes. A translucent canister collects the shavings.",
+    "specs": [
+      {
+        "label": "Holes",
+        "value": "2",
+        "demo": true
+      },
+      {
+        "label": "Canister",
+        "value": "Translucent",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Plastic and metal",
+        "demo": true
+      }
+    ],
+    "weightGrams": 45,
+    "dimensionsMm": {
+      "l": 70,
+      "w": 55,
+      "h": 45,
+      "demo": true
+    },
+    "imageNotes": "Translucent canister",
+    "sku": "AS-SCH-0006",
+    "barcode": "2000000000336",
+    "costPriceCents": 1078,
+    "reorderPoint": 44,
+    "reorderQty": 280,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S2-B1",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "book-covering-5m",
+    "name": "Book Covering Roll, Clear, 5m",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 4499,
+    "stock": 180,
+    "demo": true,
+    "subcategory": "book-covering",
+    "description": "Clear covering keeps the original book cover visible. Cut the roll into lengths to suit each school book.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "5m",
+        "demo": true
+      },
+      {
+        "label": "Width",
+        "value": "450mm",
+        "demo": true
+      },
+      {
+        "label": "Finish",
+        "value": "Clear",
+        "demo": true
+      }
+    ],
+    "weightGrams": 310,
+    "dimensionsMm": {
+      "l": 460,
+      "w": 55,
+      "h": 55,
+      "demo": true
+    },
+    "imageNotes": "Rolled clear film with a slight sheen",
+    "sku": "AS-SCH-0007",
+    "barcode": "2000000000343",
+    "costPriceCents": 2426,
+    "reorderPoint": 36,
+    "reorderQty": 230,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S2-B2",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "name-labels-60",
+    "name": "Iron-on Name Labels, 60",
+    "brand": "Little Scholar",
+    "category": "school",
+    "priceCents": 5999,
+    "stock": 80,
+    "demo": true,
+    "subcategory": "name-labels",
+    "description": "Blank name labels help mark fabric school belongings. Add the name before applying the label as directed on the supplied insert.",
+    "specs": [
+      {
+        "label": "Format",
+        "value": "Iron-on",
+        "demo": true
+      },
+      {
+        "label": "Label size",
+        "value": "50 × 15mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "60 labels",
+        "demo": true
+      }
+    ],
+    "weightGrams": 40,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 165,
+      "h": 5,
+      "demo": true
+    },
+    "imageNotes": "Sheet of blank labels",
+    "sku": "AS-SCH-0008",
+    "barcode": "2000000000350",
+    "costPriceCents": 3234,
+    "reorderPoint": 16,
+    "reorderQty": 100,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S2-B3",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "colour-pencils-24",
+    "name": "Colour Pencils, 24",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 9499,
+    "stock": 130,
+    "demo": true,
+    "subcategory": "colouring",
+    "description": "Twenty-four coloured pencils offer a wide palette for drawings. A plain tin keeps the set in spectrum order.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "24",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Wood",
+        "demo": true
+      },
+      {
+        "label": "Container",
+        "value": "Metal tin",
+        "demo": true
+      }
+    ],
+    "weightGrams": 250,
+    "dimensionsMm": {
+      "l": 215,
+      "w": 195,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Open tin, spectrum order (24)",
+    "sku": "AS-ART-0001",
+    "barcode": "2000000000367",
+    "costPriceCents": 5121,
+    "reorderPoint": 26,
+    "reorderQty": 170,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S1-B1",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "wax-crayons-24",
+    "name": "Wax Crayons, 24",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 4499,
+    "stock": 160,
+    "demo": true,
+    "subcategory": "colouring",
+    "description": "A box of twenty-four wax crayons for broad colouring marks. The plain sleeves leave a clean place to hold each stick.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "24",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Wax sticks",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "24 crayons",
+        "demo": true
+      }
+    ],
+    "weightGrams": 200,
+    "dimensionsMm": {
+      "l": 180,
+      "w": 130,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "Open box, crayons fanned",
+    "sku": "AS-ART-0002",
+    "barcode": "2000000000374",
+    "costPriceCents": 2426,
+    "reorderPoint": 32,
+    "reorderQty": 200,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S1-B2",
+    "tags": []
+  },
+  {
+    "slug": "acrylic-paint-12",
+    "name": "Acrylic Paint Set, 12 × 22ml",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 22999,
+    "special": {
+      "priceCents": 17999,
+      "demo": true
+    },
+    "stock": 55,
+    "demo": true,
+    "subcategory": "paint",
+    "description": "Twelve acrylic colours are supplied in small tubes. The set suits mixing colours for paper and board projects.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "12",
+        "demo": true
+      },
+      {
+        "label": "Volume per tube",
+        "value": "22ml",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Acrylic paint",
+        "demo": true
+      }
+    ],
+    "weightGrams": 490,
+    "dimensionsMm": {
+      "l": 280,
+      "w": 170,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Tubes in a row, one squeezed",
+    "sku": "AS-ART-0003",
+    "barcode": "2000000000381",
+    "costPriceCents": 12399,
+    "reorderPoint": 11,
+    "reorderQty": 70,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S1-B3",
+    "tags": []
+  },
+  {
+    "slug": "brush-set-10",
+    "name": "Brush Set, 10",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 8499,
+    "stock": 60,
+    "demo": true,
+    "subcategory": "brushes",
+    "description": "Ten brushes provide a choice of widths for craft painting. Plain wooden handles keep the set easy to sort.",
+    "specs": [
+      {
+        "label": "Pack size",
+        "value": "10 brushes",
+        "demo": true
+      },
+      {
+        "label": "Handles",
+        "value": "Wood",
+        "demo": true
+      },
+      {
+        "label": "Shapes",
+        "value": "Assorted",
+        "demo": true
+      }
+    ],
+    "weightGrams": 100,
+    "dimensionsMm": {
+      "l": 290,
+      "w": 100,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Wooden handles, fanned",
+    "sku": "AS-ART-0004",
+    "barcode": "2000000000398",
+    "costPriceCents": 4582,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S1-B4",
+    "tags": []
+  },
+  {
+    "slug": "sketchbook-a4",
+    "name": "A4 Sketchbook, 110gsm",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 10999,
+    "stock": 75,
+    "demo": true,
+    "subcategory": "sketching",
+    "description": "A wire-bound sketchbook for pencil and dry-media work. Its plain black cover keeps the pages together in a bag.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "110gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "60",
+        "demo": true
+      },
+      {
+        "label": "Binding",
+        "value": "Wire",
+        "demo": true
+      }
+    ],
+    "weightGrams": 520,
+    "dimensionsMm": {
+      "l": 310,
+      "w": 230,
+      "h": 22,
+      "demo": true
+    },
+    "imageNotes": "Black cover, wire-bound",
+    "sku": "AS-ART-0005",
+    "barcode": "2000000000404",
+    "costPriceCents": 5930,
+    "reorderPoint": 15,
+    "reorderQty": 100,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S1-B5",
+    "tags": []
+  },
+  {
+    "slug": "glue-sticks-3",
+    "name": "Glue Sticks, 3-pack",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 2999,
+    "stock": 280,
+    "demo": true,
+    "subcategory": "glue",
+    "description": "Three glue sticks suit routine paper and card projects. Each stick closes with a plain fitted cap.",
+    "specs": [
+      {
+        "label": "Format",
+        "value": "Twist-up stick",
+        "demo": true
+      },
+      {
+        "label": "Weight per stick",
+        "value": "21g",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "3",
+        "demo": true
+      }
+    ],
+    "weightGrams": 110,
+    "dimensionsMm": {
+      "l": 145,
+      "w": 100,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "One stick uncapped",
+    "sku": "AS-ART-0006",
+    "barcode": "2000000000411",
+    "costPriceCents": 1617,
+    "reorderPoint": 56,
+    "reorderQty": 350,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S2-B1",
+    "tags": [
+      "school-list",
+      "bestseller"
+    ]
+  },
+  {
+    "slug": "craft-scissors-13cm",
+    "name": "Craft Scissors, 13cm",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 3999,
+    "stock": 150,
+    "demo": true,
+    "subcategory": "scissors-cutting",
+    "description": "A compact pair of scissors for paper craft work. Plain dark-pink handles make the pair easy to spot.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "13cm",
+        "demo": true
+      },
+      {
+        "label": "Tip",
+        "value": "Rounded",
+        "demo": true
+      },
+      {
+        "label": "Handle colour",
+        "value": "Dark pink",
+        "demo": true
+      }
+    ],
+    "weightGrams": 45,
+    "dimensionsMm": {
+      "l": 170,
+      "w": 90,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Rounded tips, dark-pink handles",
+    "sku": "AS-ART-0007",
+    "barcode": "2000000000428",
+    "costPriceCents": 2156,
+    "reorderPoint": 30,
+    "reorderQty": 190,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S2-B2",
+    "tags": []
+  },
+  {
+    "slug": "modelling-clay-10",
+    "name": "Modelling Clay, 10 colours",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "priceCents": 4499,
+    "stock": 90,
+    "demo": true,
+    "subcategory": "modelling",
+    "description": "Ten colour bars provide material for small models. Lay the bars out before choosing colours for a project.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "10",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Bars",
+        "demo": true
+      },
+      {
+        "label": "Total mass",
+        "value": "200g",
+        "demo": true
+      }
+    ],
+    "weightGrams": 235,
+    "dimensionsMm": {
+      "l": 210,
+      "w": 140,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Bars laid out in a spectrum",
+    "sku": "AS-ART-0008",
+    "barcode": "2000000000435",
+    "costPriceCents": 2426,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S2-B3",
+    "tags": []
+  },
+  {
+    "slug": "stapler-full-strip",
+    "name": "Full-strip Stapler",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 13999,
+    "stock": 45,
+    "demo": true,
+    "subcategory": "staplers",
+    "description": "An ink-black desk stapler for everyday office paperwork. The full-strip loading channel holds standard 26/6 staples.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "Full strip",
+        "demo": true
+      },
+      {
+        "label": "Staple size",
+        "value": "26/6",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Metal",
+        "demo": true
+      }
+    ],
+    "weightGrams": 340,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 85,
+      "h": 65,
+      "demo": true
+    },
+    "imageNotes": "Ink-black metal, three-quarter view",
+    "sku": "AS-OFF-0001",
+    "barcode": "2000000000442",
+    "costPriceCents": 7547,
+    "reorderPoint": 9,
+    "reorderQty": 60,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S1-B1",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "staples-26-6-5000",
+    "name": "Staples 26/6, 5000",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 2499,
+    "stock": 200,
+    "demo": true,
+    "subcategory": "staplers",
+    "description": "Refill a compatible stapler with standard 26/6 staples. The box contains five thousand staples in strips.",
+    "specs": [
+      {
+        "label": "Staple size",
+        "value": "26/6",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Steel",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "5000",
+        "demo": true
+      }
+    ],
+    "weightGrams": 155,
+    "dimensionsMm": {
+      "l": 125,
+      "w": 75,
+      "h": 40,
+      "demo": true
+    },
+    "imageNotes": "Small box with a strip beside it",
+    "sku": "AS-OFF-0002",
+    "barcode": "2000000000459",
+    "costPriceCents": 1347,
+    "reorderPoint": 40,
+    "reorderQty": 250,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S1-B2",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "punch-2-hole",
+    "name": "2-hole Punch",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 10999,
+    "stock": 35,
+    "demo": true,
+    "subcategory": "punches",
+    "description": "Punch paired holes for filing loose A4 documents. An extending guide helps align each sheet.",
+    "specs": [
+      {
+        "label": "Holes",
+        "value": "2",
+        "demo": true
+      },
+      {
+        "label": "Hole spacing",
+        "value": "80mm",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Metal",
+        "demo": true
+      }
+    ],
+    "weightGrams": 310,
+    "dimensionsMm": {
+      "l": 145,
+      "w": 110,
+      "h": 65,
+      "demo": true
+    },
+    "imageNotes": "Metal punch, guide bar out",
+    "sku": "AS-OFF-0003",
+    "barcode": "2000000000466",
+    "costPriceCents": 5930,
+    "reorderPoint": 7,
+    "reorderQty": 50,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S1-B3",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "lever-arch-file-a4",
+    "name": "Lever Arch File, A4",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 4499,
+    "stock": 150,
+    "demo": true,
+    "subcategory": "files-folders",
+    "description": "A lever arch file holds punched A4 paperwork together. The blank spine label leaves room for a folder name.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Mechanism",
+        "value": "Lever arch",
+        "demo": true
+      },
+      {
+        "label": "Spine width",
+        "value": "70mm",
+        "demo": true
+      }
+    ],
+    "weightGrams": 430,
+    "dimensionsMm": {
+      "l": 330,
+      "w": 290,
+      "h": 75,
+      "demo": true
+    },
+    "imageNotes": "Blank spine label",
+    "sku": "AS-OFF-0004",
+    "barcode": "2000000000473",
+    "costPriceCents": 2426,
+    "reorderPoint": 30,
+    "reorderQty": 190,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S1-B4",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "display-book-20",
+    "name": "Display Book, 20 pockets",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 3499,
+    "stock": 140,
+    "demo": true,
+    "subcategory": "files-folders",
+    "description": "Twenty clear pockets display loose pages without punching them. A translucent cover keeps the front sheet visible.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Pockets",
+        "value": "20",
+        "demo": true
+      },
+      {
+        "label": "Cover",
+        "value": "Translucent plastic",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 315,
+      "w": 245,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "Translucent cover",
+    "sku": "AS-OFF-0005",
+    "barcode": "2000000000480",
+    "costPriceCents": 1886,
+    "reorderPoint": 28,
+    "reorderQty": 180,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S1-B5",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "desk-organiser-mesh",
+    "name": "Mesh Desk Organiser",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 21999,
+    "stock": 25,
+    "demo": true,
+    "subcategory": "desk-organisers",
+    "description": "A mesh organiser groups pens and small desk tools. Three compartments separate longer items from loose supplies.",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Metal mesh",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Compartments",
+        "value": "3",
+        "demo": true
+      }
+    ],
+    "weightGrams": 330,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 130,
+      "h": 110,
+      "demo": true
+    },
+    "imageNotes": "Black mesh, filled with pens",
+    "sku": "AS-OFF-0006",
+    "barcode": "2000000000497",
+    "costPriceCents": 11860,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S2-B1",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "tape-dispenser",
+    "name": "Tape Dispenser + 2 Rolls",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 7499,
+    "stock": 60,
+    "demo": true,
+    "subcategory": "tape",
+    "description": "A weighted dispenser holds a tape roll ready on the desk. Two plain clear rolls are included.",
+    "specs": [
+      {
+        "label": "Base",
+        "value": "Weighted",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "2 clear tape rolls",
+        "demo": true
+      },
+      {
+        "label": "Tape width",
+        "value": "18mm",
+        "demo": true
+      }
+    ],
+    "weightGrams": 560,
+    "dimensionsMm": {
+      "l": 185,
+      "w": 95,
+      "h": 85,
+      "demo": true
+    },
+    "imageNotes": "Weighted base",
+    "sku": "AS-OFF-0007",
+    "barcode": "2000000000503",
+    "costPriceCents": 4043,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S2-B2",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "paper-clips-100",
+    "name": "Paper Clips, 100",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "priceCents": 1499,
+    "stock": 300,
+    "demo": true,
+    "subcategory": "clips-pins",
+    "description": "Silver paper clips hold small groups of pages together. The pack contains one hundred loose clips.",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Steel",
+        "demo": true
+      },
+      {
+        "label": "Length",
+        "value": "28mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "100",
+        "demo": true
+      }
+    ],
+    "weightGrams": 75,
+    "dimensionsMm": {
+      "l": 95,
+      "w": 65,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Small silver heap, top-down",
+    "sku": "AS-OFF-0008",
+    "barcode": "2000000000510",
+    "costPriceCents": 808,
+    "reorderPoint": 60,
+    "reorderQty": 380,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S2-B3",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "planner-2027-a5",
+    "name": "2027 Weekly Planner, A5",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "priceCents": 24999,
+    "special": {
+      "priceCents": 19999,
+      "endsAt": "2026-12-31T21:59:59.000Z",
+      "demo": true
+    },
+    "stock": 65,
+    "demo": true,
+    "subcategory": "planners-diaries",
+    "description": "A weekly planner keeps appointments and tasks in one place. The dark-pink cloth cover includes a ribbon marker.",
+    "specs": [
+      {
+        "label": "Year",
+        "value": "2027",
+        "demo": true
+      },
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Layout",
+        "value": "Week to view",
+        "demo": true
+      },
+      {
+        "label": "Cover",
+        "value": "Cloth",
+        "demo": true
+      }
+    ],
+    "weightGrams": 360,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 155,
+      "h": 23,
+      "demo": true
+    },
+    "imageNotes": "Dark-pink cloth cover, ribbon marker, no year printed",
+    "sku": "AS-GFT-0001",
+    "barcode": "2000000000527",
+    "costPriceCents": 13478,
+    "reorderPoint": 13,
+    "reorderQty": 90,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S1-B1",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "desk-calendar-2027",
+    "name": "2027 Desk Calendar",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "priceCents": 12999,
+    "stock": 50,
+    "demo": true,
+    "subcategory": "calendars",
+    "description": "A tent-style calendar stands on a desk for quick date checks. Monthly leaves turn over the top binding.",
+    "specs": [
+      {
+        "label": "Year",
+        "value": "2027",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Desk tent",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "12 monthly leaves",
+        "demo": true
+      }
+    ],
+    "weightGrams": 220,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 180,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Tent calendar, grid with no legible text",
+    "sku": "AS-GFT-0002",
+    "barcode": "2000000000534",
+    "costPriceCents": 7008,
+    "reorderPoint": 10,
+    "reorderQty": 70,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S1-B2",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "pen-gift-set",
+    "name": "Pen & Pencil Gift Set",
+    "brand": "Northline",
+    "category": "gifts-planners",
+    "priceCents": 37999,
+    "stock": 20,
+    "demo": true,
+    "subcategory": "gift-sets",
+    "description": "A matching writing pair is presented in a plain fitted box. The satin lining keeps both pieces apart.",
+    "specs": [
+      {
+        "label": "Includes",
+        "value": "Pen and pencil",
+        "demo": true
+      },
+      {
+        "label": "Pen ink",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Box",
+        "value": "Fitted satin lining",
+        "demo": true
+      }
+    ],
+    "weightGrams": 230,
+    "dimensionsMm": {
+      "l": 210,
+      "w": 105,
+      "h": 40,
+      "demo": true
+    },
+    "imageNotes": "Open gift box, satin lining",
+    "sku": "AS-GFT-0003",
+    "barcode": "2000000000541",
+    "costPriceCents": 20486,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S1-B3",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "journal-linen-a5",
+    "name": "Linen Journal, A5",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "priceCents": 22999,
+    "stock": 35,
+    "demo": true,
+    "subcategory": "journals",
+    "description": "A linen-covered journal for notes and longer personal entries. A simple debossed shape adds detail without cover lettering.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "192",
+        "demo": true
+      },
+      {
+        "label": "Cover",
+        "value": "Oatmeal linen",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Ruled",
+        "demo": true
+      }
+    ],
+    "weightGrams": 380,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 155,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Oatmeal linen, debossed shape (no text)",
+    "sku": "AS-GFT-0004",
+    "barcode": "2000000000558",
+    "costPriceCents": 12399,
+    "reorderPoint": 7,
+    "reorderQty": 50,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S1-B4",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "watercolour-tin-24",
+    "name": "Watercolour Gift Tin, 24",
+    "brand": "Fynbos Studio",
+    "category": "gifts-planners",
+    "priceCents": 34999,
+    "stock": 15,
+    "demo": true,
+    "subcategory": "gift-sets",
+    "description": "Twenty-four watercolour pans sit inside a plain metal tin. A water brush completes the portable painting set.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "24",
+        "demo": true
+      },
+      {
+        "label": "Container",
+        "value": "Metal tin",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "Water brush",
+        "demo": true
+      }
+    ],
+    "weightGrams": 360,
+    "dimensionsMm": {
+      "l": 235,
+      "w": 145,
+      "h": 40,
+      "demo": true
+    },
+    "imageNotes": "Open tin with pans and a water brush",
+    "sku": "AS-GFT-0005",
+    "barcode": "2000000000565",
+    "costPriceCents": 18869,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S1-B5",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "calligraphy-set",
+    "name": "Calligraphy Starter Set",
+    "brand": "Northline",
+    "category": "gifts-planners",
+    "priceCents": 28999,
+    "stock": 12,
+    "demo": true,
+    "subcategory": "gift-sets",
+    "description": "A starter set for trying pointed-nib lettering on your own paper. The plain box holds a nib holder, loose nibs and an ink bottle.",
+    "specs": [
+      {
+        "label": "Includes",
+        "value": "Nib holder, nibs and ink",
+        "demo": true
+      },
+      {
+        "label": "Ink volume",
+        "value": "30ml",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Black",
+        "demo": true
+      }
+    ],
+    "weightGrams": 270,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 160,
+      "h": 45,
+      "demo": true
+    },
+    "imageNotes": "Nib holder, nibs, ink bottle with a blank label",
+    "sku": "AS-GFT-0006",
+    "barcode": "2000000000572",
+    "costPriceCents": 15634,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S2-B1",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "gift-wrap-3",
+    "name": "Gift Wrap, 3 Sheets",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "priceCents": 2999,
+    "stock": 200,
+    "demo": true,
+    "subcategory": "cards-wrap",
+    "description": "Three folded sheets wrap small stationery gifts. A dark-pink geometric pattern carries across the set.",
+    "specs": [
+      {
+        "label": "Sheet size",
+        "value": "500 × 700mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "3 sheets",
+        "demo": true
+      },
+      {
+        "label": "Pattern",
+        "value": "Dark-pink geometric",
+        "demo": true
+      }
+    ],
+    "weightGrams": 115,
+    "dimensionsMm": {
+      "l": 270,
+      "w": 190,
+      "h": 10,
+      "demo": true
+    },
+    "imageNotes": "Folded sheets, dark-pink pattern",
+    "sku": "AS-GFT-0007",
+    "barcode": "2000000000589",
+    "costPriceCents": 1617,
+    "reorderPoint": 40,
+    "reorderQty": 250,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S2-B2",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "greeting-cards-6",
+    "name": "Blank Greeting Cards, 6",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "priceCents": 5999,
+    "stock": 80,
+    "demo": true,
+    "subcategory": "cards-wrap",
+    "description": "Six folded cards leave space for your own handwritten messages. Matching plain envelopes are included.",
+    "specs": [
+      {
+        "label": "Folded card size",
+        "value": "A6",
+        "demo": true
+      },
+      {
+        "label": "Inside",
+        "value": "Blank",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "6 cards and envelopes",
+        "demo": true
+      }
+    ],
+    "weightGrams": 150,
+    "dimensionsMm": {
+      "l": 170,
+      "w": 125,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Fanned cards with envelopes",
+    "sku": "AS-GFT-0008",
+    "barcode": "2000000000596",
+    "costPriceCents": 3234,
+    "reorderPoint": 16,
+    "reorderQty": 100,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S2-B3",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "ballpoint-pens-black-10",
+    "name": "Ballpoint Pens, Black, 10-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "ballpoint-pens",
+    "priceCents": 4999,
+    "stock": 210,
+    "description": "Keep a pack in the office drawer for forms and everyday notes. Clear barrels make the remaining ink visible.",
+    "specs": [
+      {
+        "label": "Tip size",
+        "value": "1mm",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "10 pens",
+        "demo": true
+      }
+    ],
+    "weightGrams": 105,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 85,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Ten clear-barrel pens with plain black caps, fanned out",
+    "demo": true,
+    "sku": "AS-WRT-0009",
+    "barcode": "2000000000602",
+    "costPriceCents": 2695,
+    "reorderPoint": 42,
+    "reorderQty": 270,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S2-B4",
+    "tags": []
+  },
+  {
+    "slug": "ballpoint-pen-retractable",
+    "name": "Retractable Ballpoint Pen, 0.7mm",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "ballpoint-pens",
+    "priceCents": 1999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "black",
+          "label": "Black",
+          "stock": 80,
+          "swatch": "#1F1B1E",
+          "sku": "AS-WRT-0010-BLACK",
+          "barcode": "2000000000626",
+          "reorderPoint": 16,
+          "reorderQty": 100,
+          "demo": true
+        },
+        {
+          "key": "blue",
+          "label": "Blue",
+          "stock": 120,
+          "swatch": "#254B8F",
+          "sku": "AS-WRT-0010-BLUE",
+          "barcode": "2000000000633",
+          "reorderPoint": 24,
+          "reorderQty": 150,
+          "demo": true
+        },
+        {
+          "key": "red",
+          "label": "Red",
+          "stock": 0,
+          "swatch": "#B13232",
+          "sku": "AS-WRT-0010-RED",
+          "barcode": "2000000000640",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "description": "A push-button pen for quick notes at school or work. Choose an ink colour from the available options.",
+    "specs": [
+      {
+        "label": "Tip size",
+        "value": "0.7mm",
+        "demo": true
+      },
+      {
+        "label": "Mechanism",
+        "value": "Push button",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Matte plastic",
+        "demo": true
+      }
+    ],
+    "weightGrams": 18,
+    "dimensionsMm": {
+      "l": 150,
+      "w": 25,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "One plain matte retractable pen per ink colour, identical pose",
+    "demo": true,
+    "sku": "AS-WRT-0010",
+    "barcode": "2000000000619",
+    "costPriceCents": 1078,
+    "reorderPoint": 16,
+    "reorderQty": 100,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S2-B5",
+    "tags": []
+  },
+  {
+    "slug": "gel-pen-black-07",
+    "name": "Gel Pen, Black, 0.7mm",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "gel-pens",
+    "priceCents": 2499,
+    "stock": 95,
+    "description": "Use this black gel pen for notes and handwritten cards. The cap clips onto a notebook cover.",
+    "specs": [
+      {
+        "label": "Tip size",
+        "value": "0.7mm",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 pen",
+        "demo": true
+      }
+    ],
+    "weightGrams": 18,
+    "dimensionsMm": {
+      "l": 150,
+      "w": 25,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Single capped black gel pen, no barrel markings",
+    "demo": true,
+    "sku": "AS-WRT-0011",
+    "barcode": "2000000000657",
+    "costPriceCents": 1347,
+    "reorderPoint": 19,
+    "reorderQty": 120,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S3-B1",
+    "tags": []
+  },
+  {
+    "slug": "pencils-2b-6",
+    "name": "2B Sketching Pencils, 6-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "pencils",
+    "priceCents": 3299,
+    "stock": 110,
+    "description": "Softer leads suit sketching and shaded school drawings. The six pencils arrive sharpened in a simple sleeve.",
+    "specs": [
+      {
+        "label": "Grade",
+        "value": "2B",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Hexagonal wood",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "6 pencils",
+        "demo": true
+      }
+    ],
+    "weightGrams": 55,
+    "dimensionsMm": {
+      "l": 200,
+      "w": 55,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Six sharpened plain charcoal-grey wooden pencils in a row",
+    "demo": true,
+    "sku": "AS-WRT-0012",
+    "barcode": "2000000000664",
+    "costPriceCents": 1779,
+    "reorderPoint": 22,
+    "reorderQty": 140,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S3-B2",
+    "tags": []
+  },
+  {
+    "slug": "mechanical-leads-05-hb",
+    "name": "Mechanical Pencil Leads, 0.5mm HB, 24",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "mechanical-pencils",
+    "priceCents": 1899,
+    "stock": 160,
+    "description": "Refill a compatible 0.5mm mechanical pencil without replacing its barrel. A small lidded case keeps the spare leads together.",
+    "specs": [
+      {
+        "label": "Lead diameter",
+        "value": "0.5mm",
+        "demo": true
+      },
+      {
+        "label": "Grade",
+        "value": "HB",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "24 leads",
+        "demo": true
+      }
+    ],
+    "weightGrams": 14,
+    "dimensionsMm": {
+      "l": 90,
+      "w": 35,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Plain translucent lead case with a few fine graphite leads beside it",
+    "demo": true,
+    "sku": "AS-WRT-0013",
+    "barcode": "2000000000671",
+    "costPriceCents": 1024,
+    "reorderPoint": 32,
+    "reorderQty": 200,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S3-B3",
+    "tags": []
+  },
+  {
+    "slug": "permanent-markers-black-2",
+    "name": "Permanent Markers, Black, 2-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "markers",
+    "priceCents": 3499,
+    "stock": 180,
+    "description": "These black markers are for general labelling jobs around the office. Keep the caps on between uses.",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Bullet",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "2 markers",
+        "demo": true
+      }
+    ],
+    "weightGrams": 48,
+    "dimensionsMm": {
+      "l": 165,
+      "w": 65,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Two generic black bullet-tip markers, one uncapped",
+    "demo": true,
+    "sku": "AS-WRT-0014",
+    "barcode": "2000000000688",
+    "costPriceCents": 1886,
+    "reorderPoint": 36,
+    "reorderQty": 230,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S3-B4",
+    "tags": []
+  },
+  {
+    "slug": "highlighter-pastel-6",
+    "name": "Pastel Highlighters, 6-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "highlighters",
+    "priceCents": 8999,
+    "stock": 45,
+    "special": {
+      "priceCents": 6999,
+      "demo": true
+    },
+    "description": "Mark revision notes with six softer highlight colours. Broad chisel tips also make narrow strokes when turned on edge.",
+    "specs": [
+      {
+        "label": "Tip",
+        "value": "Chisel",
+        "demo": true
+      },
+      {
+        "label": "Colours",
+        "value": "6 pastel colours",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "6 highlighters",
+        "demo": true
+      }
+    ],
+    "weightGrams": 120,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 110,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Six pastel chisel-tip highlighters in a straight row",
+    "demo": true,
+    "sku": "AS-WRT-0015",
+    "barcode": "2000000000695",
+    "costPriceCents": 4852,
+    "reorderPoint": 9,
+    "reorderQty": 60,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S3-B5",
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "slug": "fineliner-black-03",
+    "name": "Fineliner, Black, 0.3mm",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "fineliners",
+    "priceCents": 2999,
+    "stock": 4,
+    "description": "A fine black tip suits line drawings and small notebook details. This is a single pen rather than a colour set.",
+    "specs": [
+      {
+        "label": "Tip size",
+        "value": "0.3mm",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 pen",
+        "demo": true
+      }
+    ],
+    "weightGrams": 15,
+    "dimensionsMm": {
+      "l": 150,
+      "w": 20,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Plain black fineliner with its fine tip visible",
+    "demo": true,
+    "sku": "AS-WRT-0016",
+    "barcode": "2000000000701",
+    "costPriceCents": 1617,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S4-B1",
+    "tags": []
+  },
+  {
+    "slug": "rollerball-pen-metal",
+    "name": "Metal Rollerball Pen, Black Ink",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "premium-pens",
+    "priceCents": 15999,
+    "stock": 30,
+    "description": "A metal-bodied rollerball for meeting notes and desk use. It comes with a plain presentation sleeve.",
+    "specs": [
+      {
+        "label": "Tip size",
+        "value": "0.7mm",
+        "demo": true
+      },
+      {
+        "label": "Ink colour",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Brushed metal",
+        "demo": true
+      }
+    ],
+    "weightGrams": 48,
+    "dimensionsMm": {
+      "l": 175,
+      "w": 45,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Generic brushed-metal pen beside a blank sleeve",
+    "demo": true,
+    "sku": "AS-WRT-0017",
+    "barcode": "2000000000718",
+    "costPriceCents": 8626,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S4-B2",
+    "tags": []
+  },
+  {
+    "slug": "correction-tape-5mm",
+    "name": "Correction Tape, 5mm × 8m",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "correction",
+    "priceCents": 2499,
+    "stock": 140,
+    "description": "Cover a short typing or handwriting error with a strip of white tape. The compact dispenser fits in a pencil case.",
+    "specs": [
+      {
+        "label": "Tape width",
+        "value": "5mm",
+        "demo": true
+      },
+      {
+        "label": "Tape length",
+        "value": "8m",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Handheld dispenser",
+        "demo": true
+      }
+    ],
+    "weightGrams": 30,
+    "dimensionsMm": {
+      "l": 110,
+      "w": 65,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Plain white correction-tape dispenser, application tip visible",
+    "demo": true,
+    "sku": "AS-WRT-0018",
+    "barcode": "2000000000725",
+    "costPriceCents": 1347,
+    "reorderPoint": 28,
+    "reorderQty": 180,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S4-B3",
+    "tags": []
+  },
+  {
+    "slug": "correction-fluid-20ml",
+    "name": "Correction Fluid, 20ml",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "correction",
+    "priceCents": 1999,
+    "stock": 0,
+    "description": "A brush applicator covers small errors on paper. Let the coating dry before writing over it.",
+    "specs": [
+      {
+        "label": "Volume",
+        "value": "20ml",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "White",
+        "demo": true
+      },
+      {
+        "label": "Applicator",
+        "value": "Brush in cap",
+        "demo": true
+      }
+    ],
+    "weightGrams": 48,
+    "dimensionsMm": {
+      "l": 75,
+      "w": 35,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Small white bottle with blank label and closed cap",
+    "demo": true,
+    "sku": "AS-WRT-0019",
+    "barcode": "2000000000732",
+    "costPriceCents": 1078,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S4-B4",
+    "tags": []
+  },
+  {
+    "slug": "fountain-ink-cartridges-blue-6",
+    "name": "Fountain Pen Ink Cartridges, Blue, 6-pack",
+    "brand": "Northline",
+    "category": "writing",
+    "subcategory": "premium-pens",
+    "priceCents": 3999,
+    "stock": 75,
+    "description": "Keep spare blue ink cartridges with your writing supplies. Check the cartridge fitting against your pen before choosing.",
+    "specs": [
+      {
+        "label": "Ink colour",
+        "value": "Blue",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Short cartridge",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "6 cartridges",
+        "demo": true
+      }
+    ],
+    "weightGrams": 25,
+    "dimensionsMm": {
+      "l": 100,
+      "w": 55,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Six plain blue ink cartridges arranged beside an unprinted sleeve",
+    "demo": true,
+    "sku": "AS-WRT-0020",
+    "barcode": "2000000000749",
+    "costPriceCents": 2156,
+    "reorderPoint": 15,
+    "reorderQty": 100,
+    "supplier": "quillmere-demo-wholesale",
+    "binLocation": "A01-S4-B5",
+    "tags": []
+  },
+  {
+    "slug": "exercise-book-a5-32",
+    "name": "A5 Exercise Book, 32 pages",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "exercise-books",
+    "priceCents": 1099,
+    "stock": 240,
+    "description": "A small exercise book for short lessons and practice notes. Its plain cover has a blank name panel.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "32",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Feint ruled",
+        "demo": true
+      }
+    ],
+    "weightGrams": 65,
+    "dimensionsMm": {
+      "l": 215,
+      "w": 152,
+      "h": 5,
+      "demo": true
+    },
+    "imageNotes": "Pale blue exercise book with a blank name panel",
+    "demo": true,
+    "sku": "AS-PAP-0009",
+    "barcode": "2000000000756",
+    "costPriceCents": 593,
+    "reorderPoint": 48,
+    "reorderQty": 300,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S2-B4",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "hardcover-book-a5-192",
+    "name": "A5 Hardcover Book, 192 pages",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "hardcover-books",
+    "priceCents": 2999,
+    "stock": 80,
+    "description": "A compact hardcover book for class notes or a work diary. Ruled pages keep longer entries in order.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "192",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Ruled",
+        "demo": true
+      }
+    ],
+    "weightGrams": 270,
+    "dimensionsMm": {
+      "l": 218,
+      "w": 155,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "Plain burgundy A5 hardcover at a slight angle",
+    "demo": true,
+    "sku": "AS-PAP-0010",
+    "barcode": "2000000000763",
+    "costPriceCents": 1617,
+    "reorderPoint": 16,
+    "reorderQty": 100,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S2-B5",
+    "tags": []
+  },
+  {
+    "slug": "notebook-a6-ruled",
+    "name": "A6 Ruled Notebook",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "notebooks-journals",
+    "priceCents": 5999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "navy",
+          "label": "Navy",
+          "stock": 80,
+          "swatch": "#1E2A4A",
+          "sku": "AS-PAP-0011-NAVY",
+          "barcode": "2000000000787",
+          "reorderPoint": 16,
+          "reorderQty": 100,
+          "demo": true
+        },
+        {
+          "key": "sage",
+          "label": "Sage",
+          "stock": 60,
+          "swatch": "#9DB09A",
+          "sku": "AS-PAP-0011-SAGE",
+          "barcode": "2000000000794",
+          "reorderPoint": 12,
+          "reorderQty": 80,
+          "demo": true
+        },
+        {
+          "key": "blush",
+          "label": "Blush",
+          "stock": 50,
+          "swatch": "#F1C6D3",
+          "sku": "AS-PAP-0011-BLUSH",
+          "barcode": "2000000000800",
+          "reorderPoint": 10,
+          "reorderQty": 70,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "description": "A pocket notebook for shopping lists and quick reminders. Choose a plain cloth cover from the colour options.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A6",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "96",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Ruled",
+        "demo": true
+      }
+    ],
+    "weightGrams": 110,
+    "dimensionsMm": {
+      "l": 155,
+      "w": 112,
+      "h": 13,
+      "demo": true
+    },
+    "imageNotes": "One plain cloth notebook per cover colour, matching angle",
+    "demo": true,
+    "sku": "AS-PAP-0011",
+    "barcode": "2000000000770",
+    "costPriceCents": 3234,
+    "reorderPoint": 16,
+    "reorderQty": 100,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S3-B1",
+    "tags": []
+  },
+  {
+    "slug": "printing-paper-a3-80",
+    "name": "A3 Printing Paper, 80gsm, 500 sheets",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "printing-paper",
+    "priceCents": 18999,
+    "stock": 45,
+    "bulk": {
+      "minQty": 10,
+      "priceCents": 17499,
+      "demo": true
+    },
+    "description": "A large-format ream for office printing and school projects. Check that the printer accepts A3 paper before loading.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A3",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "80gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "500",
+        "demo": true
+      }
+    ],
+    "weightGrams": 5100,
+    "dimensionsMm": {
+      "l": 430,
+      "w": 310,
+      "h": 60,
+      "demo": true
+    },
+    "imageNotes": "Plain wrapped A3 ream with one corner of white paper visible",
+    "demo": true,
+    "sku": "AS-PAP-0012",
+    "barcode": "2000000000817",
+    "costPriceCents": 10243,
+    "reorderPoint": 9,
+    "reorderQty": 60,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S3-B2",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "sticky-flags-5",
+    "name": "Page Flags, 5 colours",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "sticky-notes",
+    "priceCents": 2499,
+    "stock": 160,
+    "description": "Mark pages in a textbook or working file without folding the corners. Five colours help separate sections.",
+    "specs": [
+      {
+        "label": "Flag size",
+        "value": "12 × 44mm",
+        "demo": true
+      },
+      {
+        "label": "Colours",
+        "value": "5",
+        "demo": true
+      },
+      {
+        "label": "Flags",
+        "value": "100",
+        "demo": true
+      }
+    ],
+    "weightGrams": 25,
+    "dimensionsMm": {
+      "l": 95,
+      "w": 70,
+      "h": 10,
+      "demo": true
+    },
+    "imageNotes": "Five slim coloured flag pads in a plain holder, top-down",
+    "demo": true,
+    "sku": "AS-PAP-0013",
+    "barcode": "2000000000824",
+    "costPriceCents": 1347,
+    "reorderPoint": 32,
+    "reorderQty": 200,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S3-B3",
+    "tags": []
+  },
+  {
+    "slug": "notepad-a5-topbound",
+    "name": "A5 Top-bound Notepad, 80 sheets",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "notepads",
+    "priceCents": 2499,
+    "stock": 120,
+    "description": "Keep this ruled pad near the phone or on a study desk. Sheets tear off from the glued top edge.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "80",
+        "demo": true
+      },
+      {
+        "label": "Binding",
+        "value": "Top glue-bound",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 215,
+      "w": 152,
+      "h": 14,
+      "demo": true
+    },
+    "imageNotes": "A5 ruled pad with a blank top margin",
+    "demo": true,
+    "sku": "AS-PAP-0014",
+    "barcode": "2000000000831",
+    "costPriceCents": 1347,
+    "reorderPoint": 24,
+    "reorderQty": 150,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S3-B4",
+    "tags": []
+  },
+  {
+    "slug": "envelopes-c4-10",
+    "name": "C4 Envelopes, White, 10-pack",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "envelopes",
+    "priceCents": 3499,
+    "stock": 90,
+    "bulk": {
+      "minQty": 5,
+      "priceCents": 2999,
+      "demo": true
+    },
+    "description": "Post or store A4 documents without folding the pages. The pack contains ten plain white envelopes.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "C4",
+        "demo": true
+      },
+      {
+        "label": "Dimensions",
+        "value": "324 × 229mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "10 envelopes",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 335,
+      "w": 240,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "Ten plain white C4 envelopes, lightly fanned",
+    "demo": true,
+    "sku": "AS-PAP-0015",
+    "barcode": "2000000000848",
+    "costPriceCents": 1886,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S3-B5",
+    "tags": []
+  },
+  {
+    "slug": "graph-pad-a4-50",
+    "name": "A4 Graph Pad, 50 sheets",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "graph-paper",
+    "priceCents": 2999,
+    "stock": 65,
+    "description": "Use the square grid for graphs and measured diagrams. Individual sheets lift from the top-bound pad.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Grid",
+        "value": "5mm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "50",
+        "demo": true
+      }
+    ],
+    "weightGrams": 310,
+    "dimensionsMm": {
+      "l": 305,
+      "w": 215,
+      "h": 10,
+      "demo": true
+    },
+    "imageNotes": "Open graph pad showing an even square grid",
+    "demo": true,
+    "sku": "AS-PAP-0016",
+    "barcode": "2000000000855",
+    "costPriceCents": 1617,
+    "reorderPoint": 13,
+    "reorderQty": 90,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S4-B1",
+    "tags": []
+  },
+  {
+    "slug": "index-cards-a6-100",
+    "name": "A6 Index Cards, Ruled, 100",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "notepads",
+    "priceCents": 3999,
+    "stock": 100,
+    "description": "Make revision cards or sort short notes into topics. The reverse of each card is blank.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A6",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Single-sided ruled",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "100 cards",
+        "demo": true
+      }
+    ],
+    "weightGrams": 240,
+    "dimensionsMm": {
+      "l": 155,
+      "w": 112,
+      "h": 28,
+      "demo": true
+    },
+    "imageNotes": "Stack of white index cards with faint ruled lines",
+    "demo": true,
+    "sku": "AS-PAP-0017",
+    "barcode": "2000000000862",
+    "costPriceCents": 2156,
+    "reorderPoint": 20,
+    "reorderQty": 130,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S4-B2",
+    "tags": []
+  },
+  {
+    "slug": "tracing-paper-a4-50",
+    "name": "A4 Tracing Paper, 90gsm, 50 sheets",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "printing-paper",
+    "priceCents": 6999,
+    "stock": 3,
+    "description": "Translucent sheets help transfer outlines between drawings. Keep the unused paper flat in its sleeve.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "90gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "50",
+        "demo": true
+      }
+    ],
+    "weightGrams": 320,
+    "dimensionsMm": {
+      "l": 310,
+      "w": 220,
+      "h": 12,
+      "demo": true
+    },
+    "imageNotes": "Plain sleeve of translucent tracing paper, one sheet lifted",
+    "demo": true,
+    "sku": "AS-PAP-0018",
+    "barcode": "2000000000879",
+    "costPriceCents": 3773,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S4-B3",
+    "tags": []
+  },
+  {
+    "slug": "coloured-paper-a4-100",
+    "name": "A4 Coloured Paper, 80gsm, 100 sheets",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "printing-paper",
+    "priceCents": 5999,
+    "stock": 100,
+    "description": "A mix of coloured sheets for classroom displays and paper projects. The pack is supplied in a plain wrapper.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "80gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "100 assorted",
+        "demo": true
+      }
+    ],
+    "weightGrams": 540,
+    "dimensionsMm": {
+      "l": 305,
+      "w": 215,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "Stack of coloured A4 paper with staggered edges",
+    "demo": true,
+    "sku": "AS-PAP-0019",
+    "barcode": "2000000000886",
+    "costPriceCents": 3234,
+    "reorderPoint": 20,
+    "reorderQty": 130,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S4-B4",
+    "tags": []
+  },
+  {
+    "slug": "exercise-book-a4-quad-96",
+    "name": "A4 Quad Exercise Book, 96 pages",
+    "brand": "Paperleaf",
+    "category": "paper-books",
+    "subcategory": "graph-paper",
+    "priceCents": 3499,
+    "stock": 210,
+    "description": "Squared pages suit maths practice and graph work. A blank cover panel leaves space for a subject name.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "96",
+        "demo": true
+      },
+      {
+        "label": "Grid",
+        "value": "5mm",
+        "demo": true
+      }
+    ],
+    "weightGrams": 245,
+    "dimensionsMm": {
+      "l": 305,
+      "w": 215,
+      "h": 10,
+      "demo": true
+    },
+    "imageNotes": "Plain green exercise book open to even square-grid pages",
+    "demo": true,
+    "sku": "AS-PAP-0020",
+    "barcode": "2000000000893",
+    "costPriceCents": 1886,
+    "reorderPoint": 42,
+    "reorderQty": 270,
+    "supplier": "ledgerfern-demo-supply",
+    "binLocation": "A02-S4-B5",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "backpack-18l",
+    "name": "Compact School Backpack, 18L",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "bags",
+    "priceCents": 34999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "navy",
+          "label": "Navy",
+          "stock": 30,
+          "swatch": "#1E2A4A",
+          "sku": "AS-SCH-0009-NAVY",
+          "barcode": "2000000000916",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        },
+        {
+          "key": "berry",
+          "label": "Berry",
+          "stock": 25,
+          "swatch": "#B3125F",
+          "sku": "AS-SCH-0009-BERRY",
+          "barcode": "2000000000923",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        },
+        {
+          "key": "olive",
+          "label": "Olive",
+          "stock": 20,
+          "swatch": "#68704B",
+          "sku": "AS-SCH-0009-OLIVE",
+          "barcode": "2000000000930",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "special": {
+      "priceCents": 29999,
+      "demo": true
+    },
+    "description": "A smaller school bag with space for books and a pencil case. Choose a plain colour from the options.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "18L",
+        "demo": true
+      },
+      {
+        "label": "Compartments",
+        "value": "2 zipped",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Woven polyester",
+        "demo": true
+      }
+    ],
+    "weightGrams": 480,
+    "dimensionsMm": {
+      "l": 420,
+      "w": 320,
+      "h": 85,
+      "demo": true
+    },
+    "imageNotes": "Compact generic backpack in each colour, front three-quarter view",
+    "demo": true,
+    "sku": "AS-SCH-0009",
+    "barcode": "2000000000909",
+    "costPriceCents": 18869,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S2-B4",
+    "tags": [
+      "school-list",
+      "new"
+    ]
+  },
+  {
+    "slug": "pencil-case-double-zip",
+    "name": "Double-zip Pencil Case",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "pencil-cases",
+    "priceCents": 12999,
+    "stock": 55,
+    "description": "Two zipped sections separate pens from small drawing tools. The soft fabric case fits in a school bag.",
+    "specs": [
+      {
+        "label": "Compartments",
+        "value": "2",
+        "demo": true
+      },
+      {
+        "label": "Closure",
+        "value": "Zips",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Woven polyester",
+        "demo": true
+      }
+    ],
+    "weightGrams": 120,
+    "dimensionsMm": {
+      "l": 240,
+      "w": 130,
+      "h": 65,
+      "demo": true
+    },
+    "imageNotes": "Plain navy fabric case with both zip compartments visible",
+    "demo": true,
+    "sku": "AS-SCH-0010",
+    "barcode": "2000000000947",
+    "costPriceCents": 7008,
+    "reorderPoint": 11,
+    "reorderQty": 70,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S2-B5",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "maths-compass-metal",
+    "name": "Metal Drawing Compass",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "maths-sets",
+    "priceCents": 2999,
+    "stock": 60,
+    "description": "Draw circles for geometry exercises with a clamped pencil. The compass folds into a plain storage sleeve.",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Metal",
+        "demo": true
+      },
+      {
+        "label": "Pencil fitting",
+        "value": "Clamp",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 compass",
+        "demo": true
+      }
+    ],
+    "weightGrams": 55,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 65,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Closed metal compass beside a blank sleeve",
+    "demo": true,
+    "sku": "AS-SCH-0011",
+    "barcode": "2000000000954",
+    "costPriceCents": 1617,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S3-B1",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "ruler-15cm",
+    "name": "15cm Ruler, Clear",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "rulers",
+    "priceCents": 999,
+    "stock": 220,
+    "description": "A short ruler for pencil-case storage and small diagrams. Its clear body keeps the page underneath visible.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "15cm",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Clear plastic",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 ruler",
+        "demo": true
+      }
+    ],
+    "weightGrams": 18,
+    "dimensionsMm": {
+      "l": 175,
+      "w": 35,
+      "h": 8,
+      "demo": true
+    },
+    "imageNotes": "Clear short ruler with evenly spaced ticks, top-down",
+    "demo": true,
+    "sku": "AS-SCH-0012",
+    "barcode": "2000000000961",
+    "costPriceCents": 539,
+    "reorderPoint": 44,
+    "reorderQty": 280,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S3-B2",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "eraser-large-white",
+    "name": "Large White Eraser",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "erasers-sharpeners",
+    "priceCents": 999,
+    "stock": 240,
+    "description": "A plain white eraser for graphite notes and drawings. The paper sleeve gives a clean place to hold it.",
+    "specs": [
+      {
+        "label": "Colour",
+        "value": "White",
+        "demo": true
+      },
+      {
+        "label": "Size",
+        "value": "60 × 22 × 12mm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "1 eraser",
+        "demo": true
+      }
+    ],
+    "weightGrams": 30,
+    "dimensionsMm": {
+      "l": 70,
+      "w": 35,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Single white eraser in a blank paper sleeve",
+    "demo": true,
+    "sku": "AS-SCH-0013",
+    "barcode": "2000000000978",
+    "costPriceCents": 539,
+    "reorderPoint": 48,
+    "reorderQty": 300,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S3-B3",
+    "tags": [
+      "school-list",
+      "bestseller"
+    ]
+  },
+  {
+    "slug": "sharpener-metal-single",
+    "name": "Single-hole Metal Sharpener",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "erasers-sharpeners",
+    "priceCents": 1499,
+    "stock": 180,
+    "description": "A small sharpener for standard wooden pencils. Empty the shavings into a bin after use.",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Metal",
+        "demo": true
+      },
+      {
+        "label": "Holes",
+        "value": "1",
+        "demo": true
+      },
+      {
+        "label": "Pencil size",
+        "value": "Standard",
+        "demo": true
+      }
+    ],
+    "weightGrams": 20,
+    "dimensionsMm": {
+      "l": 45,
+      "w": 35,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Generic brushed-metal single-hole sharpener",
+    "demo": true,
+    "sku": "AS-SCH-0014",
+    "barcode": "2000000000985",
+    "costPriceCents": 808,
+    "reorderPoint": 36,
+    "reorderQty": 230,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S3-B4",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "book-covering-colour-5m",
+    "name": "Book Covering Roll, Navy, 5m",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "book-covering",
+    "priceCents": 5999,
+    "stock": 95,
+    "description": "Wrap exercise books in a plain navy cover. Cut each piece to the book size before folding the edges.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "5m",
+        "demo": true
+      },
+      {
+        "label": "Width",
+        "value": "450mm",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Navy",
+        "demo": true
+      }
+    ],
+    "weightGrams": 330,
+    "dimensionsMm": {
+      "l": 460,
+      "w": 55,
+      "h": 55,
+      "demo": true
+    },
+    "imageNotes": "Rolled plain navy book covering with a short edge unrolled",
+    "demo": true,
+    "sku": "AS-SCH-0015",
+    "barcode": "2000000000992",
+    "costPriceCents": 3234,
+    "reorderPoint": 19,
+    "reorderQty": 120,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S3-B5",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "name-labels-write-on-48",
+    "name": "Write-on Name Labels, 48",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "name-labels",
+    "priceCents": 3499,
+    "stock": 120,
+    "description": "Add names to books and stationery with these blank labels. The pack contains forty-eight write-on spaces.",
+    "specs": [
+      {
+        "label": "Label size",
+        "value": "50 × 20mm",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Write-on sheet",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "48 labels",
+        "demo": true
+      }
+    ],
+    "weightGrams": 40,
+    "dimensionsMm": {
+      "l": 225,
+      "w": 160,
+      "h": 5,
+      "demo": true
+    },
+    "imageNotes": "Sheets of blank rectangular labels, top-down",
+    "demo": true,
+    "sku": "AS-SCH-0016",
+    "barcode": "2000000001005",
+    "costPriceCents": 1886,
+    "reorderPoint": 24,
+    "reorderQty": 150,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S4-B1",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "calculator-scientific-240",
+    "name": "Scientific Calculator, 240 functions",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "calculators",
+    "priceCents": 34999,
+    "stock": 65,
+    "special": {
+      "priceCents": 29999,
+      "demo": true
+    },
+    "description": "A scientific calculator for secondary-school maths practice. A slide cover protects the keys in a school bag.",
+    "specs": [
+      {
+        "label": "Functions",
+        "value": "240",
+        "demo": true
+      },
+      {
+        "label": "Display",
+        "value": "Two-line",
+        "demo": true
+      },
+      {
+        "label": "Power",
+        "value": "Battery",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 185,
+      "w": 100,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "Generic scientific calculator with blank keys and blank display beside its cover",
+    "demo": true,
+    "sku": "AS-SCH-0017",
+    "barcode": "2000000001012",
+    "costPriceCents": 18869,
+    "reorderPoint": 13,
+    "reorderQty": 90,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S4-B2",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "calculator-basic-8-digit",
+    "name": "Basic Calculator, 8-digit",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "calculators",
+    "priceCents": 8999,
+    "stock": 90,
+    "description": "A basic calculator for arithmetic practice and everyday sums. Large number keys are spaced for clear use.",
+    "specs": [
+      {
+        "label": "Display",
+        "value": "8-digit",
+        "demo": true
+      },
+      {
+        "label": "Power",
+        "value": "Battery",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Handheld",
+        "demo": true
+      }
+    ],
+    "weightGrams": 100,
+    "dimensionsMm": {
+      "l": 155,
+      "w": 95,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Generic basic calculator with blank keys and display",
+    "demo": true,
+    "sku": "AS-SCH-0018",
+    "barcode": "2000000001029",
+    "costPriceCents": 4852,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S4-B3",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "geometry-set-squares-2",
+    "name": "Set Squares, 2-pack",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "maths-sets",
+    "priceCents": 2499,
+    "stock": 0,
+    "description": "Two set squares help lay out straight lines and common angles. Their clear bodies leave the drawing visible.",
+    "specs": [
+      {
+        "label": "Angles",
+        "value": "45° and 30°/60°",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Clear plastic",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "2 set squares",
+        "demo": true
+      }
+    ],
+    "weightGrams": 45,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 170,
+      "h": 8,
+      "demo": true
+    },
+    "imageNotes": "Two clear triangular set squares, no numerals, top-down",
+    "demo": true,
+    "sku": "AS-SCH-0019",
+    "barcode": "2000000001036",
+    "costPriceCents": 1347,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S4-B4",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "chair-bag-fabric",
+    "name": "Fabric Chair Bag",
+    "brand": "Little Scholar",
+    "category": "school",
+    "subcategory": "bags",
+    "priceCents": 11999,
+    "stock": 4,
+    "description": "Keep classroom books in two fabric pockets behind a chair. Check the chair-back width before choosing.",
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Woven polyester",
+        "demo": true
+      },
+      {
+        "label": "Pockets",
+        "value": "2",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Navy",
+        "demo": true
+      }
+    ],
+    "weightGrams": 230,
+    "dimensionsMm": {
+      "l": 350,
+      "w": 280,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Plain navy chair bag laid flat with two pockets visible",
+    "demo": true,
+    "sku": "AS-SCH-0020",
+    "barcode": "2000000001043",
+    "costPriceCents": 6469,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "satchelreed-demo-distribution",
+    "binLocation": "A03-S4-B5",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "colour-pencils-jumbo-12",
+    "name": "Jumbo Colour Pencils, 12",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "colouring",
+    "priceCents": 6999,
+    "stock": 85,
+    "description": "Thicker wooden pencils offer a broader grip for colouring practice. The pack contains twelve different colours.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "12",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Thick hexagonal wood",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "12 pencils",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 215,
+      "w": 130,
+      "h": 25,
+      "demo": true
+    },
+    "imageNotes": "Twelve thick plain colour pencils in spectrum order",
+    "demo": true,
+    "sku": "AS-ART-0009",
+    "barcode": "2000000001050",
+    "costPriceCents": 3773,
+    "reorderPoint": 17,
+    "reorderQty": 110,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S2-B4",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "poster-paint-500ml",
+    "name": "Poster Paint, 500ml",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "paint",
+    "priceCents": 6999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "red",
+          "label": "Red",
+          "stock": 40,
+          "swatch": "#BA3030",
+          "sku": "AS-ART-0010-RED",
+          "barcode": "2000000001074",
+          "reorderPoint": 8,
+          "reorderQty": 50,
+          "demo": true
+        },
+        {
+          "key": "blue",
+          "label": "Blue",
+          "stock": 35,
+          "swatch": "#254B8F",
+          "sku": "AS-ART-0010-BLUE",
+          "barcode": "2000000001081",
+          "reorderPoint": 7,
+          "reorderQty": 50,
+          "demo": true
+        },
+        {
+          "key": "yellow",
+          "label": "Yellow",
+          "stock": 0,
+          "swatch": "#E3BF27",
+          "sku": "AS-ART-0010-YELLOW",
+          "barcode": "2000000001098",
+          "reorderPoint": 6,
+          "reorderQty": 40,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "description": "A larger bottle for classroom posters and paper painting. Select a colour from the available options.",
+    "specs": [
+      {
+        "label": "Volume",
+        "value": "500ml",
+        "demo": true
+      },
+      {
+        "label": "Container",
+        "value": "Resealable bottle",
+        "demo": true
+      },
+      {
+        "label": "Finish",
+        "value": "Matte",
+        "demo": true
+      }
+    ],
+    "weightGrams": 680,
+    "dimensionsMm": {
+      "l": 170,
+      "w": 85,
+      "h": 85,
+      "demo": true
+    },
+    "imageNotes": "One plain paint bottle per colour with a blank colour-block label",
+    "demo": true,
+    "sku": "AS-ART-0010",
+    "barcode": "2000000001067",
+    "costPriceCents": 3773,
+    "reorderPoint": 8,
+    "reorderQty": 50,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S2-B5",
+    "tags": []
+  },
+  {
+    "slug": "brush-set-flat-5",
+    "name": "Flat Paint Brushes, 5-pack",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "brushes",
+    "priceCents": 4999,
+    "stock": 55,
+    "description": "Five flat brushes cover broad painted areas and straight edges. Different widths suit smaller details and larger shapes.",
+    "specs": [
+      {
+        "label": "Tip shape",
+        "value": "Flat",
+        "demo": true
+      },
+      {
+        "label": "Handles",
+        "value": "Wood",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "5 brushes",
+        "demo": true
+      }
+    ],
+    "weightGrams": 75,
+    "dimensionsMm": {
+      "l": 260,
+      "w": 75,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Five wooden-handled flat brushes arranged by width",
+    "demo": true,
+    "sku": "AS-ART-0011",
+    "barcode": "2000000001104",
+    "costPriceCents": 2695,
+    "reorderPoint": 11,
+    "reorderQty": 70,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S3-B1",
+    "tags": []
+  },
+  {
+    "slug": "drawing-pad-a3-30",
+    "name": "A3 Drawing Pad, 160gsm, 30 sheets",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "sketching",
+    "priceCents": 7999,
+    "stock": 45,
+    "description": "A larger drawing pad for pencil and dry-media studies. Sheets detach from the top glued edge.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A3",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "160gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "30",
+        "demo": true
+      }
+    ],
+    "weightGrams": 720,
+    "dimensionsMm": {
+      "l": 430,
+      "w": 310,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Plain A3 drawing pad with white textured paper visible",
+    "demo": true,
+    "sku": "AS-ART-0012",
+    "barcode": "2000000001111",
+    "costPriceCents": 4313,
+    "reorderPoint": 9,
+    "reorderQty": 60,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S3-B2",
+    "tags": []
+  },
+  {
+    "slug": "glue-liquid-125ml",
+    "name": "Liquid Craft Glue, 125ml",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "glue",
+    "priceCents": 2499,
+    "stock": 150,
+    "description": "A nozzle bottle dispenses small amounts for paper and card projects. Close the cap after each use.",
+    "specs": [
+      {
+        "label": "Volume",
+        "value": "125ml",
+        "demo": true
+      },
+      {
+        "label": "Applicator",
+        "value": "Nozzle",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "White",
+        "demo": true
+      }
+    ],
+    "weightGrams": 165,
+    "dimensionsMm": {
+      "l": 150,
+      "w": 55,
+      "h": 40,
+      "demo": true
+    },
+    "imageNotes": "Plain white glue bottle with a capped nozzle",
+    "demo": true,
+    "sku": "AS-ART-0013",
+    "barcode": "2000000001128",
+    "costPriceCents": 1347,
+    "reorderPoint": 30,
+    "reorderQty": 190,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S3-B3",
+    "tags": [
+      "school-list"
+    ]
+  },
+  {
+    "slug": "scissors-office-21cm",
+    "name": "General-purpose Scissors, 21cm",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "scissors-cutting",
+    "priceCents": 3999,
+    "stock": 70,
+    "description": "Longer blades suit paper-cutting tasks at a desk. The plain handles have separate finger and thumb loops.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "21cm",
+        "demo": true
+      },
+      {
+        "label": "Blades",
+        "value": "Steel",
+        "demo": true
+      },
+      {
+        "label": "Handles",
+        "value": "Black plastic",
+        "demo": true
+      }
+    ],
+    "weightGrams": 90,
+    "dimensionsMm": {
+      "l": 245,
+      "w": 100,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Generic steel scissors with plain black handles, top-down",
+    "demo": true,
+    "sku": "AS-ART-0014",
+    "barcode": "2000000001135",
+    "costPriceCents": 2156,
+    "reorderPoint": 14,
+    "reorderQty": 90,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S3-B4",
+    "tags": []
+  },
+  {
+    "slug": "modelling-dough-6",
+    "name": "Modelling Dough, 6 tubs",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "modelling",
+    "priceCents": 7999,
+    "stock": 65,
+    "description": "Six coloured dough tubs support small modelling projects. Replace each lid after use to keep the set together.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "6",
+        "demo": true
+      },
+      {
+        "label": "Tub size",
+        "value": "60g",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "6 tubs",
+        "demo": true
+      }
+    ],
+    "weightGrams": 470,
+    "dimensionsMm": {
+      "l": 230,
+      "w": 150,
+      "h": 65,
+      "demo": true
+    },
+    "imageNotes": "Six plain lidded tubs in six distinct colours",
+    "demo": true,
+    "sku": "AS-ART-0015",
+    "barcode": "2000000001142",
+    "costPriceCents": 4313,
+    "reorderPoint": 13,
+    "reorderQty": 90,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S3-B5",
+    "tags": []
+  },
+  {
+    "slug": "craft-card-a4-50",
+    "name": "A4 Craft Card, 180gsm, 50 sheets",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "craft-supplies",
+    "priceCents": 5999,
+    "stock": 100,
+    "description": "Coloured card adds structure to paper models and classroom displays. The pack contains fifty assorted sheets.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "180gsm",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "50 assorted",
+        "demo": true
+      }
+    ],
+    "weightGrams": 650,
+    "dimensionsMm": {
+      "l": 305,
+      "w": 215,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "Stack of coloured A4 card with visible layered edges",
+    "demo": true,
+    "sku": "AS-ART-0016",
+    "barcode": "2000000001159",
+    "costPriceCents": 3234,
+    "reorderPoint": 20,
+    "reorderQty": 130,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S4-B1",
+    "tags": []
+  },
+  {
+    "slug": "watercolour-pan-12",
+    "name": "Watercolour Pan Set, 12 colours",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "paint",
+    "priceCents": 9999,
+    "stock": 55,
+    "special": {
+      "priceCents": 7999,
+      "demo": true
+    },
+    "description": "Twelve watercolour pans fit inside a compact lidded case. The lid opens flat beside the colour tray.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "12",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Solid pans",
+        "demo": true
+      },
+      {
+        "label": "Case",
+        "value": "Plain plastic",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 240,
+      "w": 110,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "Open plain case showing exactly twelve colour pans",
+    "demo": true,
+    "sku": "AS-ART-0017",
+    "barcode": "2000000001166",
+    "costPriceCents": 5391,
+    "reorderPoint": 11,
+    "reorderQty": 70,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S4-B2",
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "slug": "pastels-oil-12",
+    "name": "Oil Pastels, 12 colours",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "colouring",
+    "priceCents": 5999,
+    "stock": 0,
+    "description": "Use these colour sticks for broad marks and layered drawings. Plain sleeves keep fingers off the lower part of each stick.",
+    "specs": [
+      {
+        "label": "Colours",
+        "value": "12",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Short sticks",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "12 pastels",
+        "demo": true
+      }
+    ],
+    "weightGrams": 140,
+    "dimensionsMm": {
+      "l": 160,
+      "w": 110,
+      "h": 22,
+      "demo": true
+    },
+    "imageNotes": "Twelve oil pastels in plain sleeves, spectrum order",
+    "demo": true,
+    "sku": "AS-ART-0018",
+    "barcode": "2000000001173",
+    "costPriceCents": 3234,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S4-B3",
+    "tags": []
+  },
+  {
+    "slug": "craft-sticks-100",
+    "name": "Wooden Craft Sticks, 100",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "craft-supplies",
+    "priceCents": 3499,
+    "stock": 95,
+    "description": "Use plain wooden sticks for models and small craft assemblies. The pack contains one hundred pieces.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "114mm",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Unpainted wood",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "100 sticks",
+        "demo": true
+      }
+    ],
+    "weightGrams": 170,
+    "dimensionsMm": {
+      "l": 150,
+      "w": 95,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Bundle of plain wooden craft sticks with several laid beside it",
+    "demo": true,
+    "sku": "AS-ART-0019",
+    "barcode": "2000000001180",
+    "costPriceCents": 1886,
+    "reorderPoint": 19,
+    "reorderQty": 120,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S4-B4",
+    "tags": []
+  },
+  {
+    "slug": "cutting-mat-a4",
+    "name": "A4 Cutting Mat",
+    "brand": "Fynbos Studio",
+    "category": "art-craft",
+    "subcategory": "scissors-cutting",
+    "priceCents": 12999,
+    "stock": 3,
+    "description": "Place the mat beneath paper-cutting work to provide a separate work surface. Store it flat between projects.",
+    "specs": [
+      {
+        "label": "Working size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Thickness",
+        "value": "3mm",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Dark green",
+        "demo": true
+      }
+    ],
+    "weightGrams": 350,
+    "dimensionsMm": {
+      "l": 320,
+      "w": 230,
+      "h": 8,
+      "demo": true
+    },
+    "imageNotes": "Plain dark-green rectangular cutting mat, top-down",
+    "demo": true,
+    "sku": "AS-ART-0020",
+    "barcode": "2000000001197",
+    "costPriceCents": 7008,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "pigmentvale-demo-trade",
+    "binLocation": "A04-S4-B5",
+    "tags": []
+  },
+  {
+    "slug": "stapler-mini",
+    "name": "Mini Stapler with Staples",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "staplers",
+    "priceCents": 4999,
+    "stock": 60,
+    "description": "A compact stapler for occasional desk and pencil-case use. A starter strip of staples is included.",
+    "specs": [
+      {
+        "label": "Staple size",
+        "value": "26/6",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Plastic and metal",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "1 starter strip",
+        "demo": true
+      }
+    ],
+    "weightGrams": 95,
+    "dimensionsMm": {
+      "l": 110,
+      "w": 65,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Plain compact black stapler beside a short staple strip",
+    "demo": true,
+    "sku": "AS-OFF-0009",
+    "barcode": "2000000001203",
+    "costPriceCents": 2695,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S2-B4",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "punch-single-hole",
+    "name": "Single-hole Punch",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "punches",
+    "priceCents": 4999,
+    "stock": 50,
+    "description": "Punch one hole at a time in paper labels and loose sheets. The small hand-held body stores in a desk drawer.",
+    "specs": [
+      {
+        "label": "Holes",
+        "value": "1",
+        "demo": true
+      },
+      {
+        "label": "Hole diameter",
+        "value": "6mm",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Metal",
+        "demo": true
+      }
+    ],
+    "weightGrams": 110,
+    "dimensionsMm": {
+      "l": 140,
+      "w": 70,
+      "h": 30,
+      "demo": true
+    },
+    "imageNotes": "Generic metal single-hole punch with handles closed",
+    "demo": true,
+    "sku": "AS-OFF-0010",
+    "barcode": "2000000001210",
+    "costPriceCents": 2695,
+    "reorderPoint": 10,
+    "reorderQty": 70,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S2-B5",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "binder-clips-25mm-12",
+    "name": "Binder Clips, 25mm, 12-pack",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "clips-pins",
+    "priceCents": 2999,
+    "stock": 150,
+    "description": "Hold loose documents together without punching them. Fold the silver handles down for filing.",
+    "specs": [
+      {
+        "label": "Width",
+        "value": "25mm",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Steel",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "12 clips",
+        "demo": true
+      }
+    ],
+    "weightGrams": 115,
+    "dimensionsMm": {
+      "l": 120,
+      "w": 90,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Twelve black binder clips with silver handles, top-down",
+    "demo": true,
+    "sku": "AS-OFF-0011",
+    "barcode": "2000000001227",
+    "costPriceCents": 1617,
+    "reorderPoint": 30,
+    "reorderQty": 190,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S3-B1",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "clear-tape-18mm-3",
+    "name": "Clear Tape, 18mm × 33m, 3 rolls",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "tape",
+    "priceCents": 2999,
+    "stock": 200,
+    "bulk": {
+      "minQty": 10,
+      "priceCents": 2499,
+      "demo": true
+    },
+    "description": "Three clear tape rolls for desk dispensers and wrapping tasks. Check the core size against the dispenser before loading.",
+    "specs": [
+      {
+        "label": "Width",
+        "value": "18mm",
+        "demo": true
+      },
+      {
+        "label": "Length per roll",
+        "value": "33m",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "3 rolls",
+        "demo": true
+      }
+    ],
+    "weightGrams": 105,
+    "dimensionsMm": {
+      "l": 115,
+      "w": 65,
+      "h": 65,
+      "demo": true
+    },
+    "imageNotes": "Three plain clear tape rolls arranged in a small stack",
+    "demo": true,
+    "sku": "AS-OFF-0012",
+    "barcode": "2000000001234",
+    "costPriceCents": 1617,
+    "reorderPoint": 40,
+    "reorderQty": 250,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S3-B2",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "ring-binder-a4-2ring",
+    "name": "A4 Two-ring Binder",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "files-folders",
+    "priceCents": 4999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "black",
+          "label": "Black",
+          "stock": 90,
+          "swatch": "#1F1B1E",
+          "sku": "AS-OFF-0013-BLACK",
+          "barcode": "2000000001258",
+          "reorderPoint": 18,
+          "reorderQty": 120,
+          "demo": true
+        },
+        {
+          "key": "navy",
+          "label": "Navy",
+          "stock": 70,
+          "swatch": "#1E2A4A",
+          "sku": "AS-OFF-0013-NAVY",
+          "barcode": "2000000001265",
+          "reorderPoint": 14,
+          "reorderQty": 90,
+          "demo": true
+        },
+        {
+          "key": "red",
+          "label": "Red",
+          "stock": 60,
+          "swatch": "#B13232",
+          "sku": "AS-OFF-0013-RED",
+          "barcode": "2000000001272",
+          "reorderPoint": 12,
+          "reorderQty": 80,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "description": "Store punched A4 notes and loose documents in a two-ring file. Choose a plain cover colour from the options.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Mechanism",
+        "value": "2 rings",
+        "demo": true
+      },
+      {
+        "label": "Spine width",
+        "value": "40mm",
+        "demo": true
+      }
+    ],
+    "weightGrams": 310,
+    "dimensionsMm": {
+      "l": 330,
+      "w": 270,
+      "h": 45,
+      "demo": true
+    },
+    "imageNotes": "One plain A4 ring binder per colour with blank spine label",
+    "demo": true,
+    "sku": "AS-OFF-0013",
+    "barcode": "2000000001241",
+    "costPriceCents": 2695,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S3-B3",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "document-wallets-a4-10",
+    "name": "A4 Document Wallets, 10-pack",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "files-folders",
+    "priceCents": 3999,
+    "stock": 130,
+    "bulk": {
+      "minQty": 10,
+      "priceCents": 3499,
+      "demo": true
+    },
+    "description": "Separate loose documents into clear open-top wallets. The ten-pack suits desk filing and class handouts.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Polypropylene",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "10 wallets",
+        "demo": true
+      }
+    ],
+    "weightGrams": 180,
+    "dimensionsMm": {
+      "l": 330,
+      "w": 245,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Ten plain translucent document wallets, lightly fanned",
+    "demo": true,
+    "sku": "AS-OFF-0014",
+    "barcode": "2000000001289",
+    "costPriceCents": 2156,
+    "reorderPoint": 26,
+    "reorderQty": 170,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S3-B4",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "desk-tray-stackable",
+    "name": "Stackable Letter Tray, A4",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "desk-organisers",
+    "priceCents": 7999,
+    "stock": 45,
+    "description": "Keep incoming paperwork in one raised tray. Matching trays can stack to separate tasks.",
+    "specs": [
+      {
+        "label": "Paper size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Material",
+        "value": "Plastic",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Black",
+        "demo": true
+      }
+    ],
+    "weightGrams": 280,
+    "dimensionsMm": {
+      "l": 350,
+      "w": 270,
+      "h": 80,
+      "demo": true
+    },
+    "imageNotes": "Plain black letter tray, front three-quarter view",
+    "demo": true,
+    "sku": "AS-OFF-0015",
+    "barcode": "2000000001296",
+    "costPriceCents": 4313,
+    "reorderPoint": 9,
+    "reorderQty": 60,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S3-B5",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "address-labels-a4-100",
+    "name": "A4 Address Labels, 100 sheets",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "labels",
+    "priceCents": 6999,
+    "stock": 85,
+    "description": "Print address labels on sheets with twenty-one blank spaces. Check the sheet layout in your print template first.",
+    "specs": [
+      {
+        "label": "Sheet size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Labels per sheet",
+        "value": "21",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "100",
+        "demo": true
+      }
+    ],
+    "weightGrams": 1050,
+    "dimensionsMm": {
+      "l": 310,
+      "w": 220,
+      "h": 28,
+      "demo": true
+    },
+    "imageNotes": "Plain sleeve of label sheets with blank rectangles visible",
+    "demo": true,
+    "sku": "AS-OFF-0016",
+    "barcode": "2000000001302",
+    "costPriceCents": 3773,
+    "reorderPoint": 17,
+    "reorderQty": 110,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S4-B1",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "laminating-pouches-a4-100",
+    "name": "A4 Laminating Pouches, 80 micron, 100",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "laminating-binding",
+    "priceCents": 17999,
+    "stock": 60,
+    "special": {
+      "priceCents": 14999,
+      "demo": true
+    },
+    "description": "Protect classroom and office pages inside clear laminating pouches. Check the pouch setting on the laminator before feeding.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A4",
+        "demo": true
+      },
+      {
+        "label": "Thickness",
+        "value": "80 micron per side",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "100 pouches",
+        "demo": true
+      }
+    ],
+    "weightGrams": 1400,
+    "dimensionsMm": {
+      "l": 315,
+      "w": 225,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Plain pack of transparent A4 pouches with one corner lifted",
+    "demo": true,
+    "sku": "AS-OFF-0017",
+    "barcode": "2000000001319",
+    "costPriceCents": 9704,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S4-B2",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "binding-combs-10mm-25",
+    "name": "Binding Combs, 10mm, 25-pack",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "laminating-binding",
+    "priceCents": 3999,
+    "stock": 80,
+    "description": "Finish punched reports with black plastic binding combs. The pack contains twenty-five matching combs.",
+    "specs": [
+      {
+        "label": "Diameter",
+        "value": "10mm",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "21-ring plastic",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "25 combs",
+        "demo": true
+      }
+    ],
+    "weightGrams": 155,
+    "dimensionsMm": {
+      "l": 310,
+      "w": 120,
+      "h": 40,
+      "demo": true
+    },
+    "imageNotes": "Twenty-five plain black binding combs neatly bundled",
+    "demo": true,
+    "sku": "AS-OFF-0018",
+    "barcode": "2000000001326",
+    "costPriceCents": 2156,
+    "reorderPoint": 16,
+    "reorderQty": 100,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S4-B3",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "push-pins-50",
+    "name": "Push Pins, Assorted, 50",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "clips-pins",
+    "priceCents": 1999,
+    "stock": 110,
+    "description": "Pin notices to a suitable noticeboard with these small headed pins. The plain lidded box keeps the set together.",
+    "specs": [
+      {
+        "label": "Heads",
+        "value": "Assorted plastic colours",
+        "demo": true
+      },
+      {
+        "label": "Pins",
+        "value": "Metal",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "50 pins",
+        "demo": true
+      }
+    ],
+    "weightGrams": 65,
+    "dimensionsMm": {
+      "l": 80,
+      "w": 65,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Small clear box of coloured push pins, top-down",
+    "demo": true,
+    "sku": "AS-OFF-0019",
+    "barcode": "2000000001333",
+    "costPriceCents": 1078,
+    "reorderPoint": 22,
+    "reorderQty": 140,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S4-B4",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "staple-remover",
+    "name": "Claw Staple Remover",
+    "brand": "Deskwise",
+    "category": "office-filing",
+    "subcategory": "staplers",
+    "priceCents": 2499,
+    "stock": 90,
+    "description": "Lift standard staples from paper before refiling documents. The compact spring body fits in a desk drawer.",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Claw",
+        "demo": true
+      },
+      {
+        "label": "Body",
+        "value": "Plastic and metal",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Black",
+        "demo": true
+      }
+    ],
+    "weightGrams": 40,
+    "dimensionsMm": {
+      "l": 85,
+      "w": 50,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Generic black claw staple remover, jaws slightly open",
+    "demo": true,
+    "sku": "AS-OFF-0020",
+    "barcode": "2000000001340",
+    "costPriceCents": 1347,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "clipthorn-demo-wholesale",
+    "binLocation": "A05-S4-B5",
+    "tags": [
+      "office-favourite"
+    ]
+  },
+  {
+    "slug": "diary-2027-a5-daily",
+    "name": "2027 Daily Diary, A5",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "planners-diaries",
+    "priceCents": 19999,
+    "options": {
+      "kind": "colour",
+      "values": [
+        {
+          "key": "berry",
+          "label": "Berry",
+          "stock": 40,
+          "swatch": "#B3125F",
+          "sku": "AS-GFT-0009-BERRY",
+          "barcode": "2000000001364",
+          "reorderPoint": 8,
+          "reorderQty": 50,
+          "demo": true
+        },
+        {
+          "key": "navy",
+          "label": "Navy",
+          "stock": 50,
+          "swatch": "#1E2A4A",
+          "sku": "AS-GFT-0009-NAVY",
+          "barcode": "2000000001371",
+          "reorderPoint": 10,
+          "reorderQty": 70,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    "special": {
+      "priceCents": 16999,
+      "endsAt": "2027-01-15T21:59:59.000Z",
+      "demo": true
+    },
+    "description": "A dated diary with a page for each day of the year. Choose a plain cloth cover from the options.",
+    "specs": [
+      {
+        "label": "Year",
+        "value": "2027",
+        "demo": true
+      },
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Layout",
+        "value": "One day per page",
+        "demo": true
+      }
+    ],
+    "weightGrams": 620,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 155,
+      "h": 35,
+      "demo": true
+    },
+    "imageNotes": "Plain cloth daily diary per cover colour, no year or lettering",
+    "demo": true,
+    "sku": "AS-GFT-0009",
+    "barcode": "2000000001357",
+    "costPriceCents": 10782,
+    "reorderPoint": 8,
+    "reorderQty": 50,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S2-B4",
+    "tags": [
+      "gift",
+      "new"
+    ]
+  },
+  {
+    "slug": "wall-planner-2027-a2",
+    "name": "2027 Wall Planner, A2",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "calendars",
+    "priceCents": 9999,
+    "stock": 65,
+    "description": "Plan the year on one large wall sheet. It is supplied rolled in a plain protective tube.",
+    "specs": [
+      {
+        "label": "Year",
+        "value": "2027",
+        "demo": true
+      },
+      {
+        "label": "Size",
+        "value": "A2",
+        "demo": true
+      },
+      {
+        "label": "Format",
+        "value": "Single wall sheet",
+        "demo": true
+      }
+    ],
+    "weightGrams": 125,
+    "dimensionsMm": {
+      "l": 610,
+      "w": 75,
+      "h": 75,
+      "demo": true
+    },
+    "imageNotes": "Partly unrolled year-grid sheet with no legible text beside a plain tube",
+    "demo": true,
+    "sku": "AS-GFT-0010",
+    "barcode": "2000000001388",
+    "costPriceCents": 5391,
+    "reorderPoint": 13,
+    "reorderQty": 90,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S2-B5",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "pocket-diary-2027",
+    "name": "2027 Pocket Diary",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "planners-diaries",
+    "priceCents": 6999,
+    "stock": 0,
+    "description": "A small week-to-view diary for a bag or jacket pocket. Its plain navy cover keeps the outside simple.",
+    "specs": [
+      {
+        "label": "Year",
+        "value": "2027",
+        "demo": true
+      },
+      {
+        "label": "Size",
+        "value": "A6",
+        "demo": true
+      },
+      {
+        "label": "Layout",
+        "value": "Week to view",
+        "demo": true
+      }
+    ],
+    "weightGrams": 125,
+    "dimensionsMm": {
+      "l": 155,
+      "w": 112,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Plain navy pocket diary, no year or lettering",
+    "demo": true,
+    "sku": "AS-GFT-0011",
+    "barcode": "2000000001395",
+    "costPriceCents": 3773,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S3-B1",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "journal-dot-grid-a5",
+    "name": "A5 Dot-grid Journal, 160 pages",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "journals",
+    "priceCents": 19999,
+    "stock": 90,
+    "description": "Use the dotted pages for notes, sketches and personal layouts. A plain sage cover keeps the journal easy to pair with other stationery.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Pages",
+        "value": "160",
+        "demo": true
+      },
+      {
+        "label": "Ruling",
+        "value": "Dot grid",
+        "demo": true
+      }
+    ],
+    "weightGrams": 330,
+    "dimensionsMm": {
+      "l": 220,
+      "w": 155,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Plain sage journal open to even dotted pages",
+    "demo": true,
+    "sku": "AS-GFT-0012",
+    "barcode": "2000000001401",
+    "costPriceCents": 10782,
+    "reorderPoint": 18,
+    "reorderQty": 120,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S3-B2",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "pencil-gift-tin-12",
+    "name": "Drawing Pencil Gift Tin, 12",
+    "brand": "Northline",
+    "category": "gifts-planners",
+    "subcategory": "gift-sets",
+    "priceCents": 9999,
+    "stock": 25,
+    "description": "Twelve graphite pencils provide a range for drawing studies. The plain metal tin keeps the set together for gifting.",
+    "specs": [
+      {
+        "label": "Pencils",
+        "value": "12 graphite grades",
+        "demo": true
+      },
+      {
+        "label": "Container",
+        "value": "Metal tin",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "Plain sleeve",
+        "demo": true
+      }
+    ],
+    "weightGrams": 175,
+    "dimensionsMm": {
+      "l": 205,
+      "w": 120,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Open plain metal tin showing twelve unmarked graphite pencils",
+    "demo": true,
+    "sku": "AS-GFT-0013",
+    "barcode": "2000000001418",
+    "costPriceCents": 5391,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S3-B3",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "watercolour-postcards-20",
+    "name": "Watercolour Postcards, 300gsm, 20",
+    "brand": "Fynbos Studio",
+    "category": "gifts-planners",
+    "subcategory": "gift-sets",
+    "priceCents": 7999,
+    "stock": 30,
+    "description": "Make small painted cards on textured watercolour paper. The reverse is left blank for your own message.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A6",
+        "demo": true
+      },
+      {
+        "label": "Paper weight",
+        "value": "300gsm",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "20 cards",
+        "demo": true
+      }
+    ],
+    "weightGrams": 125,
+    "dimensionsMm": {
+      "l": 155,
+      "w": 112,
+      "h": 15,
+      "demo": true
+    },
+    "imageNotes": "Stack of twenty blank textured postcard-sized cards",
+    "demo": true,
+    "sku": "AS-GFT-0014",
+    "barcode": "2000000001425",
+    "costPriceCents": 4313,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S3-B4",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "gift-bags-medium-3",
+    "name": "Medium Gift Bags, 3-pack",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "cards-wrap",
+    "priceCents": 4999,
+    "stock": 110,
+    "description": "Three plain paper bags make a simple finish for small stationery gifts. Fold the unused bags flat for storage.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "230 × 180 × 90mm",
+        "demo": true
+      },
+      {
+        "label": "Handles",
+        "value": "Paper cord",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "3 bags",
+        "demo": true
+      }
+    ],
+    "weightGrams": 160,
+    "dimensionsMm": {
+      "l": 250,
+      "w": 200,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Three folded plain paper gift bags with cord handles",
+    "demo": true,
+    "sku": "AS-GFT-0015",
+    "barcode": "2000000001432",
+    "costPriceCents": 2695,
+    "reorderPoint": 22,
+    "reorderQty": 140,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S3-B5",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "gift-tissue-10",
+    "name": "Gift Tissue Paper, 10 sheets",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "cards-wrap",
+    "priceCents": 2499,
+    "stock": 160,
+    "description": "Line a gift bag or wrap a small present with lightweight tissue. The pack mixes white and blush sheets.",
+    "specs": [
+      {
+        "label": "Sheet size",
+        "value": "500 × 700mm",
+        "demo": true
+      },
+      {
+        "label": "Colours",
+        "value": "White and blush",
+        "demo": true
+      },
+      {
+        "label": "Pack size",
+        "value": "10 sheets",
+        "demo": true
+      }
+    ],
+    "weightGrams": 70,
+    "dimensionsMm": {
+      "l": 270,
+      "w": 190,
+      "h": 8,
+      "demo": true
+    },
+    "imageNotes": "Ten folded sheets of plain white and blush tissue paper",
+    "demo": true,
+    "sku": "AS-GFT-0016",
+    "barcode": "2000000001449",
+    "costPriceCents": 1347,
+    "reorderPoint": 32,
+    "reorderQty": 200,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S4-B1",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "ribbon-satin-10m",
+    "name": "Satin Ribbon, Raspberry, 10m",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "cards-wrap",
+    "priceCents": 3999,
+    "stock": 100,
+    "description": "Tie a finishing bow around wrapped stationery and gift bags. A small spool keeps the spare ribbon tidy.",
+    "specs": [
+      {
+        "label": "Length",
+        "value": "10m",
+        "demo": true
+      },
+      {
+        "label": "Width",
+        "value": "15mm",
+        "demo": true
+      },
+      {
+        "label": "Colour",
+        "value": "Raspberry",
+        "demo": true
+      }
+    ],
+    "weightGrams": 55,
+    "dimensionsMm": {
+      "l": 85,
+      "w": 85,
+      "h": 20,
+      "demo": true
+    },
+    "imageNotes": "Plain spool of raspberry satin ribbon with a loose end",
+    "demo": true,
+    "sku": "AS-GFT-0017",
+    "barcode": "2000000001456",
+    "costPriceCents": 2156,
+    "reorderPoint": 20,
+    "reorderQty": 130,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S4-B2",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "greeting-card-watercolour",
+    "name": "Blank Watercolour Greeting Card",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "cards-wrap",
+    "priceCents": 1999,
+    "stock": 125,
+    "description": "A blank folded card leaves room for a handwritten message. A matching plain envelope is included.",
+    "specs": [
+      {
+        "label": "Folded size",
+        "value": "A6",
+        "demo": true
+      },
+      {
+        "label": "Inside",
+        "value": "Blank",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "1 envelope",
+        "demo": true
+      }
+    ],
+    "weightGrams": 30,
+    "dimensionsMm": {
+      "l": 165,
+      "w": 120,
+      "h": 5,
+      "demo": true
+    },
+    "imageNotes": "Single folded card with a simple raspberry brush block and plain envelope",
+    "demo": true,
+    "sku": "AS-GFT-0018",
+    "barcode": "2000000001463",
+    "costPriceCents": 1078,
+    "reorderPoint": 25,
+    "reorderQty": 160,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S4-B3",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "journal-gift-box",
+    "name": "Journal and Pen Gift Box",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "gift-sets",
+    "priceCents": 29999,
+    "stock": 3,
+    "description": "A plain notebook and black-ink pen are presented together in a fitted box. The notebook pages are ruled for everyday writing.",
+    "specs": [
+      {
+        "label": "Journal size",
+        "value": "A5",
+        "demo": true
+      },
+      {
+        "label": "Pen ink",
+        "value": "Black",
+        "demo": true
+      },
+      {
+        "label": "Includes",
+        "value": "Journal and pen",
+        "demo": true
+      }
+    ],
+    "weightGrams": 550,
+    "dimensionsMm": {
+      "l": 250,
+      "w": 200,
+      "h": 45,
+      "demo": true
+    },
+    "imageNotes": "Open plain gift box holding a linen journal and generic black pen",
+    "demo": true,
+    "sku": "AS-GFT-0019",
+    "barcode": "2000000001470",
+    "costPriceCents": 16173,
+    "reorderPoint": 6,
+    "reorderQty": 40,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S4-B4",
+    "tags": [
+      "gift"
+    ]
+  },
+  {
+    "slug": "desk-pad-weekly-a3",
+    "name": "A3 Weekly Desk Pad, 52 sheets",
+    "brand": "Paperleaf",
+    "category": "gifts-planners",
+    "subcategory": "planners-diaries",
+    "priceCents": 7999,
+    "stock": 60,
+    "special": {
+      "priceCents": 6499,
+      "demo": true
+    },
+    "description": "Plan a week at a time on a large tear-off desk pad. Undated sections let you start on any week.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "A3",
+        "demo": true
+      },
+      {
+        "label": "Sheets",
+        "value": "52",
+        "demo": true
+      },
+      {
+        "label": "Layout",
+        "value": "Undated weekly",
+        "demo": true
+      }
+    ],
+    "weightGrams": 900,
+    "dimensionsMm": {
+      "l": 430,
+      "w": 310,
+      "h": 18,
+      "demo": true
+    },
+    "imageNotes": "A3 pad with seven blank planning columns, no text",
+    "demo": true,
+    "sku": "AS-GFT-0020",
+    "barcode": "2000000001487",
+    "costPriceCents": 4313,
+    "reorderPoint": 12,
+    "reorderQty": 80,
+    "supplier": "planterook-demo-supply",
+    "binLocation": "A06-S4-B5",
+    "tags": [
+      "gift"
+    ]
+  }
+]

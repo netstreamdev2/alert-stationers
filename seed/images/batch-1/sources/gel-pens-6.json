@@ -1,0 +1,11 @@
+{
+  "id": "gel-pens-6",
+  "product": "gel-pens-6",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Gel Pens, 6 colours. Specifications: Ink colours: 6 assorted; Tip size: 0.7mm; Pack size: 6 pens. Shot notes: Six pens in a row, rainbow order. Subject: Exactly SIX gel pens with plain coloured barrels/caps, arranged in one evenly spaced row, rainbow order red, orange, yellow, green, blue, violet. All six same geometry and length, one complete pen per colour, no loose caps. Unprinted matte plastic, 0.7mm nib format.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-064df2dd-f3d0-4aa3-963b-3f7b5166fa96.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

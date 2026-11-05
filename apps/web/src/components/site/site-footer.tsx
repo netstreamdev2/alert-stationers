@@ -1,6 +1,6 @@
 import { cacheLife } from "next/cache";
 import Link from "next/link";
-import { DevicesIcon, PulseIcon, SchoolListIcon, ShieldCheckIcon } from "@/components/icons";
+import { PulseIcon, SchoolListIcon, ShieldCheckIcon } from "@/components/icons";
 import { Logo } from "./logo";
 import { aisleLinks, type NavLink } from "./nav-links";
 
@@ -8,7 +8,6 @@ const promises = [
   { Icon: PulseIcon, title: "Live stock", body: "Updated the moment something sells." },
   { Icon: SchoolListIcon, title: "School lists in one tap", body: "Every item for the grade, at today's prices." },
   { Icon: ShieldCheckIcon, title: "Secure checkout", body: "Card details never touch our servers." },
-  { Icon: DevicesIcon, title: "One bag, web and app", body: "Your bag and orders follow you everywhere." },
 ];
 
 const columns: { title: string; links: NavLink[] }[] = [
@@ -41,12 +40,10 @@ export function SiteFooter() {
   return (
     <footer className="mt-20 border-t border-line bg-surface lg:mt-28">
       <div className="shell">
-        <ul className="grid grid-cols-1 gap-6 border-b border-line py-10 sm:grid-cols-2 lg:grid-cols-4">
+        <ul className="grid grid-cols-1 gap-6 border-b border-line py-10 sm:grid-cols-3">
           {promises.map(({ Icon, title, body }) => (
-            <li key={title} className="flex gap-4">
-              <span className="inline-flex size-11 shrink-0 items-center justify-center rounded-full bg-pink-tint text-pink">
-                <Icon className="size-[22px]" />
-              </span>
+            <li key={title} className="flex gap-3.5">
+              <Icon className="mt-0.5 size-6 shrink-0 text-pink" />
               <div>
                 <p className="font-semibold">{title}</p>
                 <p className="text-[14px] text-muted">{body}</p>
@@ -59,9 +56,7 @@ export function SiteFooter() {
           <div>
             <Logo />
             <p className="mt-4 max-w-[32ch] text-[14px] text-muted">School, office and art supplies, on the website and in the app.</p>
-            <p className="mt-4 inline-flex h-7 items-center rounded-full bg-pink-tint px-3 text-[12px] font-semibold text-pink">
-              Proof of concept · demo data
-            </p>
+            <p className="mt-3 text-[13px] text-muted">Proof of concept. Products and prices are demo data.</p>
           </div>
           {columns.map((column) => (
             <nav key={column.title} aria-label={column.title}>

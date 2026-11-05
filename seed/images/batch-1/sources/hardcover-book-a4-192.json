@@ -1,0 +1,11 @@
+{
+  "id": "hardcover-book-a4-192",
+  "product": "hardcover-book-a4-192",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A4 Hardcover Book, 192 pages. Specifications: Size: A4; Pages: 192; Ruling: Ruled. Shot notes: Navy hardcover at a slight angle. Subject: ONE A4 192-page ruled hardcover book, closed plain NAVY cover, square binding corners, visible white page block. Slight three-quarter angle showing the blank front and binding edge. No elastic, pocket, ribbon, printed marks, brand or debossed logo.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-0e06714c-acb4-43c2-acff-fd05a9eba27f.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

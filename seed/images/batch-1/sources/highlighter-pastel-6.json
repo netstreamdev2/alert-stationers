@@ -1,0 +1,11 @@
+{
+  "id": "highlighter-pastel-6",
+  "product": "highlighter-pastel-6",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Pastel Highlighters, 6-pack. Specifications: Tip: Chisel; Colours: 6 pastel colours; Pack size: 6 highlighters. Shot notes: Six pastel chisel-tip highlighters in a straight row. Subject: Exactly SIX plain generic pastel highlighters in a straight evenly spaced row: pastel yellow, blush pink, peach, mint, pale blue, lavender. Six complete equal-length highlighters with six matching fitted caps, six distinct bodies, no detached extra pieces. Unprinted matte plastic and modest chunky chisel-tip form.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-f6b8383d-c84e-45bd-92c9-4ffd24b713e7.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

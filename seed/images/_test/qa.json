@@ -1,0 +1,148 @@
+{
+  "phase": "step-1-style-tests",
+  "status": "draft-awaiting-look-approval",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed by built-in tool",
+  "nativePixels": {
+    "width": 1254,
+    "height": 1254
+  },
+  "exportPixels": {
+    "width": 2000,
+    "height": 2000
+  },
+  "export": "System.Drawing high-quality bicubic resampling with preserved alpha; centred 75% maximum alpha-bound extent",
+  "noWebImages": true,
+  "noExternalImageReferences": true,
+  "batchesStarted": false,
+  "assets": [
+    {
+      "filename": "hb-pencils-12.png",
+      "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-0b83e93c-aaca-4aa3-8d14-d95a7a5ab9ee.png",
+      "visibleProductCount": 12,
+      "notes": "Two banks of six sharpened, straight, unprinted ink-black hexagonal pencils.",
+      "pngValidation": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 257,
+        "Top": 250,
+        "Right": 1741,
+        "Bottom": 1749,
+        "TransparentPixels": 3490695,
+        "PartialAlphaPixels": 499619,
+        "OpaquePixels": 9686,
+        "OutsideMarginPixels": 0
+      },
+      "sha256": "c9054b2548b37dbd8cca0ed1e0ab497ecf7ec00f719a1a7270a63c3e3284ecc7"
+    },
+    {
+      "filename": "notebook-a5-dotted--blush.png",
+      "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-7cba6e21-426f-4123-ac1a-0ad9415d2177.png",
+      "visibleProductCount": 1,
+      "notes": "Blush linen, horizontal elastic, closed A5 portrait notebook.",
+      "pngValidation": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 252,
+        "Right": 1749,
+        "Bottom": 1747,
+        "TransparentPixels": 2824563,
+        "PartialAlphaPixels": 1173702,
+        "OpaquePixels": 1735,
+        "OutsideMarginPixels": 0
+      },
+      "sha256": "7e8dae6a59fcdb926956f63a03fd4329d1ef69ec89cc8ce93ec54f39699bba72"
+    },
+    {
+      "filename": "backpack-25l--navy.png",
+      "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-78fdd8ca-d466-48b6-a1fe-26859369253c.png",
+      "visibleProductCount": 1,
+      "notes": "Navy woven polyester, two zipped compartments.",
+      "pngValidation": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 266,
+        "Top": 250,
+        "Right": 1732,
+        "Bottom": 1749,
+        "TransparentPixels": 2718814,
+        "PartialAlphaPixels": 1279312,
+        "OpaquePixels": 1874,
+        "OutsideMarginPixels": 0
+      },
+      "sha256": "b77b7af70bff4fbc9db745ba6054e15d42e6be0fdb7cee93abb295eb26c8a95e"
+    },
+    {
+      "filename": "maths-set-9.png",
+      "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-8e161d2e-5a3c-4f11-ae42-0e593f789962.png",
+      "visibleProductCount": 9,
+      "notes": "Tin and attached lid are packaging, excluded from nine-tool count. Compass, divider, protractor, two set squares, ruler, pencil, eraser and sharpener. Measuring tools are deliberately unmarked.",
+      "pngValidation": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 251,
+        "Right": 1749,
+        "Bottom": 1747,
+        "TransparentPixels": 2301236,
+        "PartialAlphaPixels": 1696215,
+        "OpaquePixels": 2549,
+        "OutsideMarginPixels": 0
+      },
+      "sha256": "f7a3bef5726d94e44f63383683cae4d4427f0077fc0ec56718fecb62e1e84eef"
+    },
+    {
+      "filename": "acrylic-paint-12.png",
+      "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-1a70b5fb-d882-4605-8d17-e5a97da0e31a.png",
+      "visibleProductCount": 12,
+      "notes": "Twelve unprinted 22ml-format tubes in one row; exactly one squeezed brown tube.",
+      "pngValidation": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 257,
+        "Right": 1749,
+        "Bottom": 1742,
+        "TransparentPixels": 3361433,
+        "PartialAlphaPixels": 632573,
+        "OpaquePixels": 5994,
+        "OutsideMarginPixels": 0
+      },
+      "sha256": "459f1d88a0c7970d9014f4722ab7048f0acac4128d826114833a6b7ac3ee8c1e"
+    },
+    {
+      "filename": "stapler-full-strip.png",
+      "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-266ddfc0-186a-4eb6-a598-04b52b93bcb2.png",
+      "visibleProductCount": 1,
+      "notes": "Full-strip unprinted ink-black metal stapler.",
+      "pngValidation": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 388,
+        "Right": 1749,
+        "Bottom": 1610,
+        "TransparentPixels": 3091985,
+        "PartialAlphaPixels": 905620,
+        "OpaquePixels": 2395,
+        "OutsideMarginPixels": 0
+      },
+      "sha256": "59a34a24262b13497b3d6dbef9523afcaa0554003ebd454df7b6e88b4c9dc750"
+    }
+  ],
+  "review": {
+    "allSixViewedTogetherOnPaperAndInk": true,
+    "nativeOutputsInspected": true,
+    "countsChecked": true,
+    "noVisibleProductTextOrLogos": true,
+    "noPeopleOrHands": true,
+    "alphaCornersAndMargins": "passed: all six 2000px files have alpha-zero corners, millions of fully transparent pixels and no nonzero alpha in the outer 250px margin",
+    "crossVariantPoseConsistency": "not applicable: one option per test product; untested until approved batch",
+    "cameraNote": "Notebook and open geometry tin use a steeper view to keep the product readable.",
+    "limitations": [
+      "Tool generated 1254px originals; 2000px files are resampled, not native 2000px detail.",
+      "Model identifier is not exposed by the built-in tool."
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+[
+  {
+    "slug": "writing",
+    "name": "Writing",
+    "blurb": "Pens, pencils, markers and highlighters",
+    "subcategories": [
+      {
+        "slug": "ballpoint-pens",
+        "name": "Ballpoint Pens",
+        "demo": true
+      },
+      {
+        "slug": "gel-pens",
+        "name": "Gel Pens",
+        "demo": true
+      },
+      {
+        "slug": "pencils",
+        "name": "Pencils",
+        "demo": true
+      },
+      {
+        "slug": "mechanical-pencils",
+        "name": "Mechanical Pencils",
+        "demo": true
+      },
+      {
+        "slug": "markers",
+        "name": "Markers",
+        "demo": true
+      },
+      {
+        "slug": "highlighters",
+        "name": "Highlighters",
+        "demo": true
+      },
+      {
+        "slug": "fineliners",
+        "name": "Fineliners",
+        "demo": true
+      },
+      {
+        "slug": "premium-pens",
+        "name": "Premium Pens",
+        "demo": true
+      },
+      {
+        "slug": "correction",
+        "name": "Correction",
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "paper-books",
+    "name": "Paper & Books",
+    "blurb": "Exercise books, notebooks and printing paper",
+    "subcategories": [
+      {
+        "slug": "exercise-books",
+        "name": "Exercise Books",
+        "demo": true
+      },
+      {
+        "slug": "hardcover-books",
+        "name": "Hardcover Books",
+        "demo": true
+      },
+      {
+        "slug": "notebooks-journals",
+        "name": "Notebooks Journals",
+        "demo": true
+      },
+      {
+        "slug": "printing-paper",
+        "name": "Printing Paper",
+        "demo": true
+      },
+      {
+        "slug": "sticky-notes",
+        "name": "Sticky Notes",
+        "demo": true
+      },
+      {
+        "slug": "notepads",
+        "name": "Notepads",
+        "demo": true
+      },
+      {
+        "slug": "envelopes",
+        "name": "Envelopes",
+        "demo": true
+      },
+      {
+        "slug": "graph-paper",
+        "name": "Graph Paper",
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "school",
+    "name": "School",
+    "blurb": "Bags, maths sets and everything on the list",
+    "subcategories": [
+      {
+        "slug": "bags",
+        "name": "Bags",
+        "demo": true
+      },
+      {
+        "slug": "pencil-cases",
+        "name": "Pencil Cases",
+        "demo": true
+      },
+      {
+        "slug": "maths-sets",
+        "name": "Maths Sets",
+        "demo": true
+      },
+      {
+        "slug": "rulers",
+        "name": "Rulers",
+        "demo": true
+      },
+      {
+        "slug": "erasers-sharpeners",
+        "name": "Erasers Sharpeners",
+        "demo": true
+      },
+      {
+        "slug": "book-covering",
+        "name": "Book Covering",
+        "demo": true
+      },
+      {
+        "slug": "name-labels",
+        "name": "Name Labels",
+        "demo": true
+      },
+      {
+        "slug": "calculators",
+        "name": "Calculators",
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "art-craft",
+    "name": "Art & Craft",
+    "blurb": "Paint, colour, glue and making things",
+    "subcategories": [
+      {
+        "slug": "colouring",
+        "name": "Colouring",
+        "demo": true
+      },
+      {
+        "slug": "paint",
+        "name": "Paint",
+        "demo": true
+      },
+      {
+        "slug": "brushes",
+        "name": "Brushes",
+        "demo": true
+      },
+      {
+        "slug": "sketching",
+        "name": "Sketching",
+        "demo": true
+      },
+      {
+        "slug": "glue",
+        "name": "Glue",
+        "demo": true
+      },
+      {
+        "slug": "scissors-cutting",
+        "name": "Scissors Cutting",
+        "demo": true
+      },
+      {
+        "slug": "modelling",
+        "name": "Modelling",
+        "demo": true
+      },
+      {
+        "slug": "craft-supplies",
+        "name": "Craft Supplies",
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "office-filing",
+    "name": "Office & Filing",
+    "blurb": "Staplers, files and desk essentials",
+    "subcategories": [
+      {
+        "slug": "staplers",
+        "name": "Staplers",
+        "demo": true
+      },
+      {
+        "slug": "punches",
+        "name": "Punches",
+        "demo": true
+      },
+      {
+        "slug": "clips-pins",
+        "name": "Clips Pins",
+        "demo": true
+      },
+      {
+        "slug": "tape",
+        "name": "Tape",
+        "demo": true
+      },
+      {
+        "slug": "files-folders",
+        "name": "Files Folders",
+        "demo": true
+      },
+      {
+        "slug": "desk-organisers",
+        "name": "Desk Organisers",
+        "demo": true
+      },
+      {
+        "slug": "labels",
+        "name": "Labels",
+        "demo": true
+      },
+      {
+        "slug": "laminating-binding",
+        "name": "Laminating Binding",
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "gifts-planners",
+    "name": "Gifts & Planners",
+    "blurb": "2027 planners, journals and gift sets",
+    "subcategories": [
+      {
+        "slug": "planners-diaries",
+        "name": "Planners Diaries",
+        "demo": true
+      },
+      {
+        "slug": "calendars",
+        "name": "Calendars",
+        "demo": true
+      },
+      {
+        "slug": "journals",
+        "name": "Journals",
+        "demo": true
+      },
+      {
+        "slug": "gift-sets",
+        "name": "Gift Sets",
+        "demo": true
+      },
+      {
+        "slug": "cards-wrap",
+        "name": "Cards Wrap",
+        "demo": true
+      }
+    ],
+    "demo": true
+  }
+]

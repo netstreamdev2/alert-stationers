@@ -1,0 +1,11 @@
+{
+  "id": "ballpoint-pens-blue-10",
+  "product": "ballpoint-pens-blue-10",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Ballpoint Pens, Blue, 10-pack. Specifications: Tip size: 1mm; Ink colour: Blue; Pack size: 10 pens. Shot notes: Clear barrels, blue caps, fanned out (10 pens). Subject: Exactly TEN full-length ballpoint pens with clear barrels and plain BLUE caps and visible blue ink reservoirs. Two gentle fans of exactly FIVE pens each, five distinct capped pens in each fan, separated enough to count all ten. No extra caps or objects. Keep all barrels straight and equally long. Generic 1mm clear-plastic pens with no trademark stripes.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-f950e42b-f599-4472-8207-099f9b86aa59.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

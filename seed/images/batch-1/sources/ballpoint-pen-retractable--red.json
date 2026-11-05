@@ -1,0 +1,15 @@
+{
+  "product": "ballpoint-pen-retractable",
+  "base": "C:/dev/alertStationers/seed/images/products/ballpoint-pen-retractable--black.png",
+  "key": "red",
+  "hex": "#B13232",
+  "part": "matte black barrel only",
+  "id": "ballpoint-pen-retractable--red",
+  "kind": "colour-edit",
+  "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET. Change ONLY the colour of the matte black barrel only to material base swatch #B13232 (red). Preserve all geometry, pose, perspective, object boundaries, framing, location, scale, fine texture, shadows/highlights, optical focus and all other pixels. Do not redraw, restyle, reframe, zoom or rotate. The result must overlay the original perfectly. White paper and neutral silver/grey parts must remain unchanged. Preserve transparent alpha background; no new shadow. Output one square RGBA PNG, 2000x2000, same canvas as input. No text, brands, logos, numerals, watermarks, hands, people or extra objects.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-1ec46429-b3ac-4f3e-ba5d-3eb4749d3be2.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

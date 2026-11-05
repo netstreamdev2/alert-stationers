@@ -8,7 +8,15 @@ export function Aisles() {
   return (
     <section aria-labelledby="aisles-title" className="reveal shell mt-16 lg:mt-24">
       <SectionHeading id="aisles-title" eyebrow="Browse" title="Shop by aisle" href="/shop" linkLabel="All aisles" />
-      <ul className="mt-6 grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-6">
+      <AisleGrid className="mt-6" />
+    </section>
+  );
+}
+
+/** The six aisle tiles, each in its own tint and paper texture. */
+export function AisleGrid({ className }: { className?: string }) {
+  return (
+    <ul className={cn("grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-6", className)}>
         {categories.map((category) => {
           const { tint, pattern } = categoryTile[category.slug];
           const count = productsInCategory(category.slug).length;
@@ -35,7 +43,6 @@ export function Aisles() {
             </li>
           );
         })}
-      </ul>
-    </section>
+    </ul>
   );
 }

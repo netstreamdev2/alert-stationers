@@ -1,3 +1,4 @@
+import { unitPriceCents } from "./pricing";
 import { categories, products, schoolLists } from "./seed";
 import type { Category, CategorySlug, Product, ProductOption, SchoolList, StockState } from "./types";
 
@@ -24,6 +25,18 @@ export function productsInCategory(slug: CategorySlug): Product[] {
   return products.filter((p) => p.category === slug);
 }
 
+export function isCategorySlug(value: string): value is CategorySlug {
+  return categories.some((c) => c.slug === value);
+}
+
+/** A category's subcategories with their products, in the category's own order. Empty ones are skipped. */
+export function categoryShelves(slug: CategorySlug): { slug: string; name: string; products: Product[] }[] {
+  const inCategory = productsInCategory(slug);
+  return getCategory(slug)
+    .subcategories.map((sub) => ({ ...sub, products: inCategory.filter((p) => p.subcategory === sub.slug) }))
+    .filter((shelf) => shelf.products.length > 0);
+}
+
 export function getSchoolList(slug: string): SchoolList {
   const list = schoolLists.find((l) => l.slug === slug);
   if (!list) throw new Error(`Unknown school list: ${slug}`);
@@ -48,11 +61,11 @@ export function getOption(product: Product, key: string): ProductOption {
   return option;
 }
 
-/** Price a shopper pays for one unit right now (special first, then option, then base). */
-export function unitPriceCents(product: Product, optionKey?: string): number {
-  if (product.special) return product.special.priceCents;
-  if (optionKey) return getOption(product, optionKey).priceCents ?? product.priceCents;
-  return product.priceCents;
+export { unitPriceCents, type Priceable } from "./pricing";
+
+/** Units a shopper can buy: the option's stock, or the product's. */
+export function availableUnits(product: Product, optionKey?: string): number {
+  return optionKey ? getOption(product, optionKey).stock : totalStock(product);
 }
 
 /** Lowest and highest unit price across options (equal when there's a single price). */
@@ -63,7 +76,7 @@ export function priceRangeCents(product: Product): { min: number; max: number } 
 }
 
 export function schoolListTotalCents(list: SchoolList): number {
-  return list.items.reduce((sum, item) => sum + unitPriceCents(getProduct(item.product), item.option) * item.qty, 0);
+  return list.items.reduce((sum, item) => sum + unitPriceCents(getProduct(item.product), item.option, item.qty) * item.qty, 0);
 }
 
 export function schoolListUnitCount(list: SchoolList): number {

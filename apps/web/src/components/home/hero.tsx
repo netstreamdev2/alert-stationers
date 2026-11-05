@@ -2,7 +2,7 @@ import { formatRand, getProduct, getSchoolList, percentOff } from "@alert/core";
 import Link from "next/link";
 import { ArrowRightIcon, ClockIcon } from "@/components/icons";
 import { Countdown } from "@/components/product/countdown";
-import { ArrowCircle, ButtonLink } from "@/components/ui";
+import { ArrowCircle, ButtonLink, Label, LiveLabel } from "@/components/ui";
 import { cssVar } from "@/lib/style";
 import { ListPreview } from "./list-preview";
 
@@ -19,9 +19,7 @@ function PlannerDeal() {
     >
       <span aria-hidden="true" className="rule-light pattern-ruled absolute inset-0 -z-10" />
       <div className="flex items-center justify-between gap-3">
-        <span className="inline-flex h-8 items-center rounded-full bg-on-brand/15 px-3 text-[12px] font-semibold uppercase tracking-[0.12em]">
-          Planner deal
-        </span>
+        <Label tone="on-brand">Planner deal</Label>
         <ArrowCircle tone="on-brand" />
       </div>
       <p className="type-display mt-auto pt-8 text-[length:clamp(4rem,9vw,5.25rem)] font-extrabold italic leading-[0.85]">
@@ -32,8 +30,8 @@ function PlannerDeal() {
         <span className="font-semibold tabular-nums">{formatRand(special.priceCents)}</span>
         <span className="sr-only">, was</span> <s className="tabular-nums opacity-75">{formatRand(planner.priceCents)}</s>
       </p>
-      <p className="mt-4 inline-flex h-8 w-fit items-center gap-2 rounded-full bg-on-brand/15 px-3 text-[13px] font-medium">
-        <ClockIcon className="size-4" />
+      <p className="mt-5 flex items-center gap-2 border-t border-on-brand/25 pt-4 text-[14px] font-semibold">
+        <ClockIcon className="size-[18px]" />
         <Countdown endsAt={special.endsAt} seconds />
       </p>
     </Link>
@@ -44,12 +42,9 @@ function LiveStock() {
   return (
     <div className="relative isolate flex min-h-[15rem] flex-col overflow-hidden rounded-card bg-tint-sky p-6 sm:min-h-[17rem] sm:p-7">
       <span aria-hidden="true" className="pattern-grid absolute inset-0 -z-10 [mask-image:linear-gradient(to_bottom,black,transparent_80%)]" />
-      <p className="inline-flex h-8 w-fit items-center gap-2 rounded-full bg-surface px-3 text-[13px] font-semibold">
-        <span aria-hidden="true" className="live-dot" />
-        Live stock
-      </p>
+      <LiveLabel />
       <p className="type-display mt-auto pt-8 text-[1.75rem] font-extrabold leading-[1.05]">What you see is on the shelf.</p>
-      <p className="mt-2 text-[15px] text-ink-soft">Stock updates the moment something sells, on the website and in the app.</p>
+      <p className="mt-2 text-[15px] text-ink-soft">Stock updates the moment something sells, so what&rsquo;s in your bag is really there.</p>
     </div>
   );
 }
@@ -70,10 +65,9 @@ export function Hero() {
 
           <div className="grid grid-cols-1 gap-10 p-6 pb-8 sm:p-10 md:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)] lg:p-12">
             <div className="flex flex-col">
-              <p className="rise inline-flex h-8 w-fit items-center gap-2 rounded-full bg-on-contrast/10 px-3 text-[13px] font-medium">
-                <span aria-hidden="true" className="size-1.5 rounded-full bg-pink-bright" />
+              <Label tone="on-contrast" className="rise">
                 Back to school 2027
-              </p>
+              </Label>
               <h1
                 id="hero-title"
                 className="type-display mt-6 text-[length:clamp(2.5rem,7.2cqi,4.25rem)] font-extrabold leading-[0.95]"

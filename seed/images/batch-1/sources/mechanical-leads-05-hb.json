@@ -1,0 +1,11 @@
+{
+  "id": "mechanical-leads-05-hb",
+  "product": "mechanical-leads-05-hb",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Mechanical Pencil Leads, 0.5mm HB, 24. Specifications: Lead diameter: 0.5mm; Grade: HB; Pack size: 24 leads. Shot notes: Plain translucent lead case with a few fine graphite leads beside it. Subject: ONE small plain translucent graphite-grey rectangular lead case with a simple fitted lid, containing the remaining refill leads, plus exactly THREE loose fine straight 0.5mm HB graphite leads placed beside it. The complete retail pack contains 24 leads in total, 21 kept inside the case and three outside; do not show 24 extra loose leads. No writing, numbers, brand labels or measuring scales. Three-quarter view, real very thin graphite rods.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-433e7ecf-bb4e-4ff5-af3e-0239d25290a3.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

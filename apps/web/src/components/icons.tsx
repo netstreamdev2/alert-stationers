@@ -100,6 +100,67 @@ export function ChevronRightIcon(props: IconProps) {
   );
 }
 
+export function PlusIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M12 5v14M5 12h14" />
+    </Icon>
+  );
+}
+
+export function MinusIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M5 12h14" />
+    </Icon>
+  );
+}
+
+export function ArrowLeftIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M19.5 12h-15M10.5 6l-6 6 6 6" />
+    </Icon>
+  );
+}
+
+export function CameraIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M4 8.5A1.5 1.5 0 0 1 5.5 7h2l1.4-2h6.2l1.4 2h2A1.5 1.5 0 0 1 20 8.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 4 17.5v-9Z" />
+      <circle cx="12" cy="13" r="3.5" />
+    </Icon>
+  );
+}
+
+export function GridIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <rect x="4" y="4" width="7" height="7" rx="2" />
+      <rect x="13" y="4" width="7" height="7" rx="2" />
+      <rect x="4" y="13" width="7" height="7" rx="2" />
+      <rect x="13" y="13" width="7" height="7" rx="2" />
+    </Icon>
+  );
+}
+
+export function HomeIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M4.5 10.5 12 4.5l7.5 6V19a1 1 0 0 1-1 1h-4v-5.5h-5V20h-4a1 1 0 0 1-1-1v-8.5Z" />
+    </Icon>
+  );
+}
+
+export function ScanIcon(props: IconProps) {
+  return (
+    <Icon {...props}>
+      <path d="M4 8V6a2 2 0 0 1 2-2h2M16 4h2a2 2 0 0 1 2 2v2M20 16v2a2 2 0 0 1-2 2h-2M8 20H6a2 2 0 0 1-2-2v-2" />
+      <path d="M7.5 12h9" />
+    </Icon>
+  );
+}
+
 export function CheckIcon(props: IconProps) {
   return (
     <Icon {...props}>
@@ -130,17 +191,6 @@ export function PulseIcon(props: IconProps) {
   return (
     <Icon {...props}>
       <path d="M3.5 12h4l2-5 4 10 2-5h5" />
-    </Icon>
-  );
-}
-
-export function DevicesIcon(props: IconProps) {
-  return (
-    <Icon {...props}>
-      <rect x="2.5" y="4.5" width="12" height="9" rx="1.5" />
-      <path d="M6.5 18.5h4M8.5 13.5v5" />
-      <rect x="16" y="8.5" width="5.5" height="11" rx="1.25" />
-      <path d="M18.25 17h1" />
     </Icon>
   );
 }

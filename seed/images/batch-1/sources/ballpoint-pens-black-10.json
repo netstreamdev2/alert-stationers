@@ -1,0 +1,11 @@
+{
+  "id": "ballpoint-pens-black-10",
+  "product": "ballpoint-pens-black-10",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Ballpoint Pens, Black, 10-pack. Specifications: Tip size: 1mm; Ink colour: Black; Pack size: 10 pens. Shot notes: Ten clear-barrel pens with plain black caps, fanned out. Subject: Exactly TEN full-length clear-barrel ballpoint pens with plain BLACK caps and black ink reservoirs. Two gently fanned groups of exactly FIVE pens each; all ten bodies/caps distinct and countable, consistent size, straight barrels. Generic plain plastic with no logos, stripes or moulded writing.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-4b80557c-c37f-4fcf-9932-07ef2229fec7.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

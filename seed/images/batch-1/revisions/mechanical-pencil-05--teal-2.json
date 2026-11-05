@@ -1,0 +1,15 @@
+{
+  "id": "mechanical-pencil-05--teal",
+  "product": "mechanical-pencil-05",
+  "key": "teal",
+  "hex": "#1F7A7A",
+  "kind": "colour-edit",
+  "revision": 2,
+  "base": "C:/dev/alertStationers/seed/images/products/mechanical-pencil-05--black.png",
+  "prompt": "Use case: precise-object-edit. The attached BLACK mechanical pencil is the exact EDIT TARGET. Replace only the black painted barrel colour with #1F7A7A (teal). Preserve all geometry and texture: identical straight barrel, identical fine graphite point, identical silver conical nose, identical silver clip and collar, identical grey click button. No redraws, no angle, thickness, scale, pose, layout or framing changes. Match the input silhouette and all neutral metal/grey parts exactly. Keep the clean genuine transparent alpha outside the pencil; do not add any grey or white background rectangle, fog, halo, shadow or glow behind the click button or body. The whole empty canvas must stay transparent. Same soft upper-left light and right fill, 2000x2000 PNG. No words, numerals, logos, hands, people or extra pieces.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-c8e9b5e1-e728-4633-8cc0-64fb616afbe5.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "awaiting-QA"
+}

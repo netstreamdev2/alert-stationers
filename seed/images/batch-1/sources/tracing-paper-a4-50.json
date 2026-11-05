@@ -1,0 +1,11 @@
+{
+  "id": "tracing-paper-a4-50",
+  "product": "tracing-paper-a4-50",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A4 Tracing Paper, 90gsm, 50 sheets. Specifications: Size: A4; Paper weight: 90gsm; Sheets: 50. Shot notes: Plain sleeve of translucent tracing paper, one sheet lifted. Subject: ONE plain open paper sleeve holding a stack of FIFTY A4 translucent tracing-paper sheets of 90gsm. Lift just ONE top sheet gently from the stack, so the delicate translucency and paper quality are clear; forty-nine remain within the sleeve. Clean realistic paper fibres, plain warm-white sleeve, no logos, printed text or unrelated props.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-afd6e0c7-aaa1-4e98-b1df-999cd710ac17.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "exercise-book-a4-quad-96",
+  "product": "exercise-book-a4-quad-96",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A4 Quad Exercise Book, 96 pages. Specifications: Size: A4; Pages: 96; Grid: 5mm. Shot notes: Plain green exercise book open to even square-grid pages. Subject: ONE plain green-covered A4 96-page quad exercise book, OPEN to show two white pages with an even pale-grey 5mm square grid. A slim plain green cover edge surrounds the page block. Consistent square grid, straight page edges and physically plausible binding crease, no writing, numerals, formulas or logos.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-d93b7f9c-f727-404c-ade9-a8ff7cf36ef4.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

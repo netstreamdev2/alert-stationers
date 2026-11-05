@@ -1,0 +1,11 @@
+{
+  "id": "correction-fluid-20ml",
+  "product": "correction-fluid-20ml",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Correction Fluid, 20ml. Specifications: Volume: 20ml; Colour: White; Applicator: Brush in cap. Shot notes: Small white bottle with blank label and closed cap. Subject: ONE small white correction-fluid bottle of 20ml capacity with its brush-in-cap fully CLOSED. Plain matte white bottle and simple white ribbed screw cap, rectangular blank white label with no text. Compact realistic proportions, no separate brush, loose cap or white spills.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-301e2160-f1d2-4781-9e58-0d1989e595bc.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

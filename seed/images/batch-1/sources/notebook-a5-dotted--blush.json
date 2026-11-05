@@ -1,0 +1,13 @@
+{
+  "id": "notebook-a5-dotted--blush",
+  "product": "notebook-a5-dotted",
+  "kind": "approved-reexport",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-7cba6e21-426f-4123-ac1a-0ad9415d2177.png",
+  "prompt": "Use case: product-mockup. Asset type: fictional South African stationery catalogue POC product photograph. Create ONE photorealistic studio product cut-out, square 2000 x 2000 pixels, PNG with genuine transparent alpha everywhere outside the product. No surface, no backdrop colour, no checkerboard painted into the image, no contact shadow, no cast shadow, no reflections on a floor. Natural shading on the product itself is allowed. Same studio setup throughout this set: large soft key light from upper left, gentle neutral fill from right, neutral white balance, realistic material detail and proportions, crisp focus throughout, front three-quarter camera view from 18 degrees above unless the subject description specifies otherwise. Centre the complete product/group with its longest dimension occupying 75 percent of the canvas and at least 12.5 percent clear margin, no clipping. Absolutely no people, hands, logos, branding, letters, words, numbers, pseudo-writing, watermarks, stamped markings or recognisable branded product designs. Products and packaging must be entirely unprinted; naturally numbered tools are deliberately unmarked. Generate entirely from this description; no web images or outside references. Subject: ONE closed A5 dot-grid notebook, 160 pages, realistic 148 x 210mm portrait proportions, approximately 16mm thick. Plain blush pink linen cloth cover matching base colour #F1C6D3 under neutral light, visible woven linen fibres and a white paper page block. A simple matching blush elastic band runs HORIZONTALLY around the cover near its lower third, clearly a practical closure; no vertical trademark-style elastic-and-pocket layout, no pocket, ribbon or debossed mark. Square book corners with only minimal physical softening, no famous notebook silhouette. Photograph lying flat at a modest three-quarter angle from slightly above, front cover clearly readable as a plain unprinted linen surface, spine and page edges visible. No text or marks on cover, page edges or band; the notebook is closed, so there is no need to show the dotted pages. Only this notebook.",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "approvedSource": "_test/notebook-a5-dotted--blush.png",
+  "exportMethod": "Byte-identical copy of approved 2000px PNG",
+  "status": "selected"
+}

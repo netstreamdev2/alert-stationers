@@ -1,7 +1,8 @@
 import { percentOff, stockState, totalStock, type Product } from "@alert/core";
 import Link from "next/link";
-import { ClockIcon } from "@/components/icons";
-import { ArrowCircle, Badge } from "@/components/ui";
+import { AddToBagButton } from "@/components/bag/add-to-bag-button";
+import { ClockIcon, PlusIcon } from "@/components/icons";
+import { Tag } from "@/components/ui";
 import { cn } from "@/lib/cn";
 import { Countdown } from "./countdown";
 import { Price } from "./price";
@@ -19,10 +20,7 @@ function Swatches({ product }: { product: Product }) {
         <li key={option.key}>
           <span
             aria-hidden="true"
-            className={cn(
-              "block size-3.5 rounded-full ring-1 ring-inset ring-ink/15",
-              option.stock === 0 && "swatch-out",
-            )}
+            className={cn("block size-3.5 rounded-full ring-1 ring-inset ring-ink/15", option.stock === 0 && "swatch-out")}
             style={{ backgroundColor: option.swatch }}
           />
           <span className="sr-only">
@@ -35,30 +33,51 @@ function Swatches({ product }: { product: Product }) {
   );
 }
 
+/**
+ * The "+" sits in a notch cut into the tile's top-right corner (the ring in the page
+ * colour makes the cut). Products with options go to their page to choose one first.
+ */
+function QuickAdd({ product }: { product: Product }) {
+  if (stockState(product) === "out") return null;
+  if (product.options) {
+    return (
+      <Link
+        href={`/product/${product.slug}`}
+        aria-label={`Choose ${product.options.kind === "colour" ? "a colour" : "a pack size"} for ${product.name}`}
+        className="inline-flex size-10 items-center justify-center rounded-full bg-pink-tint text-pink ring-[6px] ring-paper transition-colors duration-200 hover:bg-brand hover:text-on-brand"
+      >
+        <PlusIcon className="size-5" strokeWidth={2.25} />
+      </Link>
+    );
+  }
+  return <AddToBagButton variant="quick" slug={product.slug} name={product.name} />;
+}
+
 export function ProductCard({ product }: { product: Product }) {
   const state = stockState(product);
   const units = totalStock(product);
   const discount = product.special ? percentOff(product.priceCents, product.special.priceCents) : 0;
 
   return (
-    <article className="group relative">
+    <article className="group relative" data-fly-scope>
       <Link href={`/product/${product.slug}`} className="block rounded-tile">
-        <div className={cn("@container relative aspect-[4/5] overflow-hidden rounded-tile", categoryTile[product.category].tint)}>
+        <div
+          data-fly-source
+          className={cn("@container relative aspect-[4/5] overflow-hidden rounded-tile", categoryTile[product.category].tint)}
+        >
           <ProductArt product={product} sizes={CARD_SIZES} />
 
           <div className="absolute left-3 top-3 flex flex-col items-start gap-1.5">
-            {discount > 0 ? <Badge tone="ink">−{discount}%</Badge> : null}
-            {state === "low" ? <Badge tone="pink">{units === 1 ? "Last one" : `Only ${units} left`}</Badge> : null}
-            {state === "out" ? <Badge tone="muted">Sold out</Badge> : null}
+            {discount > 0 ? <Tag tone="ink">−{discount}%</Tag> : null}
+            {state === "low" ? <Tag tone="brand">{units === 1 ? "Last one" : `Only ${units} left`}</Tag> : null}
+            {state === "out" ? <Tag tone="muted">Sold out</Tag> : null}
             {product.special?.endsAt ? (
-              <Badge tone="glass">
-                <ClockIcon className="size-3.5" />
+              <Tag tone="glass">
+                <ClockIcon className="size-3.5" strokeWidth={2.25} />
                 <Countdown endsAt={product.special.endsAt} />
-              </Badge>
+              </Tag>
             ) : null}
           </div>
-
-          <ArrowCircle className="absolute right-3 top-3 opacity-0 transition-[opacity,transform] duration-300 group-hover:opacity-100 group-focus-visible:opacity-100" />
         </div>
 
         <div className="px-1 pt-3">
@@ -68,6 +87,11 @@ export function ProductCard({ product }: { product: Product }) {
           <Swatches product={product} />
         </div>
       </Link>
+
+      {/* Sits over the tile's top-right corner, outside the link (no nested controls). */}
+      <div className="absolute -right-1.5 -top-1.5">
+        <QuickAdd product={product} />
+      </div>
     </article>
   );
 }

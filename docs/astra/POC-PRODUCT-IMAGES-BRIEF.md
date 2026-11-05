@@ -1,17 +1,17 @@
 # POC Product Images: Brief for Astra
 
 **For:** Astra
-**Status:** v1. These are temporary images for the proof of concept. Real product photos replace them before launch.
+**Status:** v2 (2026-11-05). Now covers the full 120-product catalogue. These are temporary images for the proof of concept. Real product photos replace them before launch.
 
 ---
 
 ## What and why
 
-We need placeholder product photos for the 48 fictional products in `docs/POC-SEED-DATA.md`, so the demo web store and app look like a real shop. Every image must look like real studio product photography, and the whole set must look like it came from the same studio on the same day.
+We need placeholder product photos for all **120 fictional products in `seed/data/products.json`** (the inventory you built), so the demo web store and app look like a real shop. Every image must look like real studio product photography, and the whole set must look like it came from the same studio on the same day.
 
-Each product's slug, name, colours and "Image notes" are in the seed doc's catalogue tables. Treat that doc as the shot list.
+**`seed/data/products.json` is the shot list.** For each product, use its `slug`, `name` and `specs`, and above all its `imageNotes`. For products with options, use `options.values[].key`, `label` and `swatch`.
 
-That's **about 67 product images and 8 banner images** (counts below).
+That's **150 product images and 8 banner images** (counts below).
 
 ---
 
@@ -26,8 +26,9 @@ That's **about 67 product images and 8 banner images** (counts below).
    - `stapler-full-strip`
 
    Then **stop and report.** We approve the look before you make the rest.
-2. **Batch 1:** Writing, Paper & Books, School.
-3. **Batch 2:** Art & Craft, Office & Filing, Gifts & Planners, and the banners.
+2. **Batch 1:** Writing and Paper & Books (40 products).
+3. **Batch 2:** School and Art & Craft (40 products).
+4. **Batch 3:** Office & Filing and Gifts & Planners (40 products), the gallery extras, and the banners.
 
 Report after each batch.
 
@@ -47,13 +48,16 @@ Report after each batch.
 
 ## Variants, pack sizes and galleries
 
-- **Colour variants and pack sizes:** one image per option, identical pose and framing. Only the colour or quantity changes. Name them `<slug>--<option>.png`, for example `backpack-25l--pink.png` or `exercise-book-a4-72--10-pack.png`. Products with options don't get a plain `<slug>.png`.
+- **Colour variants and pack sizes:** one image per option, identical pose and framing. Only the colour or quantity changes. Name them `<slug>--<option key>.png`, using the exact `key` from `products.json`, for example `backpack-25l--pink.png` or `exercise-book-a4-72--10-pack.png`. Match each colour to its `swatch` hex. Products with options don't get a plain `<slug>.png`.
 - **Galleries** (the 6 products marked Gallery in the seed doc) get two extra images:
   - `<slug>--detail.png`: a close-up of what makes the product good (nib, stitching, texture, mechanism). Transparent background.
   - `<slug>--in-use.png`: the product styled on a desk surface, with a background (not transparent). Warm paper tones with dark-pink accents.
   - For a gallery product that has colour options, use its first-listed colour.
 
-**Counts:** 44 single products, 11 option images (3 + 3 + 3 colours, 2 pack sizes) and 12 gallery extras make **67 product images**.
+**Counts:** 110 single products, 28 option images (10 products with options) and 12 gallery extras make **150 product images**. The products with options are:
+- `mechanical-pencil-05`, `exercise-book-a4-72`, `notebook-a5-dotted`, `backpack-25l`
+- `ballpoint-pen-retractable`, `notebook-a6-ruled`, `backpack-18l`
+- `poster-paint-500ml`, `ring-binder-a4-2ring`, `diary-2027-a5-daily`
 
 ---
 

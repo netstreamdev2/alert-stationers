@@ -1,6 +1,7 @@
 "use client";
 
-import { countdownParts, formatShortDateSA } from "@alert/core";
+// A client component: import the light entry point, never "@alert/core" (it carries the catalogue).
+import { countdownParts, formatShortDateSA } from "@alert/core/time";
 import { useSyncExternalStore } from "react";
 
 /*

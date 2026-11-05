@@ -1,6 +1,7 @@
 import { formatRand, getProduct, schoolListTotalCents, schoolListUnitCount, type SchoolList } from "@alert/core";
 import Link from "next/link";
 import { ArrowRightIcon } from "@/components/icons";
+import { LiveLabel } from "@/components/ui";
 import { cssVar } from "@/lib/style";
 
 /** The hero's taped-down checklist card: ticks fill in one by one on load. */
@@ -23,10 +24,7 @@ export function ListPreview({ list }: { list: SchoolList }) {
           <p className="text-[12px] font-medium text-muted">{list.school}</p>
           <p className="type-accent mt-0.5 text-[1.875rem] leading-none">{list.grade}</p>
         </div>
-        <span className="inline-flex h-7 shrink-0 items-center gap-1.5 rounded-full bg-paper px-2.5 text-[12px] font-semibold">
-          <span aria-hidden="true" className="live-dot" />
-          Live stock
-        </span>
+        <LiveLabel className="shrink-0 pt-1">Live</LiveLabel>
       </div>
 
       <ul className="mt-4 divide-y divide-line">

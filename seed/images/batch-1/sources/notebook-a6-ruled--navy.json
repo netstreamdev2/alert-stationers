@@ -1,0 +1,13 @@
+{
+  "id": "notebook-a6-ruled--navy",
+  "product": "notebook-a6-ruled",
+  "option": "navy",
+  "swatch": "#1E2A4A",
+  "kind": "colour",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A6 Ruled Notebook. Specifications: Size: A6; Pages: 96; Ruling: Ruled. Shot notes: One plain cloth notebook per cover colour, matching angle. Subject: ONE closed A6 96-page ruled notebook, fine plain NAVY #1E2A4A cloth cover. Plain cloth binding with gently squared corners and a clean white page block, no closure band, elastic, pocket, ribbon or debossing. Modest three-quarter portrait pose showing front cover and right/bottom paper edge, like the approved blush A5 notebook. The colour-boundary between cloth and white paper must be precise, suitable for identical colour options. No text or ruling is visible on the closed pages.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-a5c2e91e-8161-4172-8d2e-77e601cebd17.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

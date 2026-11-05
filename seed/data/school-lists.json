@@ -1,0 +1,424 @@
+[
+  {
+    "slug": "protea-heights-grade-4",
+    "school": "Protea Heights Primary (Demo)",
+    "grade": "Grade 4",
+    "items": [
+      {
+        "product": "hb-pencils-12",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ballpoint-pens-blue-10",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "erasers-2",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "sharpener-double",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ruler-30cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "maths-set-9",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a4-72",
+        "option": "single",
+        "qty": 6,
+        "demo": true
+      },
+      {
+        "product": "hardcover-book-a4-192",
+        "qty": 2,
+        "demo": true
+      },
+      {
+        "product": "colour-pencils-24",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "glue-sticks-3",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "craft-scissors-13cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "book-covering-5m",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "pencil-case-zip",
+        "qty": 1,
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "protea-heights-grade-1",
+    "school": "Protea Heights Primary (Demo)",
+    "grade": "Grade 1",
+    "items": [
+      {
+        "product": "wax-crayons-24",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "hb-pencils-12",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "erasers-2",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "sharpener-double",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "glue-sticks-3",
+        "qty": 2,
+        "demo": true
+      },
+      {
+        "product": "craft-scissors-13cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a4-72",
+        "option": "single",
+        "qty": 4,
+        "demo": true
+      },
+      {
+        "product": "pencil-case-zip",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "name-labels-60",
+        "qty": 1,
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "inkveld-learning-grove-grade-r",
+    "school": "Inkveld Learning Grove (Demo)",
+    "grade": "Grade R",
+    "items": [
+      {
+        "product": "colour-pencils-jumbo-12",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "wax-crayons-24",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "modelling-dough-6",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "glue-sticks-3",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "craft-scissors-13cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "drawing-pad-a3-30",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "pencil-case-double-zip",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "chair-bag-fabric",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "name-labels-write-on-48",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a5-32",
+        "qty": 2,
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "inkveld-learning-grove-grade-2",
+    "school": "Inkveld Learning Grove (Demo)",
+    "grade": "Grade 2",
+    "items": [
+      {
+        "product": "hb-pencils-12",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "erasers-2",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "sharpener-double",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ruler-15cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a4-72",
+        "option": "single",
+        "qty": 6,
+        "demo": true
+      },
+      {
+        "product": "colour-pencils-24",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "glue-sticks-3",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "craft-scissors-13cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "pencil-case-zip",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "book-covering-5m",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "name-labels-write-on-48",
+        "qty": 1,
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "paperkloof-combined-grade-7",
+    "school": "Paperkloof Combined School (Demo)",
+    "grade": "Grade 7",
+    "items": [
+      {
+        "product": "ballpoint-pens-blue-10",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "hb-pencils-12",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "erasers-2",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "sharpener-double",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ruler-30cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "maths-set-9",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "calculator-basic-8-digit",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "hardcover-book-a4-192",
+        "qty": 6,
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a4-quad-96",
+        "qty": 2,
+        "demo": true
+      },
+      {
+        "product": "highlighters-4",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "glue-sticks-3",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "pencil-case-double-zip",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "book-covering-5m",
+        "qty": 2,
+        "demo": true
+      },
+      {
+        "product": "display-book-20",
+        "qty": 2,
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "slug": "paperkloof-combined-grade-8",
+    "school": "Paperkloof Combined School (Demo)",
+    "grade": "Grade 8",
+    "items": [
+      {
+        "product": "calculator-scientific-240",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "maths-set-9",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "hardcover-book-a4-192",
+        "qty": 8,
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a4-quad-96",
+        "qty": 2,
+        "demo": true
+      },
+      {
+        "product": "graph-book-a4",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ballpoint-pens-blue-10",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ballpoint-pens-black-10",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "hb-pencils-12",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "erasers-2",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "sharpener-double",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "ruler-30cm",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "highlighters-4",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "display-book-20",
+        "qty": 2,
+        "demo": true
+      },
+      {
+        "product": "ring-binder-a4-2ring",
+        "option": "navy",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "glue-sticks-3",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "pencil-case-double-zip",
+        "qty": 1,
+        "demo": true
+      },
+      {
+        "product": "book-covering-5m",
+        "qty": 2,
+        "demo": true
+      }
+    ],
+    "demo": true
+  }
+]

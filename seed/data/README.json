@@ -1,0 +1,1217 @@
+{
+  "title": "Alert Stationers fictional inventory — POC",
+  "asOf": "2026-11-04T16:00:00.000Z",
+  "currency": "ZAR",
+  "retailPricesIncludeVat": true,
+  "vatPercent": 15,
+  "costPricesExcludeVat": true,
+  "summary": {
+    "products": 120,
+    "originalProducts": 48,
+    "newProducts": 72,
+    "suppliers": 6,
+    "schoolLists": 6,
+    "stockKeepingSkus": 138,
+    "stockMovements": 3567,
+    "historyStart": "2026-08-01T06:00:00.000Z",
+    "historyEnd": "2026-11-04T16:00:00.000Z",
+    "demo": true
+  },
+  "categoryCounts": [
+    {
+      "slug": "writing",
+      "name": "Writing",
+      "products": 20,
+      "subcategories": [
+        {
+          "slug": "ballpoint-pens",
+          "name": "Ballpoint Pens",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "gel-pens",
+          "name": "Gel Pens",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "pencils",
+          "name": "Pencils",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "mechanical-pencils",
+          "name": "Mechanical Pencils",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "markers",
+          "name": "Markers",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "highlighters",
+          "name": "Highlighters",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "fineliners",
+          "name": "Fineliners",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "premium-pens",
+          "name": "Premium Pens",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "correction",
+          "name": "Correction",
+          "products": 2,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    {
+      "slug": "paper-books",
+      "name": "Paper & Books",
+      "products": 20,
+      "subcategories": [
+        {
+          "slug": "exercise-books",
+          "name": "Exercise Books",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "hardcover-books",
+          "name": "Hardcover Books",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "notebooks-journals",
+          "name": "Notebooks Journals",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "printing-paper",
+          "name": "Printing Paper",
+          "products": 4,
+          "demo": true
+        },
+        {
+          "slug": "sticky-notes",
+          "name": "Sticky Notes",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "notepads",
+          "name": "Notepads",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "envelopes",
+          "name": "Envelopes",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "graph-paper",
+          "name": "Graph Paper",
+          "products": 3,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    {
+      "slug": "school",
+      "name": "School",
+      "products": 20,
+      "subcategories": [
+        {
+          "slug": "bags",
+          "name": "Bags",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "pencil-cases",
+          "name": "Pencil Cases",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "maths-sets",
+          "name": "Maths Sets",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "rulers",
+          "name": "Rulers",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "erasers-sharpeners",
+          "name": "Erasers Sharpeners",
+          "products": 4,
+          "demo": true
+        },
+        {
+          "slug": "book-covering",
+          "name": "Book Covering",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "name-labels",
+          "name": "Name Labels",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "calculators",
+          "name": "Calculators",
+          "products": 2,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    {
+      "slug": "art-craft",
+      "name": "Art & Craft",
+      "products": 20,
+      "subcategories": [
+        {
+          "slug": "colouring",
+          "name": "Colouring",
+          "products": 4,
+          "demo": true
+        },
+        {
+          "slug": "paint",
+          "name": "Paint",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "brushes",
+          "name": "Brushes",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "sketching",
+          "name": "Sketching",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "glue",
+          "name": "Glue",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "scissors-cutting",
+          "name": "Scissors Cutting",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "modelling",
+          "name": "Modelling",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "craft-supplies",
+          "name": "Craft Supplies",
+          "products": 2,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    {
+      "slug": "office-filing",
+      "name": "Office & Filing",
+      "products": 20,
+      "subcategories": [
+        {
+          "slug": "staplers",
+          "name": "Staplers",
+          "products": 4,
+          "demo": true
+        },
+        {
+          "slug": "punches",
+          "name": "Punches",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "clips-pins",
+          "name": "Clips Pins",
+          "products": 3,
+          "demo": true
+        },
+        {
+          "slug": "tape",
+          "name": "Tape",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "files-folders",
+          "name": "Files Folders",
+          "products": 4,
+          "demo": true
+        },
+        {
+          "slug": "desk-organisers",
+          "name": "Desk Organisers",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "labels",
+          "name": "Labels",
+          "products": 1,
+          "demo": true
+        },
+        {
+          "slug": "laminating-binding",
+          "name": "Laminating Binding",
+          "products": 2,
+          "demo": true
+        }
+      ],
+      "demo": true
+    },
+    {
+      "slug": "gifts-planners",
+      "name": "Gifts & Planners",
+      "products": 20,
+      "subcategories": [
+        {
+          "slug": "planners-diaries",
+          "name": "Planners Diaries",
+          "products": 4,
+          "demo": true
+        },
+        {
+          "slug": "calendars",
+          "name": "Calendars",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "journals",
+          "name": "Journals",
+          "products": 2,
+          "demo": true
+        },
+        {
+          "slug": "gift-sets",
+          "name": "Gift Sets",
+          "products": 6,
+          "demo": true
+        },
+        {
+          "slug": "cards-wrap",
+          "name": "Cards Wrap",
+          "products": 6,
+          "demo": true
+        }
+      ],
+      "demo": true
+    }
+  ],
+  "scenarios": {
+    "lowStock": [
+      {
+        "product": "fineliners-10",
+        "sku": "AS-WRT-0006",
+        "stock": 3,
+        "demo": true
+      },
+      {
+        "product": "fountain-pen-steel",
+        "sku": "AS-WRT-0007",
+        "stock": 1,
+        "demo": true
+      },
+      {
+        "product": "backpack-25l",
+        "sku": "AS-SCH-0001-PINK",
+        "option": "pink",
+        "stock": 2,
+        "demo": true
+      },
+      {
+        "product": "fineliner-black-03",
+        "sku": "AS-WRT-0016",
+        "stock": 4,
+        "demo": true
+      },
+      {
+        "product": "tracing-paper-a4-50",
+        "sku": "AS-PAP-0018",
+        "stock": 3,
+        "demo": true
+      },
+      {
+        "product": "chair-bag-fabric",
+        "sku": "AS-SCH-0020",
+        "stock": 4,
+        "demo": true
+      },
+      {
+        "product": "cutting-mat-a4",
+        "sku": "AS-ART-0020",
+        "stock": 3,
+        "demo": true
+      },
+      {
+        "product": "journal-gift-box",
+        "sku": "AS-GFT-0019",
+        "stock": 3,
+        "demo": true
+      }
+    ],
+    "soldOut": [
+      {
+        "product": "mechanical-pencil-05",
+        "sku": "AS-WRT-0004-TEAL",
+        "option": "teal",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "whiteboard-markers-4",
+        "sku": "AS-WRT-0008",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "ballpoint-pen-retractable",
+        "sku": "AS-WRT-0010-RED",
+        "option": "red",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "correction-fluid-20ml",
+        "sku": "AS-WRT-0019",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "geometry-set-squares-2",
+        "sku": "AS-SCH-0019",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "poster-paint-500ml",
+        "sku": "AS-ART-0010-YELLOW",
+        "option": "yellow",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "pastels-oil-12",
+        "sku": "AS-ART-0018",
+        "stock": 0,
+        "demo": true
+      },
+      {
+        "product": "pocket-diary-2027",
+        "sku": "AS-GFT-0011",
+        "stock": 0,
+        "demo": true
+      }
+    ],
+    "specials": [
+      {
+        "product": "backpack-25l",
+        "priceCents": 54999,
+        "special": {
+          "priceCents": 49499,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "acrylic-paint-12",
+        "priceCents": 22999,
+        "special": {
+          "priceCents": 17999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "planner-2027-a5",
+        "priceCents": 24999,
+        "special": {
+          "priceCents": 19999,
+          "endsAt": "2026-12-31T21:59:59.000Z",
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "highlighter-pastel-6",
+        "priceCents": 8999,
+        "special": {
+          "priceCents": 6999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "backpack-18l",
+        "priceCents": 34999,
+        "special": {
+          "priceCents": 29999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "calculator-scientific-240",
+        "priceCents": 34999,
+        "special": {
+          "priceCents": 29999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "watercolour-pan-12",
+        "priceCents": 9999,
+        "special": {
+          "priceCents": 7999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "laminating-pouches-a4-100",
+        "priceCents": 17999,
+        "special": {
+          "priceCents": 14999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "diary-2027-a5-daily",
+        "priceCents": 19999,
+        "special": {
+          "priceCents": 16999,
+          "endsAt": "2027-01-15T21:59:59.000Z",
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "desk-pad-weekly-a3",
+        "priceCents": 7999,
+        "special": {
+          "priceCents": 6499,
+          "demo": true
+        },
+        "demo": true
+      }
+    ],
+    "options": [
+      {
+        "product": "mechanical-pencil-05",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "pink",
+            "stock": 40,
+            "sku": "AS-WRT-0004-PINK",
+            "demo": true
+          },
+          {
+            "key": "black",
+            "stock": 55,
+            "sku": "AS-WRT-0004-BLACK",
+            "demo": true
+          },
+          {
+            "key": "teal",
+            "stock": 0,
+            "sku": "AS-WRT-0004-TEAL",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "exercise-book-a4-72",
+        "kind": "pack",
+        "values": [
+          {
+            "key": "single",
+            "stock": 500,
+            "sku": "AS-PAP-0001-SINGLE",
+            "demo": true
+          },
+          {
+            "key": "10-pack",
+            "stock": 60,
+            "sku": "AS-PAP-0001-10-PACK",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "notebook-a5-dotted",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "blush",
+            "stock": 30,
+            "sku": "AS-PAP-0003-BLUSH",
+            "demo": true
+          },
+          {
+            "key": "ink",
+            "stock": 45,
+            "sku": "AS-PAP-0003-INK",
+            "demo": true
+          },
+          {
+            "key": "sage",
+            "stock": 25,
+            "sku": "AS-PAP-0003-SAGE",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "backpack-25l",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "navy",
+            "stock": 25,
+            "sku": "AS-SCH-0001-NAVY",
+            "demo": true
+          },
+          {
+            "key": "pink",
+            "stock": 2,
+            "sku": "AS-SCH-0001-PINK",
+            "demo": true
+          },
+          {
+            "key": "grey",
+            "stock": 18,
+            "sku": "AS-SCH-0001-GREY",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "ballpoint-pen-retractable",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "black",
+            "stock": 80,
+            "sku": "AS-WRT-0010-BLACK",
+            "demo": true
+          },
+          {
+            "key": "blue",
+            "stock": 120,
+            "sku": "AS-WRT-0010-BLUE",
+            "demo": true
+          },
+          {
+            "key": "red",
+            "stock": 0,
+            "sku": "AS-WRT-0010-RED",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "notebook-a6-ruled",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "navy",
+            "stock": 80,
+            "sku": "AS-PAP-0011-NAVY",
+            "demo": true
+          },
+          {
+            "key": "sage",
+            "stock": 60,
+            "sku": "AS-PAP-0011-SAGE",
+            "demo": true
+          },
+          {
+            "key": "blush",
+            "stock": 50,
+            "sku": "AS-PAP-0011-BLUSH",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "backpack-18l",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "navy",
+            "stock": 30,
+            "sku": "AS-SCH-0009-NAVY",
+            "demo": true
+          },
+          {
+            "key": "berry",
+            "stock": 25,
+            "sku": "AS-SCH-0009-BERRY",
+            "demo": true
+          },
+          {
+            "key": "olive",
+            "stock": 20,
+            "sku": "AS-SCH-0009-OLIVE",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "poster-paint-500ml",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "red",
+            "stock": 40,
+            "sku": "AS-ART-0010-RED",
+            "demo": true
+          },
+          {
+            "key": "blue",
+            "stock": 35,
+            "sku": "AS-ART-0010-BLUE",
+            "demo": true
+          },
+          {
+            "key": "yellow",
+            "stock": 0,
+            "sku": "AS-ART-0010-YELLOW",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "ring-binder-a4-2ring",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "black",
+            "stock": 90,
+            "sku": "AS-OFF-0013-BLACK",
+            "demo": true
+          },
+          {
+            "key": "navy",
+            "stock": 70,
+            "sku": "AS-OFF-0013-NAVY",
+            "demo": true
+          },
+          {
+            "key": "red",
+            "stock": 60,
+            "sku": "AS-OFF-0013-RED",
+            "demo": true
+          }
+        ],
+        "demo": true
+      },
+      {
+        "product": "diary-2027-a5-daily",
+        "kind": "colour",
+        "values": [
+          {
+            "key": "berry",
+            "stock": 40,
+            "sku": "AS-GFT-0009-BERRY",
+            "demo": true
+          },
+          {
+            "key": "navy",
+            "stock": 50,
+            "sku": "AS-GFT-0009-NAVY",
+            "demo": true
+          }
+        ],
+        "demo": true
+      }
+    ],
+    "bulk": [
+      {
+        "product": "printing-paper-a4-80",
+        "priceCents": 10999,
+        "bulk": {
+          "minQty": 5,
+          "priceCents": 9999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "printing-paper-a3-80",
+        "priceCents": 18999,
+        "bulk": {
+          "minQty": 10,
+          "priceCents": 17499,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "envelopes-c4-10",
+        "priceCents": 3499,
+        "bulk": {
+          "minQty": 5,
+          "priceCents": 2999,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "clear-tape-18mm-3",
+        "priceCents": 2999,
+        "bulk": {
+          "minQty": 10,
+          "priceCents": 2499,
+          "demo": true
+        },
+        "demo": true
+      },
+      {
+        "product": "document-wallets-a4-10",
+        "priceCents": 3999,
+        "bulk": {
+          "minQty": 10,
+          "priceCents": 3499,
+          "demo": true
+        },
+        "demo": true
+      }
+    ],
+    "demo": true
+  },
+  "schoolLists": [
+    {
+      "slug": "protea-heights-grade-4",
+      "school": "Protea Heights Primary (Demo)",
+      "grade": "Grade 4",
+      "lines": 13,
+      "units": 19,
+      "demo": true
+    },
+    {
+      "slug": "protea-heights-grade-1",
+      "school": "Protea Heights Primary (Demo)",
+      "grade": "Grade 1",
+      "lines": 9,
+      "units": 13,
+      "demo": true
+    },
+    {
+      "slug": "inkveld-learning-grove-grade-r",
+      "school": "Inkveld Learning Grove (Demo)",
+      "grade": "Grade R",
+      "lines": 10,
+      "units": 11,
+      "demo": true
+    },
+    {
+      "slug": "inkveld-learning-grove-grade-2",
+      "school": "Inkveld Learning Grove (Demo)",
+      "grade": "Grade 2",
+      "lines": 11,
+      "units": 16,
+      "demo": true
+    },
+    {
+      "slug": "paperkloof-combined-grade-7",
+      "school": "Paperkloof Combined School (Demo)",
+      "grade": "Grade 7",
+      "lines": 14,
+      "units": 22,
+      "demo": true
+    },
+    {
+      "slug": "paperkloof-combined-grade-8",
+      "school": "Paperkloof Combined School (Demo)",
+      "grade": "Grade 8",
+      "lines": 17,
+      "units": 27,
+      "demo": true
+    }
+  ],
+  "judgementCalls": [
+    "The explicit JSON-only request overrides the brief README.md filename; this README.json contains the requested summary and validation results.",
+    "Existing catalogue and list fields are taken directly from seed.ts. New metadata is appended; original nested option and list-item fields retain their values and order.",
+    "The highlighters-4 special remains absent, as in seed.ts: its discount is applied live by the demo script.",
+    "Only the five existing fictional brand labels are used; no additional brands were introduced.",
+    "Every object record, including subcategories, options, specs, dimensions, specials, bulk tiers and school-list items, is explicitly demo true.",
+    "Each option is independently stocked; parent option-product SKUs identify catalogue entries and never receive stock movements.",
+    "Option-level reorder rules override parent defaults, so ten-packs and single exercise books have separate replenishment quantities. Pack options also carry packed weights, dimensions and cost prices.",
+    "Costs are 62 percent of the ex-VAT regular retail price, rounded to cents. Product retail, option, bulk and special prices include VAT; cost prices exclude VAT.",
+    "Stock history uses calendar-day supplier lead times, with Sunday deliveries moved to Monday. All movements are Monday–Saturday in the 06:00–16:00 UTC window.",
+    "Receipts are triggered by a real sale reaching the reorder point, followed by the full supplier lead time; quantities equal reorderQty. Returns and damaged-unit adjustments occur on subsets of SKUs; stocktake discrepancies include both gains and losses before reorder.",
+    "Low-stock and sold-out SKUs sell down to the reorder point between 29 and 31 October. Their next receipts fall after the cutoff and appear only in pendingReorders, not in stock-movements.json.",
+    "Opening balances and subsequent sales determine the exact closing stock; no artificial closing adjustment is used.",
+    "Seasonality is represented by denser late-October school demand, October/November planner demand and a higher November gift sales rate.",
+    "Generic catalogue descriptions, product specifications, packed sizes and prices are invented POC values, not assertions about real stock or supplier quotes.",
+    "No phone numbers, street addresses, people, certifications or awards were added.",
+    "EAN-13 values use the requested restricted-circulation prefix 20 and correct check digits; uniqueness is asserted within this dataset, not globally.",
+    "Tracked apps/packages contents changed concurrently between snapshots (including a staged deletion of one-bag.tsx). All commands for this task wrote only seed/data; no app/package edits were made by this task. The source seed.ts SHA-256 is unchanged."
+  ],
+  "nameChecks": {
+    "checkedOn": "2026-11-05",
+    "newBrands": [],
+    "newSchools": [
+      "Inkveld Learning Grove (Demo)",
+      "Paperkloof Combined School (Demo)"
+    ],
+    "newSuppliers": [
+      "Quillmere Demo Wholesale",
+      "Ledgerfern Demo Supply",
+      "Satchelreed Demo Distribution",
+      "Pigmentvale Demo Trade",
+      "Clipthorn Demo Wholesale",
+      "Planterook Demo Supply"
+    ],
+    "queries": [
+      "\"Inkveld Learning Grove\" school South Africa",
+      "\"Paperkloof Combined School\" South Africa",
+      "\"Quillmere Demo Wholesale\" OR \"Ledgerfern Demo Supply\" OR \"Satchelreed Demo Distribution\"",
+      "\"Pigmentvale Demo Trade\" OR \"Clipthorn Demo Wholesale\" OR \"Planterook Demo Supply\""
+    ],
+    "result": "All four exact-name searches returned no results. This is a collision screen, not proof of nonexistence. Existing brand and school names are preserved as requested.",
+    "demo": true
+  },
+  "pendingReorders": [
+    {
+      "sku": "AS-WRT-0004-TEAL",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1005",
+      "orderedAt": "2026-10-31T10:27:00.000Z",
+      "expectedAt": "2026-11-07T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-WRT-0006",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1007",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-06T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-WRT-0007",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1008",
+      "orderedAt": "2026-10-31T10:27:00.000Z",
+      "expectedAt": "2026-11-07T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-WRT-0008",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1009",
+      "orderedAt": "2026-10-29T10:13:00.000Z",
+      "expectedAt": "2026-11-05T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-SCH-0001-PINK",
+      "supplier": "satchelreed-demo-distribution",
+      "reference": "PO-1022",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-11T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-WRT-0010-RED",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1058",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-06T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-WRT-0016",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1064",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-06T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-WRT-0019",
+      "supplier": "quillmere-demo-wholesale",
+      "reference": "PO-1067",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-06T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-PAP-0018",
+      "supplier": "ledgerfern-demo-supply",
+      "reference": "PO-1080",
+      "orderedAt": "2026-10-31T10:27:00.000Z",
+      "expectedAt": "2026-11-09T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-SCH-0019",
+      "supplier": "satchelreed-demo-distribution",
+      "reference": "PO-1095",
+      "orderedAt": "2026-10-31T10:27:00.000Z",
+      "expectedAt": "2026-11-12T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-SCH-0020",
+      "supplier": "satchelreed-demo-distribution",
+      "reference": "PO-1096",
+      "orderedAt": "2026-10-29T10:13:00.000Z",
+      "expectedAt": "2026-11-10T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-ART-0010-YELLOW",
+      "supplier": "pigmentvale-demo-trade",
+      "reference": "PO-1100",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-09T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-ART-0018",
+      "supplier": "pigmentvale-demo-trade",
+      "reference": "PO-1108",
+      "orderedAt": "2026-10-29T10:13:00.000Z",
+      "expectedAt": "2026-11-09T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-ART-0020",
+      "supplier": "pigmentvale-demo-trade",
+      "reference": "PO-1110",
+      "orderedAt": "2026-10-31T10:27:00.000Z",
+      "expectedAt": "2026-11-10T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-GFT-0011",
+      "supplier": "planterook-demo-supply",
+      "reference": "PO-1128",
+      "orderedAt": "2026-10-31T10:27:00.000Z",
+      "expectedAt": "2026-11-07T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    },
+    {
+      "sku": "AS-GFT-0019",
+      "supplier": "planterook-demo-supply",
+      "reference": "PO-1136",
+      "orderedAt": "2026-10-30T10:20:00.000Z",
+      "expectedAt": "2026-11-06T08:00:00.000Z",
+      "qty": 40,
+      "reason": "Sold down to reorder point; supplier lead time ends after history cutoff",
+      "demo": true
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "assertions": 37150,
+    "results": [
+      {
+        "id": "original-products",
+        "label": "All 48 original products preserve every original field byte-for-byte when projected and JSON-serialized",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "catalogue-counts",
+        "label": "120 products, 20 per category, 72 additions and every required subcategory populated",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "identifiers",
+        "label": "Unique slugs, correctly structured product/option SKUs, and valid unique restricted-prefix EAN-13 barcodes",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "money",
+        "label": "Every money field is integer cents, discounts are below regular prices, and costs are 50–70% of ex-VAT retail",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "stock-history",
+        "label": "Every stocked SKU opens on 1 August, stays nonnegative and closes exactly at catalogue stock",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "reordering",
+        "label": "Receipts follow threshold crossings and supplier lead times; depleted SKUs have pending receipts beyond cutoff",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "references",
+        "label": "All suppliers, categories, subcategories, school items and option references resolve; original lists preserved",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "new-scenario-spread",
+        "label": "72 additions have five low-stock products, four sold out, six option products with two depleted options, seven specials and four bulk tiers",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "fictional-names",
+        "label": "No new brands; every new school and supplier name screened with exact-name web searches, with no results",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "seasonality",
+        "label": "Planner, gift and school sales rates rise in the requested seasonal windows",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "json-and-demo",
+        "label": "All delivered files are UTF-8 valid JSON with two-space indentation; every object record is demo true",
+        "passed": true,
+        "demo": true
+      },
+      {
+        "id": "read-only-code",
+        "label": "Original seed.ts is unchanged; all task write destinations are JSON files within seed/data",
+        "passed": true,
+        "demo": true
+      }
+    ],
+    "details": "validation.json",
+    "demo": true
+  },
+  "limitations": [
+    "Master product metadata and trading history are fictional POC data and must be replaced before launch.",
+    "The required existing school and brand names are retained verbatim; new-name searches cannot prove global uniqueness."
+  ],
+  "demo": true,
+  "seasonality": [
+    {
+      "group": "planners-diaries-calendars",
+      "earlyFrom": "2026-08-01",
+      "earlyTo": "2026-09-30",
+      "earlyUnits": 224,
+      "earlyTradingDays": 52,
+      "lateFrom": "2026-10-01",
+      "lateTo": "2026-11-04",
+      "lateUnits": 284,
+      "lateTradingDays": 30,
+      "demo": true
+    },
+    {
+      "group": "gifts",
+      "earlyFrom": "2026-10-01",
+      "earlyTo": "2026-10-31",
+      "earlyUnits": 514,
+      "earlyTradingDays": 27,
+      "lateFrom": "2026-11-01",
+      "lateTo": "2026-11-04",
+      "lateUnits": 312,
+      "lateTradingDays": 3,
+      "demo": true
+    },
+    {
+      "group": "school",
+      "earlyFrom": "2026-08-01",
+      "earlyTo": "2026-10-23",
+      "earlyUnits": 2287,
+      "earlyTradingDays": 72,
+      "lateFrom": "2026-10-24",
+      "lateTo": "2026-11-04",
+      "lateUnits": 1202,
+      "lateTradingDays": 10,
+      "demo": true
+    }
+  ]
+}

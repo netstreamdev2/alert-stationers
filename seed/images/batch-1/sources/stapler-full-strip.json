@@ -1,0 +1,13 @@
+{
+  "id": "stapler-full-strip",
+  "product": "stapler-full-strip",
+  "kind": "approved-reexport",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-266ddfc0-186a-4eb6-a598-04b52b93bcb2.png",
+  "prompt": "Use case: product-mockup. Asset type: fictional South African stationery catalogue POC product photograph. Create ONE photorealistic studio product cut-out, square 2000 x 2000 pixels, PNG with genuine transparent alpha everywhere outside the product. No surface, no backdrop colour, no checkerboard painted into the image, no contact shadow, no cast shadow, no reflections on a floor. Natural shading on the product itself is allowed. Same studio setup throughout this set: large soft key light from upper left, gentle neutral fill from right, neutral white balance, realistic material detail and proportions, crisp focus throughout, front three-quarter camera view from 18 degrees above unless the subject description specifies otherwise. Centre the complete product/group with its longest dimension occupying 75 percent of the canvas and at least 12.5 percent clear margin, no clipping. Absolutely no people, hands, logos, branding, letters, words, numbers, pseudo-writing, watermarks, stamped markings or recognisable branded product designs. Products and packaging must be entirely unprinted; naturally numbered tools are deliberately unmarked. Generate entirely from this description; no web images or outside references. Subject: ONE full-strip office stapler, ink-black painted metal, standard 26/6 mechanism, realistic long desktop proportions approximately 185mm long, not a mini stapler. Closed stapler in front three-quarter view from 18 degrees above; show the long top arm, hinge at the back, metal staple magazine and weighted lower base as mechanically separate, correctly connected parts. Matte to satin black metal with restrained soft upper-left highlights and a small realistic exposed brushed-steel staple channel. A simple generic squared-and-softened design without recognisable branded silhouettes. Absolutely no embossed, engraved or printed letters, numerals, logos or moulded marks anywhere. No loose staples, packaging, paper or additional objects.",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "approvedSource": "_test/stapler-full-strip.png",
+  "exportMethod": "Byte-identical copy of approved 2000px PNG",
+  "status": "selected"
+}

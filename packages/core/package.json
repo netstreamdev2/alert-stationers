@@ -5,13 +5,22 @@
   "description": "Shared domain logic for every Alert Stationers app: money, catalogue types, seed data.",
   "type": "module",
   "exports": {
-    ".": "./src/index.ts"
+    ".": "./src/index.ts",
+    "./inventory": "./src/catalogue/inventory.ts",
+    "./money": "./src/money.ts",
+    "./time": "./src/time.ts",
+    "./pricing": "./src/catalogue/pricing.ts"
   },
   "scripts": {
     "lint": "tsc --noEmit",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
   },
   "devDependencies": {
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "zod": "^4.6.7"
   }
 }

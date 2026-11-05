@@ -1,0 +1,11 @@
+{
+  "id": "notepad-a5-topbound",
+  "product": "notepad-a5-topbound",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A5 Top-bound Notepad, 80 sheets. Specifications: Size: A5; Sheets: 80; Binding: Top glue-bound. Shot notes: A5 ruled pad with a blank top margin. Subject: ONE A5 top-glued notepad of 80 white sheets, ruled with thin evenly spaced pale-grey horizontal lines and a completely blank top margin. No spiral or rings: a plain glued TOP short edge. Slight three-quarter book-like view showing top sheet, modest thickness and paper fibre, no lettering.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-3408363a-1b88-4c3c-80ff-62e96c75d3b9.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

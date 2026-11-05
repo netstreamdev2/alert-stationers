@@ -1,6 +1,6 @@
 import { Aisles } from "@/components/home/aisles";
+import { AppPromo } from "@/components/home/app-promo";
 import { Hero } from "@/components/home/hero";
-import { OneBag } from "@/components/home/one-bag";
 import { ProductSection } from "@/components/home/product-section";
 import { SchoolListsSection } from "@/components/home/school-lists";
 
@@ -36,7 +36,7 @@ export default function HomePage() {
           "sticky-notes-76-4",
         ]}
       />
-      <OneBag />
+      <AppPromo />
     </>
   );
 }

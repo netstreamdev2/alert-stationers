@@ -56,7 +56,39 @@ test("phones get menu, logo and bag; the menu opens and closes with Escape", asy
 });
 
 test("pages that aren't built yet show the branded 404", async ({ page }) => {
-  const response = await page.goto("/shop/writing");
+  const response = await page.goto("/specials");
   expect(response?.status()).toBe(404);
   await expect(page.getByRole("heading", { name: "This aisle is still being stocked." })).toBeVisible();
+});
+
+test("an aisle page lists all its products and filters by shelf", async ({ page }) => {
+  await page.goto("/shop/writing");
+  await expect(page.getByRole("heading", { level: 1, name: "Writing" })).toBeVisible();
+  await expect(page.locator("main article")).toHaveCount(20);
+
+  const shelves = page.getByRole("list", { name: "Writing shelves" });
+  const highlighters = shelves.getByRole("button", { name: /Highlighters/ });
+  await highlighters.click();
+  await expect(highlighters).toHaveAttribute("aria-pressed", "true");
+  await expect(page.locator("main article")).toHaveCount(2);
+  await expect(page.getByText("Showing 2 of 20")).toBeVisible();
+
+  await shelves.getByRole("button", { name: /All/ }).click();
+  await expect(page.locator("main article")).toHaveCount(20);
+});
+
+test("an unknown aisle shows the branded not-found page and is kept out of search", async ({ page }) => {
+  // Soft 404 for now (status 200, see the note in shop/[category]/page.tsx); proxy.ts will
+  // make it a hard 404 before launch, and this test should then assert the status too.
+  await page.goto("/shop/not-an-aisle");
+  await expect(page.getByRole("heading", { name: "This aisle is still being stocked." })).toBeVisible();
+  await expect(page.locator('meta[name="robots"][content*="noindex"]').first()).toBeAttached();
+});
+
+test("the shop page shows every aisle", async ({ page }) => {
+  await page.goto("/shop");
+  await expect(page.getByRole("heading", { level: 1 })).toHaveText("Every aisle, one shop.");
+  for (const name of ["Writing", "Paper & Books", "School", "Art & Craft", "Office & Filing", "Gifts & Planners"]) {
+    await expect(page.getByRole("heading", { level: 2, name })).toBeVisible();
+  }
 });

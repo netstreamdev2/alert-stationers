@@ -1,0 +1,11 @@
+{
+  "id": "coloured-paper-a4-100",
+  "product": "coloured-paper-a4-100",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A4 Coloured Paper, 80gsm, 100 sheets. Specifications: Size: A4; Paper weight: 80gsm; Sheets: 100 assorted. Shot notes: Stack of coloured A4 paper with staggered edges. Subject: ONE stack of ONE HUNDRED A4 sheets of 80gsm coloured paper, with staggered layered edges showing assorted muted red, orange, yellow, green, blue and violet paper. Keep one substantial 100-sheet stack, not loose paper confetti or many separate objects. Fine realistic paper fibre and thickness, completely blank sheets.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-76a9d27f-16bb-428b-b4d7-5076bbe9c167.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

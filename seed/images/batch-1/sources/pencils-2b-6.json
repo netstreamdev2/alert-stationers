@@ -1,0 +1,11 @@
+{
+  "id": "pencils-2b-6",
+  "product": "pencils-2b-6",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: 2B Sketching Pencils, 6-pack. Specifications: Grade: 2B; Body: Hexagonal wood; Pack size: 6 pencils. Shot notes: Six sharpened plain charcoal-grey wooden pencils in a row. Subject: Exactly SIX full-length sharpened wooden 2B pencils with straight HEXAGONAL plain charcoal-grey bodies, pale natural wood cones and centred graphite points. Six separate parallel pencils in one clear row at a modest diagonal, equal lengths, with six points and six flat rear ends visible. No erasers, ferrules, grade labels, stripes or packaging.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-e0bef486-2f57-4302-8c3c-82412e87081a.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

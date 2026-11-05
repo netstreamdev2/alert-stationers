@@ -1,0 +1,11 @@
+{
+  "id": "rollerball-pen-metal",
+  "product": "rollerball-pen-metal",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Metal Rollerball Pen, Black Ink. Specifications: Tip size: 0.7mm; Ink colour: Black; Body: Brushed metal. Shot notes: Generic brushed-metal pen beside a blank sleeve. Subject: ONE generic brushed-metal rollerball pen with black-ink nib, resting diagonally beside ONE slim blank paper presentation sleeve. The cap is fitted to the pen, not another loose metallic object. Brushed silver material, quiet upper-left highlight, simple straight barrel geometry with no famous pen silhouette, engraved marks, lettering or logos.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-cd67491b-4005-4504-8f21-f05aab1a9d22.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

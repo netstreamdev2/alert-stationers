@@ -1,0 +1,13 @@
+{
+  "id": "exercise-book-a4-72--10-pack",
+  "product": "exercise-book-a4-72",
+  "option": "10-pack",
+  "kind": "pack",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: A4 Exercise Book, 72 pages. Specifications: Size: A4; Pages per book: 72; Ruling: Feint ruled. Shot notes: Pale cover with a blank name-label box; the 10-pack is a tied stack of 10. Subject: Exactly TEN thin A4 72-page exercise books, identical pale powder-blue covers and white page blocks, in ONE neatly aligned stack, tied with a simple plain paper cord. Exactly TEN separate pale cover edges and ten white page blocks must be clearly countable along the front edge; do not turn it into one thick book or nine books. The top cover has one empty rectangular white name-label box. Match the orientation of the single exercise book: portrait A4, modest three-quarter turn, front and right edge visible. Only the quantity changes, not cover design, paper colour or camera.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-0fb89939-df16-4386-a7cc-78caa8a89709.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "generated-awaiting-QA",
+  "rejectionReason": "Different camera angle from single-book option"
+}

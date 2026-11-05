@@ -1,0 +1,11 @@
+{
+  "id": "fineliners-10",
+  "product": "fineliners-10",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Fineliners, 10 colours. Specifications: Colours: 10; Tip size: 0.4mm; Includes: Soft wallet. Shot notes: Fan of slim pens in a soft wallet. Subject: Exactly TEN slim fineliners in distinct colours in a gently fanned open SOFT charcoal fabric wallet, one fineliner in each of ten visible slots. Count all ten separate coloured caps and ten straight equal-length pen bodies. Fine 0.4mm format. Plain unprinted wallet, no zipper logo, lettering or extra pens.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-b9b1a87f-de99-4789-bdc0-137443e1f8b1.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

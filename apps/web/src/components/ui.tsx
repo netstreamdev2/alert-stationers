@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { ComponentProps, ReactNode } from "react";
-import { ArrowRightIcon, ArrowUpRightIcon } from "@/components/icons";
+import { ArrowRightIcon, ArrowUpRightIcon, ChevronRightIcon, PulseIcon } from "@/components/icons";
 import { cn } from "@/lib/cn";
 
 const buttonBase =
@@ -23,24 +23,61 @@ export function ButtonLink({
   return <Link className={cn(buttonBase, buttonVariants[variant], className)} {...props} />;
 }
 
-const badgeTones = {
+const tagTones = {
   ink: "bg-ink text-paper",
-  pink: "bg-pink-tint text-pink",
+  brand: "bg-brand text-on-brand",
   muted: "bg-surface text-muted",
   glass: "bg-surface/90 text-ink backdrop-blur",
 } as const;
 
-export function Badge({ tone, children, className }: { tone: keyof typeof badgeTones; children: ReactNode; className?: string }) {
+/** A crisp rectangular sticker, like a price tag, for product states. Never a dot-in-a-pill. */
+export function Tag({ tone, children, className }: { tone: keyof typeof tagTones; children: ReactNode; className?: string }) {
   return (
     <span
       className={cn(
-        "inline-flex h-7 items-center gap-1 rounded-full px-2.5 text-xs font-semibold tabular-nums",
-        badgeTones[tone],
+        "inline-flex h-6 items-center gap-1 rounded-[5px] px-2 text-[11px] font-bold uppercase tracking-[0.06em] tabular-nums",
+        tagTones[tone],
         className,
       )}
     >
       {children}
     </span>
+  );
+}
+
+const labelTones = {
+  muted: "text-muted",
+  pink: "text-pink",
+  "on-contrast": "text-pink-bright",
+  "on-brand": "text-on-brand",
+} as const;
+
+/** A typographic label: small caps behind a short ruled line (or an icon). No container. */
+export function Label({
+  children,
+  tone = "muted",
+  icon,
+  className,
+}: {
+  children: ReactNode;
+  tone?: keyof typeof labelTones;
+  icon?: ReactNode;
+  className?: string;
+}) {
+  return (
+    <p className={cn("eyebrow flex items-center gap-2.5", labelTones[tone], className)}>
+      {icon ?? <span aria-hidden="true" className="h-px w-6 shrink-0 bg-current" />}
+      {children}
+    </p>
+  );
+}
+
+/** "Live" marker: a pulse line that draws itself, instead of a status dot. */
+export function LiveLabel({ children = "Live stock", className }: { children?: ReactNode; className?: string }) {
+  return (
+    <Label tone="pink" className={className} icon={<PulseIcon className="pulse-line size-[18px] shrink-0" strokeWidth={2} />}>
+      {children}
+    </Label>
   );
 }
 
@@ -66,6 +103,29 @@ export function ArrowCircle({ className, tone = "surface" }: { className?: strin
   );
 }
 
+export function Breadcrumbs({ trail }: { trail: { href?: string; label: string }[] }) {
+  return (
+    <nav aria-label="Breadcrumb">
+      <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] text-muted">
+        {trail.map((crumb, index) => (
+          <li key={crumb.label} className="flex items-center gap-2">
+            {index > 0 ? <ChevronRightIcon className="size-3.5" /> : null}
+            {crumb.href ? (
+              <Link href={crumb.href} className="transition-colors hover:text-pink">
+                {crumb.label}
+              </Link>
+            ) : (
+              <span aria-current="page" className="font-semibold text-ink">
+                {crumb.label}
+              </span>
+            )}
+          </li>
+        ))}
+      </ol>
+    </nav>
+  );
+}
+
 export function SectionHeading({
   id,
   eyebrow,
@@ -80,10 +140,10 @@ export function SectionHeading({
   linkLabel?: string;
 }) {
   return (
-    <div className="flex items-end justify-between gap-6">
+    <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-2">
       <div>
-        {eyebrow ? <p className="eyebrow flex items-center gap-2 text-muted">{eyebrow}</p> : null}
-        <h2 id={id} className="type-display mt-2 text-[2rem] font-extrabold leading-none sm:text-[2.5rem]">
+        {eyebrow ? <Label>{eyebrow}</Label> : null}
+        <h2 id={id} className="type-display mt-3 text-[2rem] font-extrabold leading-none sm:text-[2.5rem]">
           {title}
         </h2>
       </div>

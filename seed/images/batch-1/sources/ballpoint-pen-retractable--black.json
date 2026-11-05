@@ -1,0 +1,13 @@
+{
+  "id": "ballpoint-pen-retractable--black",
+  "product": "ballpoint-pen-retractable",
+  "option": "black",
+  "swatch": "#1F1B1E",
+  "kind": "colour",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Retractable Ballpoint Pen, 0.7mm. Specifications: Tip size: 0.7mm; Mechanism: Push button; Body: Matte plastic. Shot notes: One plain matte retractable pen per ink colour, identical pose. Subject: ONE plain matte BLACK #1F1B1E push-button retractable ballpoint pen of 0.7mm format, with neutral silver tip and grey push button/clip, and a clearly bounded matte barrel suitable for identical recoloured options. Complete pen placed diagonally lower left to upper right at 45 degrees, full length visible with tip extended. No letters, branding, stamps, logos or spare parts.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-327d3791-7c87-43dd-a46b-9aef26a392a9.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

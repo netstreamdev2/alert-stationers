@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "quillmere-demo-wholesale",
+    "name": "Quillmere Demo Wholesale",
+    "leadTimeDays": 7,
+    "contactEmail": "quillmere@example.com",
+    "categories": [
+      "writing"
+    ],
+    "demo": true
+  },
+  {
+    "slug": "ledgerfern-demo-supply",
+    "name": "Ledgerfern Demo Supply",
+    "leadTimeDays": 9,
+    "contactEmail": "ledgerfern@example.com",
+    "categories": [
+      "paper-books"
+    ],
+    "demo": true
+  },
+  {
+    "slug": "satchelreed-demo-distribution",
+    "name": "Satchelreed Demo Distribution",
+    "leadTimeDays": 12,
+    "contactEmail": "satchelreed@example.com",
+    "categories": [
+      "school"
+    ],
+    "demo": true
+  },
+  {
+    "slug": "pigmentvale-demo-trade",
+    "name": "Pigmentvale Demo Trade",
+    "leadTimeDays": 10,
+    "contactEmail": "pigmentvale@example.com",
+    "categories": [
+      "art-craft"
+    ],
+    "demo": true
+  },
+  {
+    "slug": "clipthorn-demo-wholesale",
+    "name": "Clipthorn Demo Wholesale",
+    "leadTimeDays": 8,
+    "contactEmail": "clipthorn@example.com",
+    "categories": [
+      "office-filing"
+    ],
+    "demo": true
+  },
+  {
+    "slug": "planterook-demo-supply",
+    "name": "Planterook Demo Supply",
+    "leadTimeDays": 7,
+    "contactEmail": "planterook@example.com",
+    "categories": [
+      "gifts-planners"
+    ],
+    "demo": true
+  }
+]

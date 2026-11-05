@@ -1,6 +1,8 @@
 # Alert Stationers: Proof-of-Concept Seed Data
 
-**Status:** Proposal. This is a fictional catalogue for the proof of concept (POC). None of it is real stock, and none of it ships to production. Every seed record is flagged as demo data so it can be wiped in one step before launch.
+**Status:** In use. This is a fictional catalogue for the proof of concept (POC). None of it is real stock, and none of it ships to production. Every seed record is flagged as demo data so it can be wiped in one step before launch.
+
+> **Expanded (2026-11-05).** The live catalogue is in `seed/data/`: 120 products, 6 school lists across 3 demo schools, 6 suppliers and 3,567 stock movements, made by Astra to `docs/astra/POC-INVENTORY-DATA-BRIEF.md`. The 48 products below are its unchanged core. The demo script depends on them, and `packages/core/test/seed.test.ts` guards their key values.
 
 ---
 

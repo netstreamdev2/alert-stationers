@@ -1,0 +1,11 @@
+{
+  "id": "permanent-markers-black-2",
+  "product": "permanent-markers-black-2",
+  "kind": "single",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Permanent Markers, Black, 2-pack. Specifications: Tip: Bullet; Ink colour: Black; Pack size: 2 markers. Shot notes: Two generic black bullet-tip markers, one uncapped. Subject: Exactly TWO generic black permanent markers with plain unprinted barrels: one CAPPED, the other UNCAPPED with its black bullet tip visible. The one detached cap rests beside its uncapped marker. Two marker bodies total, two caps total including the fitted cap. Parallel diagonal arrangement, realistic matte black plastic.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-dc747838-6486-4f20-85fa-9d039170a356.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

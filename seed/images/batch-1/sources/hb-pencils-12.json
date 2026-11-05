@@ -1,0 +1,13 @@
+{
+  "id": "hb-pencils-12",
+  "product": "hb-pencils-12",
+  "kind": "approved-reexport",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-0b83e93c-aaca-4aa3-8d14-d95a7a5ab9ee.png",
+  "prompt": "Use case: product-mockup. Asset type: fictional South African stationery catalogue POC product photograph. Create ONE photorealistic studio product cut-out, square 2000 x 2000 pixels, PNG with genuine transparent alpha everywhere outside the product. No surface, no backdrop colour, no checkerboard painted into the image, no contact shadow, no cast shadow, no reflections on a floor. Natural shading on the product itself is allowed. Same studio setup throughout this set: large soft key light from upper left, gentle neutral fill from right, neutral white balance, realistic material detail and proportions, crisp focus throughout, front three-quarter camera view from 18 degrees above unless the subject description specifies otherwise. Centre the complete product/group with its longest dimension occupying 75 percent of the canvas and at least 12.5 percent clear margin, no clipping. Absolutely no people, hands, logos, branding, letters, words, numbers, pseudo-writing, watermarks, stamped markings or recognisable branded product designs. Products and packaging must be entirely unprinted; naturally numbered tools are deliberately unmarked. Generate entirely from this description; no web images or outside references. Subject: exactly twelve plain ink-black sharpened HB pencils with straight hexagonal wooden bodies and pale wood cones. Composition is a precise TWO-BY-SIX array: upper bank has exactly SIX complete pencils side by side; lower bank has exactly SIX complete pencils side by side. Both banks are separated by a clear gap. Count six tips in the upper bank and six tips in the lower bank, twelve total. Pencils are completely straight, identical lengths and thicknesses, parallel within each bank, pointing downwards at a very slight diagonal. Every pencil has its own distinct unbroken body, one flat back end and one centred graphite point. No erasers, ferrules, extra pencils or loose graphite, no lettering or stripes. Real matte black lacquer, crisp consistent hexagonal facets. Clean opaque product edges with fine antialiased alpha, no white contamination, no halo or background residue. All twelve must be visible. Do not make a fan or curve any pencil.",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "approvedSource": "_test/hb-pencils-12.png",
+  "exportMethod": "Byte-identical copy of approved 2000px PNG",
+  "status": "selected"
+}

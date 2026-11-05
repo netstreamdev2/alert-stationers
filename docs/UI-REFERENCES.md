@@ -24,7 +24,7 @@ We take the **feel and the patterns** from these references, then apply our own 
 
 1. **Warm paper, not white.** Pages sit on warm paper (`--paper`); cards are white or softly tinted.
 2. **Products live on tinted tiles.** Every product image is a cut-out on a rounded tile in one of six soft tints (blush, sand, sage, sky, lilac, butter). That's why Astra delivers product photos on transparent backgrounds.
-3. **Big radii, pill controls.** Cards about 24–32px radius. Buttons, chips, search and badges are full pills. Icon buttons are circles.
+3. **Big radii, pill controls.** Cards about 24–32px radius. Buttons, filter chips and search are full pills; icon buttons are circles. **Status is never a dot inside a pill:** labels are typographic (small caps behind a ruled line, or a drawn pulse line for "live"), and product states are crisp rectangular stickers, like price tags. Icons are never set inside tinted circles.
 4. **Ink is the primary action.** Primary buttons are ink pills (they invert in dark mode). On ink or pink surfaces, buttons are white pills. **Dark pink marks brand moments:** specials, prices on sale, active states, counts and highlights.
 5. **Brand colour as a surface.** Hero cards, onboarding tops and special promos use solid ink or dark pink as the background, with type knocked out in white or paper.
 6. **Bold headline, italic accent.** Display type is heavy, with the key phrase in italic. That echoes the logo's forward-leaning wordmark.

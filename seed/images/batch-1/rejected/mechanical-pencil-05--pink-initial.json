@@ -1,0 +1,14 @@
+{
+  "id": "mechanical-pencil-05--pink",
+  "product": "mechanical-pencil-05",
+  "option": "pink",
+  "swatch": "#B3125F",
+  "kind": "colour",
+  "prompt": "Use case: product-mockup. Asset: Alert Stationers fictional POC catalogue product photograph in the APPROVED photographic style: very realistic fine material texture, soft large studio key from upper left, gentle neutral right fill, neutral colour temperature, no harsh reflections. True transparent PNG alpha outside the objects, no surface, no cast/contact shadow, no floor reflection and no baked checkerboard. Square 2000 x 2000. Show product only, centred, full object/group with its VISIBLE longest side occupying 75% of the square (generous 12.5% margins); no cropping. For long thin pens use a strong 40–45 degree diagonal so the full length spans the tile rather than looking tiny in its centre; do not make an excessively wide distant shot. Modest front three-quarter camera from slightly above, using the approved steeper angle for flat books/paper when needed. Natural product self-shading only. No real brands or recognisable branded designs, no logos, words, letters, numerals, glyphs, barcode, watermark, people, hands or unrelated props. All products and packages entirely unprinted. No web references. Inventory: Mechanical Pencil 0.5mm. Specifications: Lead diameter: 0.5mm; Mechanism: Push button; Pack size: 1 pencil. Shot notes: Same pose for each colour. Subject: ONE generic 0.5mm push-button mechanical pencil with a plain matte DARK-PINK #B3125F barrel. Neutral silver tip, silver clip and grey click button; only the broad coloured barrel/grip is pink. The colour area has clear boundaries against the neutral metal/plastic parts, to support exactly matching colour options. Place the complete pencil diagonally from lower left to upper right, showing the button and a short straight 0.5mm lead at the tip. No spare parts or packaging.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-99c78544-875b-4d99-bf18-c722dae5c837.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "generated-awaiting-QA",
+  "rejectionReason": "Background residue and pose drift"
+}

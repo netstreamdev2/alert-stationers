@@ -1,7 +1,10 @@
+import { priceBag } from "@alert/core";
 import Link from "next/link";
-import type { ReactNode } from "react";
-import { BagIcon, HeartIcon, SchoolListIcon, UserIcon } from "@/components/icons";
+import { Suspense, type ReactNode } from "react";
+import { HeartIcon, SchoolListIcon, UserIcon } from "@/components/icons";
+import { readBag } from "@/lib/bag-store";
 import { cn } from "@/lib/cn";
+import { BagLink } from "./bag-link";
 import { Logo } from "./logo";
 import { MobileNav } from "./mobile-nav";
 import { aisleLinks } from "./nav-links";
@@ -36,6 +39,11 @@ function IconLink({
   );
 }
 
+async function HeaderBag() {
+  const { count } = priceBag(await readBag());
+  return <BagLink count={count} />;
+}
+
 /**
  * Rendered as siblings (not one wrapper) so the main bar can stay sticky for the whole page
  * while the search row and aisle chips scroll away.
@@ -55,9 +63,10 @@ export function SiteHeader() {
             <IconLink href="/wishlist" label="Wishlist" onPhones={false}>
               <HeartIcon />
             </IconLink>
-            <IconLink href="/bag" label="Bag, empty" className="-mr-2 sm:mr-0">
-              <BagIcon />
-            </IconLink>
+            {/* The bag reads the shopper's cookie, so it streams in; the empty bag shows first. */}
+            <Suspense fallback={<BagLink count={0} />}>
+              <HeaderBag />
+            </Suspense>
           </nav>
         </div>
       </header>

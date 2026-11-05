@@ -1,0 +1,15 @@
+{
+  "product": "notebook-a5-dotted",
+  "base": "C:/dev/alertStationers/seed/images/products/notebook-a5-dotted--blush.png",
+  "key": "ink",
+  "hex": "#232C45",
+  "part": "blush linen cover, spine and horizontal elastic band",
+  "id": "notebook-a5-dotted--ink",
+  "kind": "colour-edit",
+  "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, not a mood reference. Change ONLY the colour of the blush linen cover, spine and horizontal elastic band to match material base swatch #232C45 (ink). Preserve absolutely all geometry, pose, perspective, exact object boundaries, framing, location, scale, surface texture, shadow/highlight pattern, stitching/weave, optical focus and every other pixel. Do not redraw, restyle, reframe, zoom or rotate. The result must overlay the original perfectly. Preserve the original white paper or neutral silver parts unchanged. Preserve the entire transparent background and all alpha edges, no new shadow. Output one square RGBA PNG, 2000x2000, matching the input canvas. No people, hands, text, labels, logos, numerals, watermarks or extra objects.",
+  "source": "C:\\Users\\shiva\\.codex\\generated_images\\01a1abc3-6cca-72a2-a580-3ab91488ee5d\\exec-35267df1-57b4-4a30-89ae-1a7c2bf5d93f.png",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "transparent_background": true,
+  "status": "selected"
+}

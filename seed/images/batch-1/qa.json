@@ -1,0 +1,1162 @@
+{
+  "batch": 1,
+  "status": "review-ready",
+  "scope": "Writing and Paper & Books, plus six approved test reexports",
+  "counts": {
+    "catalogueProducts": 40,
+    "writingPhotos": 24,
+    "paperBooksPhotos": 25,
+    "batchPhotos": 49,
+    "approvedTestReexports": 6,
+    "totalProductPngs": 53,
+    "fullyCreditedProductPngs": 53
+  },
+  "userColourMethodChoice": "Use AI edits and check for pose drift",
+  "tool": "image_gen.imagegen (model identifier not exposed)",
+  "export": "2000px RGBA PNG, resampled from 1254px originals; System.Drawing visible-bound framing",
+  "checklist": [
+    {
+      "item": "One grid, common light, angle, margin and colour temperature",
+      "result": "passed visual review on paper and ink",
+      "evidence": [
+        "contact-sheet-paper.png",
+        "contact-sheet-ink.png"
+      ]
+    },
+    {
+      "item": "Matches shot list: count, colour and size",
+      "result": "passed visual review",
+      "notes": "Visible small-pack quantities counted; concealed sheet/page quantities represented by appropriate stack/ream thickness and packaging. Ten exercise books and five-by-five DL envelopes retained."
+    },
+    {
+      "item": "No text, logos or AI artefacts at 100% zoom",
+      "result": "passed visual review of complete views and native-pixel detail crops",
+      "evidence": [
+        "review/inspection-1.png",
+        "review/inspection-2.png",
+        "review/inspection-3.png",
+        "review/inspection-4.png",
+        "review/inspection-5.png",
+        "review/inspection-6.png"
+      ],
+      "notes": "Rejected first pencil variants with background residue and first ten-pack with mismatched perspective."
+    },
+    {
+      "item": "Option images have identical pose/framing; only colour or quantity changes",
+      "result": "visual pose/framing matched; pixel-level edge and texture differences disclosed",
+      "notes": "User selected AI edits. Colour variants share one base target and export frame; not byte-identical recolours. Eight quantitative alpha-silhouette comparisons included. Pack revision uses the single book as edit target; cord is present only on ten-pack as required."
+    },
+    {
+      "item": "Filenames match product slugs and exact option keys",
+      "result": "passed automated check",
+      "notes": "49 expanded batch paths plus four approved carryovers outside these categories; no plain files for option products."
+    }
+  ],
+  "automated": {
+    "exactInventoryCoverage": true,
+    "all53Pngs2000Square": true,
+    "all53HaveRealAlphaAndTransparentCorners": true,
+    "all53HaveOverOneMillionFullyTransparentPixels": true,
+    "all53HaveMatchingCreditsAndFullPrompts": true,
+    "allHashesMatchManifest": true,
+    "noGalleryOrBannerOutputs": true
+  },
+  "approvedReexports": [
+    {
+      "file": "hb-pencils-12.png",
+      "approvedTestUnchanged": true,
+      "productCopyIdentical": true,
+      "notes": "Unchanged approved PNG copy"
+    },
+    {
+      "file": "notebook-a5-dotted--blush.png",
+      "approvedTestUnchanged": true,
+      "productCopyIdentical": true,
+      "notes": "Unchanged approved PNG copy"
+    },
+    {
+      "file": "backpack-25l--navy.png",
+      "approvedTestUnchanged": true,
+      "productCopyIdentical": true,
+      "notes": "Unchanged approved PNG copy"
+    },
+    {
+      "file": "maths-set-9.png",
+      "approvedTestUnchanged": true,
+      "productCopyIdentical": true,
+      "notes": "Unchanged approved PNG copy"
+    },
+    {
+      "file": "acrylic-paint-12.png",
+      "approvedTestUnchanged": true,
+      "productCopyIdentical": false,
+      "notes": "Same source, 75% visible longest-side framing per review"
+    },
+    {
+      "file": "stapler-full-strip.png",
+      "approvedTestUnchanged": true,
+      "productCopyIdentical": true,
+      "notes": "Unchanged approved PNG copy"
+    }
+  ],
+  "colourComparisons": [
+    {
+      "id": "mechanical-pencil-05--pink",
+      "base": "C:/dev/alertStationers/seed/images/products/mechanical-pencil-05--black.png",
+      "comparison": {
+        "Union": 250021,
+        "Intersection": 245374,
+        "DifferentAlphaPixels": 81778,
+        "SilhouetteIoU": 0.9814135612608541,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "mechanical-pencil-05--teal",
+      "base": "C:/dev/alertStationers/seed/images/products/mechanical-pencil-05--black.png",
+      "comparison": {
+        "Union": 248724,
+        "Intersection": 244924,
+        "DifferentAlphaPixels": 80377,
+        "SilhouetteIoU": 0.9847220211961853,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "notebook-a5-dotted--ink",
+      "base": "C:/dev/alertStationers/seed/images/products/notebook-a5-dotted--blush.png",
+      "comparison": {
+        "Union": 1140578,
+        "Intersection": 1136232,
+        "DifferentAlphaPixels": 404749,
+        "SilhouetteIoU": 0.9961896512119294,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "notebook-a5-dotted--sage",
+      "base": "C:/dev/alertStationers/seed/images/products/notebook-a5-dotted--blush.png",
+      "comparison": {
+        "Union": 1139960,
+        "Intersection": 1136168,
+        "DifferentAlphaPixels": 434910,
+        "SilhouetteIoU": 0.9966735674935963,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "ballpoint-pen-retractable--blue",
+      "base": "C:/dev/alertStationers/seed/images/products/ballpoint-pen-retractable--black.png",
+      "comparison": {
+        "Union": 292444,
+        "Intersection": 287580,
+        "DifferentAlphaPixels": 128519,
+        "SilhouetteIoU": 0.9833677558780485,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "ballpoint-pen-retractable--red",
+      "base": "C:/dev/alertStationers/seed/images/products/ballpoint-pen-retractable--black.png",
+      "comparison": {
+        "Union": 290851,
+        "Intersection": 287834,
+        "DifferentAlphaPixels": 120093,
+        "SilhouetteIoU": 0.9896269911397932,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "notebook-a6-ruled--sage",
+      "base": "C:/dev/alertStationers/seed/images/products/notebook-a6-ruled--navy.png",
+      "comparison": {
+        "Union": 1423252,
+        "Intersection": 1418181,
+        "DifferentAlphaPixels": 697902,
+        "SilhouetteIoU": 0.9964370329358399,
+        "Width": 2000,
+        "Height": 2000
+      }
+    },
+    {
+      "id": "notebook-a6-ruled--blush",
+      "base": "C:/dev/alertStationers/seed/images/products/notebook-a6-ruled--navy.png",
+      "comparison": {
+        "Union": 1424055,
+        "Intersection": 1417583,
+        "DifferentAlphaPixels": 678049,
+        "SilhouetteIoU": 0.9954552317150672,
+        "Width": 2000,
+        "Height": 2000
+      }
+    }
+  ],
+  "pngChecks": [
+    {
+      "id": "ballpoint-pens-blue-10",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 441,
+        "Right": 1749,
+        "Bottom": 1558,
+        "VisibleLeft": 252,
+        "VisibleTop": 444,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1555,
+        "Transparent": 2996247,
+        "Partial": 997710,
+        "Opaque": 6043
+      }
+    },
+    {
+      "id": "gel-pens-6",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 321,
+        "Right": 1749,
+        "Bottom": 1677,
+        "VisibleLeft": 252,
+        "VisibleTop": 324,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1675,
+        "Transparent": 2947542,
+        "Partial": 1041925,
+        "Opaque": 10533
+      }
+    },
+    {
+      "id": "hb-pencils-12",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 257,
+        "Top": 250,
+        "Right": 1741,
+        "Bottom": 1749,
+        "VisibleLeft": 705,
+        "VisibleTop": 281,
+        "VisibleRight": 1303,
+        "VisibleBottom": 1743,
+        "Transparent": 3490695,
+        "Partial": 499619,
+        "Opaque": 9686
+      }
+    },
+    {
+      "id": "mechanical-pencil-05--pink",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 265,
+        "Top": 250,
+        "Right": 1737,
+        "Bottom": 1748,
+        "VisibleLeft": 269,
+        "VisibleTop": 253,
+        "VisibleRight": 1734,
+        "VisibleBottom": 1744,
+        "Transparent": 3732643,
+        "Partial": 264675,
+        "Opaque": 2682
+      }
+    },
+    {
+      "id": "mechanical-pencil-05--black",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 263,
+        "Top": 248,
+        "Right": 1738,
+        "Bottom": 1749,
+        "VisibleLeft": 267,
+        "VisibleTop": 252,
+        "VisibleRight": 1735,
+        "VisibleBottom": 1746,
+        "Transparent": 3738372,
+        "Partial": 258647,
+        "Opaque": 2981
+      }
+    },
+    {
+      "id": "mechanical-pencil-05--teal",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 265,
+        "Top": 250,
+        "Right": 1737,
+        "Bottom": 1748,
+        "VisibleLeft": 268,
+        "VisibleTop": 253,
+        "VisibleRight": 1734,
+        "VisibleBottom": 1745,
+        "Transparent": 3736001,
+        "Partial": 261292,
+        "Opaque": 2707
+      }
+    },
+    {
+      "id": "highlighters-4",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 362,
+        "Right": 1749,
+        "Bottom": 1637,
+        "VisibleLeft": 252,
+        "VisibleTop": 365,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1634,
+        "Transparent": 2880347,
+        "Partial": 1113956,
+        "Opaque": 5697
+      }
+    },
+    {
+      "id": "fineliners-10",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 257,
+        "Top": 250,
+        "Right": 1742,
+        "Bottom": 1749,
+        "VisibleLeft": 259,
+        "VisibleTop": 252,
+        "VisibleRight": 1740,
+        "VisibleBottom": 1747,
+        "Transparent": 2338160,
+        "Partial": 1659072,
+        "Opaque": 2768
+      }
+    },
+    {
+      "id": "fountain-pen-steel",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 251,
+        "Top": 250,
+        "Right": 1747,
+        "Bottom": 1749,
+        "VisibleLeft": 253,
+        "VisibleTop": 253,
+        "VisibleRight": 1745,
+        "VisibleBottom": 1747,
+        "Transparent": 3388132,
+        "Partial": 609750,
+        "Opaque": 2118
+      }
+    },
+    {
+      "id": "whiteboard-markers-4",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 287,
+        "Right": 1749,
+        "Bottom": 1711,
+        "VisibleLeft": 253,
+        "VisibleTop": 289,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1709,
+        "Transparent": 2810839,
+        "Partial": 1185946,
+        "Opaque": 3215
+      }
+    },
+    {
+      "id": "exercise-book-a4-72--single",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 324,
+        "Top": 250,
+        "Right": 1675,
+        "Bottom": 1749,
+        "VisibleLeft": 326,
+        "VisibleTop": 253,
+        "VisibleRight": 1672,
+        "VisibleBottom": 1746,
+        "Transparent": 2573164,
+        "Partial": 1424492,
+        "Opaque": 2344
+      }
+    },
+    {
+      "id": "exercise-book-a4-72--10-pack",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 359,
+        "Top": 250,
+        "Right": 1639,
+        "Bottom": 1749,
+        "VisibleLeft": 361,
+        "VisibleTop": 252,
+        "VisibleRight": 1637,
+        "VisibleBottom": 1746,
+        "Transparent": 2543571,
+        "Partial": 1453666,
+        "Opaque": 2763
+      }
+    },
+    {
+      "id": "hardcover-book-a4-192",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 250,
+        "Right": 1749,
+        "Bottom": 1749,
+        "VisibleLeft": 252,
+        "VisibleTop": 253,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1746,
+        "Transparent": 2531501,
+        "Partial": 1465945,
+        "Opaque": 2554
+      }
+    },
+    {
+      "id": "notebook-a5-dotted--blush",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 252,
+        "Right": 1749,
+        "Bottom": 1747,
+        "VisibleLeft": 347,
+        "VisibleTop": 353,
+        "VisibleRight": 1648,
+        "VisibleBottom": 1656,
+        "Transparent": 2824563,
+        "Partial": 1173702,
+        "Opaque": 1735
+      }
+    },
+    {
+      "id": "notebook-a5-dotted--ink",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 345,
+        "Top": 351,
+        "Right": 1650,
+        "Bottom": 1658,
+        "VisibleLeft": 349,
+        "VisibleTop": 354,
+        "VisibleRight": 1647,
+        "VisibleBottom": 1656,
+        "Transparent": 2844831,
+        "Partial": 1151637,
+        "Opaque": 3532
+      }
+    },
+    {
+      "id": "notebook-a5-dotted--sage",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 345,
+        "Top": 351,
+        "Right": 1650,
+        "Bottom": 1658,
+        "VisibleLeft": 348,
+        "VisibleTop": 354,
+        "VisibleRight": 1648,
+        "VisibleBottom": 1655,
+        "Transparent": 2821874,
+        "Partial": 1177077,
+        "Opaque": 1049
+      }
+    },
+    {
+      "id": "printing-paper-a4-80",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 373,
+        "Right": 1749,
+        "Bottom": 1625,
+        "VisibleLeft": 252,
+        "VisibleTop": 375,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1623,
+        "Transparent": 2817856,
+        "Partial": 1180301,
+        "Opaque": 1843
+      }
+    },
+    {
+      "id": "sticky-notes-76-4",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 280,
+        "Top": 250,
+        "Right": 1718,
+        "Bottom": 1749,
+        "VisibleLeft": 282,
+        "VisibleTop": 252,
+        "VisibleRight": 1715,
+        "VisibleBottom": 1747,
+        "Transparent": 2621213,
+        "Partial": 1376651,
+        "Opaque": 2136
+      }
+    },
+    {
+      "id": "notepad-a4-spiral",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 276,
+        "Top": 250,
+        "Right": 1722,
+        "Bottom": 1749,
+        "VisibleLeft": 278,
+        "VisibleTop": 252,
+        "VisibleRight": 1720,
+        "VisibleBottom": 1746,
+        "Transparent": 2661781,
+        "Partial": 1336683,
+        "Opaque": 1536
+      }
+    },
+    {
+      "id": "envelopes-dl-25",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 282,
+        "Right": 1749,
+        "Bottom": 1717,
+        "VisibleLeft": 253,
+        "VisibleTop": 284,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1714,
+        "Transparent": 2519940,
+        "Partial": 1476063,
+        "Opaque": 3997
+      }
+    },
+    {
+      "id": "graph-book-a4",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 513,
+        "Right": 1749,
+        "Bottom": 1486,
+        "VisibleLeft": 252,
+        "VisibleTop": 515,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1483,
+        "Transparent": 2627425,
+        "Partial": 1370007,
+        "Opaque": 2568
+      }
+    },
+    {
+      "id": "ballpoint-pens-black-10",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 417,
+        "Right": 1749,
+        "Bottom": 1581,
+        "VisibleLeft": 252,
+        "VisibleTop": 420,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1579,
+        "Transparent": 2974015,
+        "Partial": 1020997,
+        "Opaque": 4988
+      }
+    },
+    {
+      "id": "ballpoint-pen-retractable--black",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 277,
+        "Top": 250,
+        "Right": 1721,
+        "Bottom": 1749,
+        "VisibleLeft": 279,
+        "VisibleTop": 253,
+        "VisibleRight": 1719,
+        "VisibleBottom": 1746,
+        "Transparent": 3697633,
+        "Partial": 299627,
+        "Opaque": 2740
+      }
+    },
+    {
+      "id": "ballpoint-pen-retractable--blue",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 277,
+        "Top": 251,
+        "Right": 1721,
+        "Bottom": 1748,
+        "VisibleLeft": 280,
+        "VisibleTop": 253,
+        "VisibleRight": 1718,
+        "VisibleBottom": 1745,
+        "Transparent": 3689187,
+        "Partial": 308065,
+        "Opaque": 2748
+      }
+    },
+    {
+      "id": "ballpoint-pen-retractable--red",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 277,
+        "Top": 251,
+        "Right": 1721,
+        "Bottom": 1748,
+        "VisibleLeft": 281,
+        "VisibleTop": 254,
+        "VisibleRight": 1719,
+        "VisibleBottom": 1745,
+        "Transparent": 3694059,
+        "Partial": 302934,
+        "Opaque": 3007
+      }
+    },
+    {
+      "id": "gel-pen-black-07",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 262,
+        "Top": 250,
+        "Right": 1737,
+        "Bottom": 1749,
+        "VisibleLeft": 264,
+        "VisibleTop": 252,
+        "VisibleRight": 1735,
+        "VisibleBottom": 1746,
+        "Transparent": 3684085,
+        "Partial": 313757,
+        "Opaque": 2158
+      }
+    },
+    {
+      "id": "pencils-2b-6",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 300,
+        "Top": 250,
+        "Right": 1699,
+        "Bottom": 1749,
+        "VisibleLeft": 302,
+        "VisibleTop": 252,
+        "VisibleRight": 1697,
+        "VisibleBottom": 1746,
+        "Transparent": 3224153,
+        "Partial": 769223,
+        "Opaque": 6624
+      }
+    },
+    {
+      "id": "mechanical-leads-05-hb",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 257,
+        "Top": 250,
+        "Right": 1741,
+        "Bottom": 1749,
+        "VisibleLeft": 260,
+        "VisibleTop": 254,
+        "VisibleRight": 1738,
+        "VisibleBottom": 1746,
+        "Transparent": 3266270,
+        "Partial": 730692,
+        "Opaque": 3038
+      }
+    },
+    {
+      "id": "permanent-markers-black-2",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 256,
+        "Top": 250,
+        "Right": 1743,
+        "Bottom": 1749,
+        "VisibleLeft": 259,
+        "VisibleTop": 253,
+        "VisibleRight": 1740,
+        "VisibleBottom": 1747,
+        "Transparent": 3215486,
+        "Partial": 779837,
+        "Opaque": 4677
+      }
+    },
+    {
+      "id": "highlighter-pastel-6",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 427,
+        "Right": 1749,
+        "Bottom": 1571,
+        "VisibleLeft": 253,
+        "VisibleTop": 430,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1568,
+        "Transparent": 2352702,
+        "Partial": 1643090,
+        "Opaque": 4208
+      }
+    },
+    {
+      "id": "fineliner-black-03",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 255,
+        "Top": 250,
+        "Right": 1743,
+        "Bottom": 1749,
+        "VisibleLeft": 257,
+        "VisibleTop": 253,
+        "VisibleRight": 1741,
+        "VisibleBottom": 1747,
+        "Transparent": 3754616,
+        "Partial": 242254,
+        "Opaque": 3130
+      }
+    },
+    {
+      "id": "rollerball-pen-metal",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 275,
+        "Right": 1749,
+        "Bottom": 1723,
+        "VisibleLeft": 252,
+        "VisibleTop": 277,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1720,
+        "Transparent": 3314816,
+        "Partial": 683338,
+        "Opaque": 1846
+      }
+    },
+    {
+      "id": "correction-tape-5mm",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 361,
+        "Right": 1749,
+        "Bottom": 1638,
+        "VisibleLeft": 253,
+        "VisibleTop": 363,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1635,
+        "Transparent": 2855987,
+        "Partial": 1142121,
+        "Opaque": 1892
+      }
+    },
+    {
+      "id": "correction-fluid-20ml",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 682,
+        "Top": 250,
+        "Right": 1316,
+        "Bottom": 1749,
+        "VisibleLeft": 684,
+        "VisibleTop": 253,
+        "VisibleRight": 1313,
+        "VisibleBottom": 1746,
+        "Transparent": 3174173,
+        "Partial": 823036,
+        "Opaque": 2791
+      }
+    },
+    {
+      "id": "fountain-ink-cartridges-blue-6",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 351,
+        "Right": 1749,
+        "Bottom": 1647,
+        "VisibleLeft": 252,
+        "VisibleTop": 353,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1645,
+        "Transparent": 2914881,
+        "Partial": 1082968,
+        "Opaque": 2151
+      }
+    },
+    {
+      "id": "exercise-book-a5-32",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 514,
+        "Top": 250,
+        "Right": 1484,
+        "Bottom": 1749,
+        "VisibleLeft": 516,
+        "VisibleTop": 253,
+        "VisibleRight": 1481,
+        "VisibleBottom": 1746,
+        "Transparent": 2679381,
+        "Partial": 1317666,
+        "Opaque": 2953
+      }
+    },
+    {
+      "id": "hardcover-book-a5-192",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 286,
+        "Top": 250,
+        "Right": 1713,
+        "Bottom": 1749,
+        "VisibleLeft": 288,
+        "VisibleTop": 252,
+        "VisibleRight": 1711,
+        "VisibleBottom": 1747,
+        "Transparent": 2597233,
+        "Partial": 1400343,
+        "Opaque": 2424
+      }
+    },
+    {
+      "id": "notebook-a6-ruled--navy",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 263,
+        "Right": 1749,
+        "Bottom": 1736,
+        "VisibleLeft": 252,
+        "VisibleTop": 266,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1733,
+        "Transparent": 2554885,
+        "Partial": 1443051,
+        "Opaque": 2064
+      }
+    },
+    {
+      "id": "notebook-a6-ruled--sage",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 264,
+        "Right": 1749,
+        "Bottom": 1735,
+        "VisibleLeft": 254,
+        "VisibleTop": 267,
+        "VisibleRight": 1745,
+        "VisibleBottom": 1732,
+        "Transparent": 2525734,
+        "Partial": 1473071,
+        "Opaque": 1195
+      }
+    },
+    {
+      "id": "notebook-a6-ruled--blush",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 264,
+        "Right": 1749,
+        "Bottom": 1735,
+        "VisibleLeft": 254,
+        "VisibleTop": 267,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1732,
+        "Transparent": 2522546,
+        "Partial": 1476056,
+        "Opaque": 1398
+      }
+    },
+    {
+      "id": "printing-paper-a3-80",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 421,
+        "Right": 1749,
+        "Bottom": 1578,
+        "VisibleLeft": 253,
+        "VisibleTop": 424,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1575,
+        "Transparent": 2903094,
+        "Partial": 1094657,
+        "Opaque": 2249
+      }
+    },
+    {
+      "id": "sticky-flags-5",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 442,
+        "Right": 1749,
+        "Bottom": 1556,
+        "VisibleLeft": 253,
+        "VisibleTop": 445,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1554,
+        "Transparent": 2339507,
+        "Partial": 1659925,
+        "Opaque": 568
+      }
+    },
+    {
+      "id": "notepad-a5-topbound",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 279,
+        "Top": 250,
+        "Right": 1719,
+        "Bottom": 1749,
+        "VisibleLeft": 281,
+        "VisibleTop": 253,
+        "VisibleRight": 1716,
+        "VisibleBottom": 1746,
+        "Transparent": 2661005,
+        "Partial": 1337207,
+        "Opaque": 1788
+      }
+    },
+    {
+      "id": "envelopes-c4-10",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 359,
+        "Right": 1749,
+        "Bottom": 1639,
+        "VisibleLeft": 252,
+        "VisibleTop": 361,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1636,
+        "Transparent": 2581028,
+        "Partial": 1415480,
+        "Opaque": 3492
+      }
+    },
+    {
+      "id": "graph-pad-a4-50",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 263,
+        "Top": 250,
+        "Right": 1736,
+        "Bottom": 1749,
+        "VisibleLeft": 266,
+        "VisibleTop": 253,
+        "VisibleRight": 1734,
+        "VisibleBottom": 1746,
+        "Transparent": 2816743,
+        "Partial": 1180566,
+        "Opaque": 2691
+      }
+    },
+    {
+      "id": "index-cards-a6-100",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 449,
+        "Right": 1749,
+        "Bottom": 1550,
+        "VisibleLeft": 252,
+        "VisibleTop": 451,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1548,
+        "Transparent": 2884098,
+        "Partial": 1114010,
+        "Opaque": 1892
+      }
+    },
+    {
+      "id": "tracing-paper-a4-50",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 442,
+        "Right": 1749,
+        "Bottom": 1555,
+        "VisibleLeft": 253,
+        "VisibleTop": 445,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1553,
+        "Transparent": 2886854,
+        "Partial": 1110594,
+        "Opaque": 2552
+      }
+    },
+    {
+      "id": "coloured-paper-a4-100",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 407,
+        "Right": 1749,
+        "Bottom": 1591,
+        "VisibleLeft": 253,
+        "VisibleTop": 409,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1588,
+        "Transparent": 2874510,
+        "Partial": 1124170,
+        "Opaque": 1320
+      }
+    },
+    {
+      "id": "exercise-book-a4-quad-96",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 523,
+        "Right": 1749,
+        "Bottom": 1476,
+        "VisibleLeft": 253,
+        "VisibleTop": 525,
+        "VisibleRight": 1747,
+        "VisibleBottom": 1473,
+        "Transparent": 2707335,
+        "Partial": 1290281,
+        "Opaque": 2384
+      }
+    },
+    {
+      "id": "backpack-25l--navy",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 266,
+        "Top": 250,
+        "Right": 1732,
+        "Bottom": 1749,
+        "VisibleLeft": 474,
+        "VisibleTop": 258,
+        "VisibleRight": 1550,
+        "VisibleBottom": 1740,
+        "Transparent": 2718814,
+        "Partial": 1279312,
+        "Opaque": 1874
+      }
+    },
+    {
+      "id": "maths-set-9",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 251,
+        "Right": 1749,
+        "Bottom": 1747,
+        "VisibleLeft": 348,
+        "VisibleTop": 341,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1711,
+        "Transparent": 2301236,
+        "Partial": 1696215,
+        "Opaque": 2549
+      }
+    },
+    {
+      "id": "acrylic-paint-12",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 742,
+        "Right": 1749,
+        "Bottom": 1257,
+        "VisibleLeft": 252,
+        "VisibleTop": 744,
+        "VisibleRight": 1746,
+        "VisibleBottom": 1255,
+        "Transparent": 3284146,
+        "Partial": 709058,
+        "Opaque": 6796
+      }
+    },
+    {
+      "id": "stapler-full-strip",
+      "png": {
+        "Width": 2000,
+        "Height": 2000,
+        "Left": 250,
+        "Top": 388,
+        "Right": 1749,
+        "Bottom": 1610,
+        "VisibleLeft": 297,
+        "VisibleTop": 505,
+        "VisibleRight": 1729,
+        "VisibleBottom": 1458,
+        "Transparent": 3091985,
+        "Partial": 905620,
+        "Opaque": 2395
+      }
+    }
+  ],
+  "limitations": [
+    "Native tool output was 1254x1254; PNGs are resampled to 2000x2000, as in approved tests.",
+    "AI colour edits retain small non-colour edge/texture pixel differences, despite visually matched pose/framing.",
+    "Exact model identifier is not exposed by the built-in image tool."
+  ],
+  "nextBatchesStarted": false
+}
