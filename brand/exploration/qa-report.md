@@ -1,0 +1,9 @@
+# Phase 0–1 hand-off checks
+
+5 November 2026. All files remain draft; production has not started.
+
+**Automated validation passed:** 87 SVGs, 54 PNGs, 69 semantic manifest entries. Every delivered SVG/PNG has manifest coverage. XML parsing, permitted SVG constructs and IDs, UI/spot grids, UI `currentColor`, exactly two spot colours, asset size budgets, raster dimensions, transparent illustration/mark corners and full app-icon opacity passed. The validator ran with a process-scoped PowerShell execution-policy override because this machine disables script files by default; no persistent policy was changed.
+
+**Visual checks:** all three final 1800×1600 sheets were inspected on paper and ink. UI samples are shown at 16/20/24/32px, spots at 40/64px and both identity proposals at actual 16/40px. Outline/filled silhouettes were compared visually; C's home corners were corrected before the final render. Empty-bag now shows its single paper clip within the opening. There is no text in SVG artwork; review labels remain outside it in HTML. Larger illustrations use only the provisional brief palette. No source images were edited, no external assets were fetched and no icon libraries were used.
+
+**Judgement calls / remaining review:** refresh uses filled tapered arrows inside the outline set to preserve the crescent signature; ordinary outline strokes remain editable strokes. The symbol is a deliberately simplified, single-ring proposal, shared across directions. Raster-reference radii and the 10° working slant carry the uncertainty recorded in the logo analysis. The wordmark, double ring and shadow are omitted from the small mark. Colour confirmation, exact arrow geometry, client direction selection and production optical tuning await the master SVG and approval. No production batch, approved logo replacement or final platform suite is included.

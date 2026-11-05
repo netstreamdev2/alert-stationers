@@ -1,0 +1,1045 @@
+{
+  "phase": "0–1",
+  "status": "draft",
+  "source": "Deliberately constructed SVG; no external assets or icon libraries.",
+  "assets": [
+    {
+      "name": "direction-a/home",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/home.svg",
+        "filled": "exploration/direction-a/icons/ui/filled/home.svg"
+      },
+      "label": "home",
+      "keywords": [
+        "direction-a",
+        "home"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/search",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/search.svg"
+      },
+      "label": "search",
+      "keywords": [
+        "direction-a",
+        "search"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/bag",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/bag.svg",
+        "filled": "exploration/direction-a/icons/ui/filled/bag.svg"
+      },
+      "label": "bag",
+      "keywords": [
+        "direction-a",
+        "bag"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/bag-pencil",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/bag-pencil.svg"
+      },
+      "label": "bag pencil",
+      "keywords": [
+        "direction-a",
+        "bag-pencil"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/heart",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/heart.svg",
+        "filled": "exploration/direction-a/icons/ui/filled/heart.svg"
+      },
+      "label": "heart",
+      "keywords": [
+        "direction-a",
+        "heart"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/user",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/user.svg",
+        "filled": "exploration/direction-a/icons/ui/filled/user.svg"
+      },
+      "label": "user",
+      "keywords": [
+        "direction-a",
+        "user"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/school-list",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/school-list.svg"
+      },
+      "label": "school list",
+      "keywords": [
+        "direction-a",
+        "school-list"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/truck",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/truck.svg"
+      },
+      "label": "truck",
+      "keywords": [
+        "direction-a",
+        "truck"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/edit",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/edit.svg"
+      },
+      "label": "edit",
+      "keywords": [
+        "direction-a",
+        "edit"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/tag-sale",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/tag-sale.svg"
+      },
+      "label": "tag sale",
+      "keywords": [
+        "direction-a",
+        "tag-sale"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/check-circle",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/check-circle.svg"
+      },
+      "label": "check circle",
+      "keywords": [
+        "direction-a",
+        "check-circle"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/package",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/package.svg"
+      },
+      "label": "package",
+      "keywords": [
+        "direction-a",
+        "package"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/bell",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/bell.svg"
+      },
+      "label": "bell",
+      "keywords": [
+        "direction-a",
+        "bell"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/refresh",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-a/icons/ui/outline/refresh.svg"
+      },
+      "label": "refresh",
+      "keywords": [
+        "direction-a",
+        "refresh"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/cat-notebooks",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-a/icons/spot/cat-notebooks.svg"
+      },
+      "label": "cat notebooks",
+      "keywords": [
+        "direction-a",
+        "cat-notebooks"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/cat-pencils",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-a/icons/spot/cat-pencils.svg"
+      },
+      "label": "cat pencils",
+      "keywords": [
+        "direction-a",
+        "cat-pencils"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/spot-free-delivery",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-a/icons/spot/spot-free-delivery.svg"
+      },
+      "label": "spot free delivery",
+      "keywords": [
+        "direction-a",
+        "spot-free-delivery"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/spot-school-lists",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-a/icons/spot/spot-school-lists.svg"
+      },
+      "label": "spot school lists",
+      "keywords": [
+        "direction-a",
+        "spot-school-lists"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/empty-bag",
+      "group": "illustration",
+      "files": {
+        "svg": "exploration/direction-a/illustrations/empty-bag.svg",
+        "dark": "exploration/direction-a/illustrations/empty-bag-dark.svg",
+        "png-480": "exploration/direction-a/illustrations/empty-bag-480.png",
+        "png-720": "exploration/direction-a/illustrations/empty-bag-720.png",
+        "dark-png-480": "exploration/direction-a/illustrations/empty-bag-dark-480.png",
+        "dark-png-720": "exploration/direction-a/illustrations/empty-bag-dark-720.png"
+      },
+      "label": "empty bag",
+      "keywords": [
+        "direction-a",
+        "empty-bag"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/onboarding-01-welcome",
+      "group": "illustration",
+      "files": {
+        "svg": "exploration/direction-a/illustrations/onboarding-01-welcome.svg",
+        "dark": "exploration/direction-a/illustrations/onboarding-01-welcome-dark.svg",
+        "png-400": "exploration/direction-a/illustrations/onboarding-01-welcome-400.png",
+        "png-800": "exploration/direction-a/illustrations/onboarding-01-welcome-800.png",
+        "png-1200": "exploration/direction-a/illustrations/onboarding-01-welcome-1200.png",
+        "dark-png-400": "exploration/direction-a/illustrations/onboarding-01-welcome-dark-400.png",
+        "dark-png-800": "exploration/direction-a/illustrations/onboarding-01-welcome-dark-800.png",
+        "dark-png-1200": "exploration/direction-a/illustrations/onboarding-01-welcome-dark-1200.png"
+      },
+      "label": "onboarding 01 welcome",
+      "keywords": [
+        "direction-a",
+        "onboarding-01-welcome"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/symbol-mark",
+      "group": "platform",
+      "files": {
+        "svg": "exploration/direction-a/platform/symbol-mark.svg",
+        "dark": "exploration/direction-a/platform/symbol-mark-dark.svg",
+        "png-16": "exploration/direction-a/platform/symbol-mark-16.png",
+        "png-40": "exploration/direction-a/platform/symbol-mark-40.png",
+        "dark-png-16": "exploration/direction-a/platform/symbol-mark-dark-16.png",
+        "dark-png-40": "exploration/direction-a/platform/symbol-mark-dark-40.png"
+      },
+      "label": "symbol mark",
+      "keywords": [
+        "direction-a",
+        "symbol-mark"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/app-icon",
+      "group": "platform",
+      "files": {
+        "svg": "exploration/direction-a/platform/app-icon.svg",
+        "png-16": "exploration/direction-a/platform/app-icon-16.png",
+        "png-40": "exploration/direction-a/platform/app-icon-40.png",
+        "png-1024": "exploration/direction-a/platform/app-icon-1024.png"
+      },
+      "label": "app icon",
+      "keywords": [
+        "direction-a",
+        "app-icon"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/home",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/home.svg",
+        "filled": "exploration/direction-b/icons/ui/filled/home.svg"
+      },
+      "label": "home",
+      "keywords": [
+        "direction-b",
+        "home"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/search",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/search.svg"
+      },
+      "label": "search",
+      "keywords": [
+        "direction-b",
+        "search"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/bag",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/bag.svg",
+        "filled": "exploration/direction-b/icons/ui/filled/bag.svg"
+      },
+      "label": "bag",
+      "keywords": [
+        "direction-b",
+        "bag"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/bag-pencil",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/bag-pencil.svg"
+      },
+      "label": "bag pencil",
+      "keywords": [
+        "direction-b",
+        "bag-pencil"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/heart",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/heart.svg",
+        "filled": "exploration/direction-b/icons/ui/filled/heart.svg"
+      },
+      "label": "heart",
+      "keywords": [
+        "direction-b",
+        "heart"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/user",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/user.svg",
+        "filled": "exploration/direction-b/icons/ui/filled/user.svg"
+      },
+      "label": "user",
+      "keywords": [
+        "direction-b",
+        "user"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/school-list",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/school-list.svg"
+      },
+      "label": "school list",
+      "keywords": [
+        "direction-b",
+        "school-list"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/truck",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/truck.svg"
+      },
+      "label": "truck",
+      "keywords": [
+        "direction-b",
+        "truck"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/edit",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/edit.svg"
+      },
+      "label": "edit",
+      "keywords": [
+        "direction-b",
+        "edit"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/tag-sale",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/tag-sale.svg"
+      },
+      "label": "tag sale",
+      "keywords": [
+        "direction-b",
+        "tag-sale"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/check-circle",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/check-circle.svg"
+      },
+      "label": "check circle",
+      "keywords": [
+        "direction-b",
+        "check-circle"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/package",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/package.svg"
+      },
+      "label": "package",
+      "keywords": [
+        "direction-b",
+        "package"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/bell",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/bell.svg"
+      },
+      "label": "bell",
+      "keywords": [
+        "direction-b",
+        "bell"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/refresh",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-b/icons/ui/outline/refresh.svg"
+      },
+      "label": "refresh",
+      "keywords": [
+        "direction-b",
+        "refresh"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/cat-notebooks",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-b/icons/spot/cat-notebooks.svg"
+      },
+      "label": "cat notebooks",
+      "keywords": [
+        "direction-b",
+        "cat-notebooks"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/cat-pencils",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-b/icons/spot/cat-pencils.svg"
+      },
+      "label": "cat pencils",
+      "keywords": [
+        "direction-b",
+        "cat-pencils"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/spot-free-delivery",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-b/icons/spot/spot-free-delivery.svg"
+      },
+      "label": "spot free delivery",
+      "keywords": [
+        "direction-b",
+        "spot-free-delivery"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/spot-school-lists",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-b/icons/spot/spot-school-lists.svg"
+      },
+      "label": "spot school lists",
+      "keywords": [
+        "direction-b",
+        "spot-school-lists"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/empty-bag",
+      "group": "illustration",
+      "files": {
+        "svg": "exploration/direction-b/illustrations/empty-bag.svg",
+        "dark": "exploration/direction-b/illustrations/empty-bag-dark.svg",
+        "png-480": "exploration/direction-b/illustrations/empty-bag-480.png",
+        "png-720": "exploration/direction-b/illustrations/empty-bag-720.png",
+        "dark-png-480": "exploration/direction-b/illustrations/empty-bag-dark-480.png",
+        "dark-png-720": "exploration/direction-b/illustrations/empty-bag-dark-720.png"
+      },
+      "label": "empty bag",
+      "keywords": [
+        "direction-b",
+        "empty-bag"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/onboarding-01-welcome",
+      "group": "illustration",
+      "files": {
+        "svg": "exploration/direction-b/illustrations/onboarding-01-welcome.svg",
+        "dark": "exploration/direction-b/illustrations/onboarding-01-welcome-dark.svg",
+        "png-400": "exploration/direction-b/illustrations/onboarding-01-welcome-400.png",
+        "png-800": "exploration/direction-b/illustrations/onboarding-01-welcome-800.png",
+        "png-1200": "exploration/direction-b/illustrations/onboarding-01-welcome-1200.png",
+        "dark-png-400": "exploration/direction-b/illustrations/onboarding-01-welcome-dark-400.png",
+        "dark-png-800": "exploration/direction-b/illustrations/onboarding-01-welcome-dark-800.png",
+        "dark-png-1200": "exploration/direction-b/illustrations/onboarding-01-welcome-dark-1200.png"
+      },
+      "label": "onboarding 01 welcome",
+      "keywords": [
+        "direction-b",
+        "onboarding-01-welcome"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/symbol-mark",
+      "group": "platform",
+      "files": {
+        "svg": "exploration/direction-b/platform/symbol-mark.svg",
+        "dark": "exploration/direction-b/platform/symbol-mark-dark.svg",
+        "png-16": "exploration/direction-b/platform/symbol-mark-16.png",
+        "png-40": "exploration/direction-b/platform/symbol-mark-40.png",
+        "dark-png-16": "exploration/direction-b/platform/symbol-mark-dark-16.png",
+        "dark-png-40": "exploration/direction-b/platform/symbol-mark-dark-40.png"
+      },
+      "label": "symbol mark",
+      "keywords": [
+        "direction-b",
+        "symbol-mark"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-b/app-icon",
+      "group": "platform",
+      "files": {
+        "svg": "exploration/direction-b/platform/app-icon.svg",
+        "png-16": "exploration/direction-b/platform/app-icon-16.png",
+        "png-40": "exploration/direction-b/platform/app-icon-40.png",
+        "png-1024": "exploration/direction-b/platform/app-icon-1024.png"
+      },
+      "label": "app icon",
+      "keywords": [
+        "direction-b",
+        "app-icon"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/home",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/home.svg",
+        "filled": "exploration/direction-c/icons/ui/filled/home.svg"
+      },
+      "label": "home",
+      "keywords": [
+        "direction-c",
+        "home"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/search",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/search.svg"
+      },
+      "label": "search",
+      "keywords": [
+        "direction-c",
+        "search"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/bag",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/bag.svg",
+        "filled": "exploration/direction-c/icons/ui/filled/bag.svg"
+      },
+      "label": "bag",
+      "keywords": [
+        "direction-c",
+        "bag"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/bag-pencil",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/bag-pencil.svg"
+      },
+      "label": "bag pencil",
+      "keywords": [
+        "direction-c",
+        "bag-pencil"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/heart",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/heart.svg",
+        "filled": "exploration/direction-c/icons/ui/filled/heart.svg"
+      },
+      "label": "heart",
+      "keywords": [
+        "direction-c",
+        "heart"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/user",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/user.svg",
+        "filled": "exploration/direction-c/icons/ui/filled/user.svg"
+      },
+      "label": "user",
+      "keywords": [
+        "direction-c",
+        "user"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/school-list",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/school-list.svg"
+      },
+      "label": "school list",
+      "keywords": [
+        "direction-c",
+        "school-list"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/truck",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/truck.svg"
+      },
+      "label": "truck",
+      "keywords": [
+        "direction-c",
+        "truck"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/edit",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/edit.svg"
+      },
+      "label": "edit",
+      "keywords": [
+        "direction-c",
+        "edit"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/tag-sale",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/tag-sale.svg"
+      },
+      "label": "tag sale",
+      "keywords": [
+        "direction-c",
+        "tag-sale"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/check-circle",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/check-circle.svg"
+      },
+      "label": "check circle",
+      "keywords": [
+        "direction-c",
+        "check-circle"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/package",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/package.svg"
+      },
+      "label": "package",
+      "keywords": [
+        "direction-c",
+        "package"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/bell",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/bell.svg"
+      },
+      "label": "bell",
+      "keywords": [
+        "direction-c",
+        "bell"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/refresh",
+      "group": "ui",
+      "files": {
+        "outline": "exploration/direction-c/icons/ui/outline/refresh.svg"
+      },
+      "label": "refresh",
+      "keywords": [
+        "direction-c",
+        "refresh"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/cat-notebooks",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-c/icons/spot/cat-notebooks.svg"
+      },
+      "label": "cat notebooks",
+      "keywords": [
+        "direction-c",
+        "cat-notebooks"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/cat-pencils",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-c/icons/spot/cat-pencils.svg"
+      },
+      "label": "cat pencils",
+      "keywords": [
+        "direction-c",
+        "cat-pencils"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/spot-free-delivery",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-c/icons/spot/spot-free-delivery.svg"
+      },
+      "label": "spot free delivery",
+      "keywords": [
+        "direction-c",
+        "spot-free-delivery"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/spot-school-lists",
+      "group": "spot",
+      "files": {
+        "svg": "exploration/direction-c/icons/spot/spot-school-lists.svg"
+      },
+      "label": "spot school lists",
+      "keywords": [
+        "direction-c",
+        "spot-school-lists"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/empty-bag",
+      "group": "illustration",
+      "files": {
+        "svg": "exploration/direction-c/illustrations/empty-bag.svg",
+        "dark": "exploration/direction-c/illustrations/empty-bag-dark.svg",
+        "png-480": "exploration/direction-c/illustrations/empty-bag-480.png",
+        "png-720": "exploration/direction-c/illustrations/empty-bag-720.png",
+        "dark-png-480": "exploration/direction-c/illustrations/empty-bag-dark-480.png",
+        "dark-png-720": "exploration/direction-c/illustrations/empty-bag-dark-720.png"
+      },
+      "label": "empty bag",
+      "keywords": [
+        "direction-c",
+        "empty-bag"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/onboarding-01-welcome",
+      "group": "illustration",
+      "files": {
+        "svg": "exploration/direction-c/illustrations/onboarding-01-welcome.svg",
+        "dark": "exploration/direction-c/illustrations/onboarding-01-welcome-dark.svg",
+        "png-400": "exploration/direction-c/illustrations/onboarding-01-welcome-400.png",
+        "png-800": "exploration/direction-c/illustrations/onboarding-01-welcome-800.png",
+        "png-1200": "exploration/direction-c/illustrations/onboarding-01-welcome-1200.png",
+        "dark-png-400": "exploration/direction-c/illustrations/onboarding-01-welcome-dark-400.png",
+        "dark-png-800": "exploration/direction-c/illustrations/onboarding-01-welcome-dark-800.png",
+        "dark-png-1200": "exploration/direction-c/illustrations/onboarding-01-welcome-dark-1200.png"
+      },
+      "label": "onboarding 01 welcome",
+      "keywords": [
+        "direction-c",
+        "onboarding-01-welcome"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/symbol-mark",
+      "group": "platform",
+      "files": {
+        "svg": "exploration/direction-c/platform/symbol-mark.svg",
+        "dark": "exploration/direction-c/platform/symbol-mark-dark.svg",
+        "png-16": "exploration/direction-c/platform/symbol-mark-16.png",
+        "png-40": "exploration/direction-c/platform/symbol-mark-40.png",
+        "dark-png-16": "exploration/direction-c/platform/symbol-mark-dark-16.png",
+        "dark-png-40": "exploration/direction-c/platform/symbol-mark-dark-40.png"
+      },
+      "label": "symbol mark",
+      "keywords": [
+        "direction-c",
+        "symbol-mark"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-c/app-icon",
+      "group": "platform",
+      "files": {
+        "svg": "exploration/direction-c/platform/app-icon.svg",
+        "png-16": "exploration/direction-c/platform/app-icon-16.png",
+        "png-40": "exploration/direction-c/platform/app-icon-40.png",
+        "png-1024": "exploration/direction-c/platform/app-icon-1024.png"
+      },
+      "label": "app icon",
+      "keywords": [
+        "direction-c",
+        "app-icon"
+      ],
+      "status": "draft",
+      "notes": "Phase 1 only; provisional colours; client direction and master SVG pending."
+    },
+    {
+      "name": "direction-a/preview-sheet",
+      "group": "platform",
+      "files": {
+        "png": "exploration/direction-a/preview-sheet.png"
+      },
+      "label": "preview sheet",
+      "keywords": [
+        "direction-a",
+        "preview-sheet"
+      ],
+      "status": "draft",
+      "notes": "Local Chrome SVG raster export; Phase 1 proposal only."
+    },
+    {
+      "name": "direction-b/preview-sheet",
+      "group": "platform",
+      "files": {
+        "png": "exploration/direction-b/preview-sheet.png"
+      },
+      "label": "preview sheet",
+      "keywords": [
+        "direction-b",
+        "preview-sheet"
+      ],
+      "status": "draft",
+      "notes": "Local Chrome SVG raster export; Phase 1 proposal only."
+    },
+    {
+      "name": "direction-c/preview-sheet",
+      "group": "platform",
+      "files": {
+        "png": "exploration/direction-c/preview-sheet.png"
+      },
+      "label": "preview sheet",
+      "keywords": [
+        "direction-c",
+        "preview-sheet"
+      ],
+      "status": "draft",
+      "notes": "Local Chrome SVG raster export; Phase 1 proposal only."
+    }
+  ]
+}

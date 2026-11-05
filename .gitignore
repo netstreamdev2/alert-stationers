@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# builds and caches
+.next/
+out/
+build/
+dist/
+.turbo/
+*.tsbuildinfo
+next-env.d.ts
+
+# env files: never commit secrets
+.env
+.env.*
+!.env.example
+
+# platform
+.vercel/
+.DS_Store
+Thumbs.db
+*.pem
+
+# logs
+*.log
+
+# test output
+coverage/
+test-results/
+playwright-report/
