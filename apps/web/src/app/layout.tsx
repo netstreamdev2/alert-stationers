@@ -1,8 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import { Fraunces, Plus_Jakarta_Sans } from "next/font/google";
-import { AnnouncementBar } from "@/components/site/announcement-bar";
-import { SiteFooter } from "@/components/site/site-footer";
-import { SiteHeader } from "@/components/site/site-header";
 import "./globals.css";
 
 /*
@@ -52,12 +49,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         >
           Skip to content
         </a>
-        <AnnouncementBar />
-        <SiteHeader />
-        <main id="main" className="flex-1">
-          {children}
-        </main>
-        <SiteFooter />
+        {/* The shop's chrome lives in (shop)/layout.tsx; the admin has its own. */}
+        {children}
       </body>
     </html>
   );

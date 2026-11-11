@@ -6,6 +6,7 @@ import { cn } from "@/lib/cn";
 import { SimAccount } from "./sim-account";
 import { SimAisle, SimShop } from "./sim-aisle";
 import { SimBag } from "./sim-bag";
+import { SimCheckout, SimOrder, SimOrders } from "./sim-checkout";
 import { SimHome } from "./sim-home";
 import { SimOnboarding } from "./sim-onboarding";
 import { SimProduct } from "./sim-product";
@@ -92,39 +93,6 @@ function TabBar() {
   );
 }
 
-function CheckoutSheet() {
-  const sim = useSim();
-  if (sim.state.sheet !== "checkout") return null;
-  return (
-    <div className="absolute inset-0 z-50 flex items-end">
-      <button type="button" aria-label="Close" onClick={() => sim.openSheet(null)} className="sim-fade absolute inset-0 bg-device/45" />
-      <div role="dialog" aria-label="Preview" className="sim-sheet relative w-full rounded-t-[28px] bg-paper px-6 pb-10 pt-3">
-        <span aria-hidden="true" className="mx-auto block h-1.5 w-10 rounded-full bg-line-strong" />
-        <p className="mt-5 text-[11px] font-semibold uppercase tracking-[0.12em] text-pink">Preview</p>
-        <p className="type-display mt-1 text-[1.6rem] font-extrabold leading-tight">
-          This is where you&rsquo;d <span className="type-accent text-pink">pay.</span>
-        </p>
-        <p className="mt-2 text-[14px] leading-relaxed text-ink-soft">
-          Checkout, payment and order tracking come with the full app. Everything up to here works with the same products, prices and live stock.
-        </p>
-        <button
-          type="button"
-          onClick={() => {
-            sim.openSheet(null);
-            sim.setTab("home");
-          }}
-          className="mt-6 flex h-14 w-full items-center justify-center rounded-full bg-ink text-[16px] font-semibold text-paper active:scale-[0.98]"
-        >
-          Keep shopping
-        </button>
-        <button type="button" onClick={() => sim.openSheet(null)} className="mt-2 w-full py-2 text-[14px] font-semibold text-muted">
-          Back to bag
-        </button>
-      </div>
-    </div>
-  );
-}
-
 function Screen() {
   const sim = useSim();
   const screen = sim.screen;
@@ -146,6 +114,15 @@ function Screen() {
       break;
     case "scan":
       content = <SimScan />;
+      break;
+    case "checkout":
+      content = <SimCheckout />;
+      break;
+    case "order":
+      content = <SimOrder id={screen.id} />;
+      break;
+    case "orders":
+      content = <SimOrders />;
       break;
     case "tabs":
       content =
@@ -246,7 +223,6 @@ function Phone() {
                 {sim.state.toast.text}
               </p>
             ) : null}
-            <CheckoutSheet />
             <span aria-hidden="true" className={cn("absolute bottom-2 left-1/2 z-50 h-[5px] w-[134px] -translate-x-1/2 rounded-full", lightStatus ? "bg-on-contrast" : "bg-ink")} />
             <div ref={cursorRef} aria-hidden="true" className="sim-touch" />
           </div>

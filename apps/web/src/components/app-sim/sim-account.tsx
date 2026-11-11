@@ -4,7 +4,7 @@ import { ChevronRightIcon } from "@/components/icons";
 import { ScreenHeader } from "./sim-ui";
 import { useSim } from "./sim-store";
 
-const rows = ["Orders", "Saved school lists", "Addresses", "Payment methods", "Notifications"];
+const rows = ["Saved school lists", "Addresses", "Payment methods", "Notifications"];
 
 export function SimAccount() {
   const sim = useSim();
@@ -16,9 +16,15 @@ export function SimAccount() {
           <span aria-hidden="true" className="rule-light pattern-ruled absolute inset-0 -z-10" />
           <p className="text-[12px] font-semibold uppercase tracking-[0.12em] text-pink-bright">Guest</p>
           <p className="type-display mt-1 text-[1.4rem] font-extrabold leading-tight">You&rsquo;re browsing as a guest.</p>
-          <p className="mt-2 text-[13px] text-contrast-muted">Sign-in, saved lists and order tracking come with the full app.</p>
+          <p className="mt-2 text-[13px] text-contrast-muted">Sign-in and saved lists come with the full app. Orders you place here show under Orders.</p>
         </div>
         <ul className="mt-5 divide-y divide-line rounded-[22px] bg-surface px-4 ring-1 ring-line">
+          <li>
+            <button type="button" onClick={() => sim.push({ kind: "orders" })} className="flex w-full items-center justify-between py-4 text-left text-[14px] font-semibold">
+              Orders and tracking
+              <ChevronRightIcon className="size-4 text-muted" />
+            </button>
+          </li>
           {rows.map((row) => (
             <li key={row}>
               <button

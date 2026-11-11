@@ -26,6 +26,7 @@ const columns: { title: string; links: NavLink[] }[] = [
       { href: "/about", label: "About us" },
       { href: "/privacy", label: "Privacy policy" },
       { href: "/terms", label: "Terms of sale" },
+      { href: "/admin", label: "Staff admin (demo)" },
     ],
   },
 ];

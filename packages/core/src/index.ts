@@ -5,3 +5,5 @@ export * from "./catalogue/seed";
 export * from "./catalogue/queries";
 export * from "./catalogue/public";
 export * from "./bag";
+export * from "./orders";
+export * from "./orders-schema";

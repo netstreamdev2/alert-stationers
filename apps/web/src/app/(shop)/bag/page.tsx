@@ -87,14 +87,10 @@ async function BagContents() {
             <p className="text-[1.5rem] font-bold tabular-nums">{formatRand(bag.subtotalCents)}</p>
           </div>
           <p className="mt-1 text-right text-[12px] text-muted">Includes VAT</p>
-          <button
-            type="button"
-            disabled
-            className="mt-6 flex h-14 w-full cursor-not-allowed items-center justify-center rounded-full bg-ink/85 text-[16px] font-semibold text-paper"
-          >
+          <ButtonLink href="/checkout" className="mt-6 h-14 w-full text-[16px]">
             Checkout
-          </button>
-          <p className="mt-3 text-center text-[13px] text-muted">Checkout is the next step of the proof of concept.</p>
+          </ButtonLink>
+          <p className="mt-3 text-center text-[13px] text-muted">Delivery is worked out at checkout.</p>
         </div>
       </aside>
     </div>

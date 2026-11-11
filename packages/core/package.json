@@ -9,7 +9,8 @@
     "./inventory": "./src/catalogue/inventory.ts",
     "./money": "./src/money.ts",
     "./time": "./src/time.ts",
-    "./pricing": "./src/catalogue/pricing.ts"
+    "./pricing": "./src/catalogue/pricing.ts",
+    "./orders": "./src/orders.ts"
   },
   "scripts": {
     "lint": "tsc --noEmit",

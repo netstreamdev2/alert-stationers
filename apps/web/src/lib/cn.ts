@@ -12,7 +12,7 @@ const twMerge = extendTailwindMerge({
         "pink", "pink-press", "pink-tint", "pink-bright", "brand", "on-brand", "magenta", "orchid",
         "contrast", "on-contrast", "contrast-muted",
         "tint-blush", "tint-sand", "tint-sage", "tint-sky", "tint-lilac", "tint-butter",
-        "success", "warning", "error", "device", "sheet", "on-sheet", "sheet-rule",
+        "success", "warning", "error", "device", "sheet", "on-sheet", "sheet-rule", "chart",
       ],
       radius: ["tile", "card"],
       shadow: ["lift"],

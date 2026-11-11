@@ -57,7 +57,7 @@ export function SiteHeader() {
           <Logo preload />
           <SearchForm id="search-desktop" className="hidden max-w-[560px] flex-1 lg:flex" />
           <nav aria-label="Account and bag" className="ml-auto flex shrink-0 items-center gap-0.5 sm:gap-1">
-            <IconLink href="/account" label="Account" onPhones={false}>
+            <IconLink href="/account/orders" label="Your orders" onPhones={false}>
               <UserIcon />
             </IconLink>
             <IconLink href="/wishlist" label="Wishlist" onPhones={false}>

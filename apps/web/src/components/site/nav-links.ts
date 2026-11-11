@@ -19,7 +19,6 @@ export const featureLinks: NavLink[] = [
 ];
 
 export const accountLinks: NavLink[] = [
-  { href: "/account", label: "Account" },
   { href: "/wishlist", label: "Wishlist" },
   { href: "/account/orders", label: "Orders" },
 ];

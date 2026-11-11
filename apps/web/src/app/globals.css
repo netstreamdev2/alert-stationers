@@ -46,6 +46,9 @@
   --warning: #a86200;
   --error: #c8410f;
 
+  /* Single-series charts (validated against the light card surface) */
+  --chart: #b3125f;
+
   /* Device frames in product mock-ups */
   --device: #0b0a0b;
 
@@ -98,6 +101,8 @@
 
     --lift: 0 1px 2px rgb(0 0 0 / 0.4), 0 20px 44px -20px rgb(0 0 0 / 0.75);
     --shot-shadow: drop-shadow(0 14px 14px rgb(0 0 0 / 0.45));
+    /* Validated against the dark card surface */
+    --chart: #e8488f;
   }
 }
 
@@ -137,6 +142,7 @@
   --color-warning: var(--warning);
   --color-error: var(--error);
   --color-device: var(--device);
+  --color-chart: var(--chart);
   --color-sheet: var(--sheet);
   --color-on-sheet: var(--on-sheet);
   --color-sheet-rule: var(--sheet-rule);

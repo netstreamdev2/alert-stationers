@@ -15,7 +15,10 @@ export type Screen =
   | { kind: "tabs" }
   | { kind: "aisle"; category: CategorySlug }
   | { kind: "product"; slug: string }
-  | { kind: "scan" };
+  | { kind: "scan" }
+  | { kind: "checkout" }
+  | { kind: "order"; id: string }
+  | { kind: "orders" };
 
 export interface SimLine {
   slug: string;
@@ -57,6 +60,8 @@ interface State {
 type Action =
   | { type: "push"; screen: Screen }
   | { type: "pop" }
+  | { type: "replace"; screen: Screen }
+  | { type: "clearBag" }
   | { type: "tab"; tab: Tab }
   | { type: "start" }
   | { type: "add"; lines: SimLine[]; max: (line: SimLine) => number }
@@ -73,6 +78,10 @@ function reducer(state: State, action: Action): State {
   switch (action.type) {
     case "push":
       return { ...state, stack: [...state.stack, action.screen], dir: 1 };
+    case "replace":
+      return { ...state, stack: [{ kind: "tabs" }, action.screen], dir: 1 };
+    case "clearBag":
+      return { ...state, bag: [] };
     case "pop":
       return state.stack.length > 1 ? { ...state, stack: state.stack.slice(0, -1), dir: -1 } : state;
     case "tab":
@@ -140,6 +149,9 @@ function useSimState(data: SimData) {
     },
     push: (screen: Screen) => dispatch({ type: "push", screen }),
     pop: () => dispatch({ type: "pop" }),
+    /** Shows a screen on top of the tabs, dropping whatever was in between (e.g. after paying). */
+    replace: (screen: Screen) => dispatch({ type: "replace", screen }),
+    clearBag: () => dispatch({ type: "clearBag" }),
     setTab: (tab: Tab) => dispatch({ type: "tab", tab }),
     start: () => dispatch({ type: "start" }),
     add: (lines: SimLine[]) => dispatch({ type: "add", lines, max: stockOf }),

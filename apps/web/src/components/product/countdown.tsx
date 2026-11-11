@@ -2,42 +2,12 @@
 
 // A client component: import the light entry point, never "@alert/core" (it carries the catalogue).
 import { countdownParts, formatShortDateSA } from "@alert/core/time";
-import { useSyncExternalStore } from "react";
-
-/*
- * One shared one-second clock for every countdown on the page. The server (and the first
- * client render) shows a fixed end date, so the HTML matches during hydration and the
- * live countdown takes over straight after.
- */
-let now = 0;
-const listeners = new Set<() => void>();
-let timer: ReturnType<typeof setInterval> | undefined;
-
-function subscribe(listener: () => void) {
-  listeners.add(listener);
-  if (timer === undefined) {
-    now = Date.now();
-    timer = setInterval(() => {
-      now = Date.now();
-      for (const notify of listeners) notify();
-    }, 1000);
-  }
-  return () => {
-    listeners.delete(listener);
-    if (listeners.size === 0 && timer !== undefined) {
-      clearInterval(timer);
-      timer = undefined;
-    }
-  };
-}
-
-const getSnapshot = () => now;
-const getServerSnapshot = () => 0;
+import { useNow } from "@/lib/use-now";
 
 const pad = (n: number) => n.toString().padStart(2, "0");
 
 export function Countdown({ endsAt, seconds = false }: { endsAt: string; seconds?: boolean }) {
-  const current = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
+  const current = useNow();
   const endsLabel = `Ends ${formatShortDateSA(endsAt)}`;
 
   if (current === 0) return <span>{endsLabel}</span>;

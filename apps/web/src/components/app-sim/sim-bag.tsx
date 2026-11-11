@@ -108,7 +108,7 @@ export function SimBag() {
         </dl>
         <button
           type="button"
-          onClick={() => sim.openSheet("checkout")}
+          onClick={() => sim.push({ kind: "checkout" })}
           className="mt-5 flex h-14 w-full items-center justify-center rounded-full bg-brand text-[16px] font-semibold text-on-brand active:scale-[0.98]"
         >
           Checkout
